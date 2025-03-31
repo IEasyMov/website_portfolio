@@ -37,6 +37,7 @@ const Testimonials = () => {
 
   return (
     <div ref={ref} className="mb-32 space-y-10">
+      {/*
       <motion.div
         className="flex justify-center items-center gap-2 sm:gap-2.5"
         key={`stars-${curIndex}`}
@@ -96,7 +97,7 @@ const Testimonials = () => {
             } rounded-full transition-colors`}
           ></button>
         ))}
-      </div>
+      </div> */}
     </div>
   );
 };

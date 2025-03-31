@@ -1,4 +1,5 @@
 import type { Config } from "tailwindcss";
+import typography from '@tailwindcss/typography'; 
 
 const svgToDataUri = require("mini-svg-data-uri");
 
@@ -18,7 +19,7 @@ const config: Config = {
     extend: {
       colors: {
         primary: {
-          DEFAULT: "#3B82F6",
+          DEFAULT: "#332FD1",
         },
         dark: {
           100: "#0a0a0a",
@@ -44,6 +45,7 @@ const config: Config = {
     },
   },
   plugins: [
+    typography(),
     addVariablesForColors,
     function ({ matchUtilities, theme }: any) {
       matchUtilities(

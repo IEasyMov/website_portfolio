@@ -1,8 +1,11 @@
-import Footer from "@/app/_components/Footer";
+import Footer from "@/app/_components/Footer"; 
 import ProjectTechnologiesMini from "@/app/_components/ProjectTechnologiesMini";
 import { Navbar } from "@/app/_components/ui/Navbar";
 import ShinyButton from "@/app/_components/ui/ShinyButton";
 import { portfolioProjects } from "@/app/_lib/constants";
+import fs from "fs";
+import path from "path";
+import MarkdownContent from "@/app/_components/MarkdownContent";
 import {
   BriefcaseBusiness,
   Code,
@@ -11,6 +14,7 @@ import {
   House,
   MoveDown,
   UserRound,
+  Video,
 } from "lucide-react";
 import Image from "next/image";
 import Link from "next/link";
@@ -34,7 +38,6 @@ export function generateMetadata({
 const navItems = [
   { name: "Home", link: "/", icon: <House /> },
   { name: "Work", link: "/#work", icon: <BriefcaseBusiness /> },
-  { name: "About", link: "/#about", icon: <UserRound /> },
   { name: "Contact", link: "/#contact", icon: <ContactIcon /> },
 ];
 
@@ -47,21 +50,26 @@ const ProjectOverview = ({ params }: { params: { projectName: string } }) => {
   const {
     heading,
     subheading,
-    description,
-    imageUrl,
     techStack,
     liveDemoUrl,
-    sourceCodeUrl,
+    videoUrl
   } = project;
+
+  let markdownContent = '';
+  if (project.contentPath) {
+    const markdownPath = path.join(process.cwd(), 'public', project.contentPath);
+    markdownContent = fs.readFileSync(markdownPath, 'utf-8');
+  }
+
 
   return (
     <main className="flex flex-col px-5 sm:px-10 relative">
-      <div className="max-w-7xl mx-auto w-full">
+      <div className="max-w-7xl mx-auto w-full ">
         <Navbar navItems={navItems} />
 
         <div className="pt-36">
           <div className="h-screen w-full dark:bg-dark-100 bg-white dark:bg-grid-white/[0.04] bg-grid-black/[0.06] absolute top-0 left-0 flex items-center justify-center">
-            <div className="absolute pointer-events-none inset-0 flex items-center justify-center dark:bg-dark-100 bg-white [mask-image:radial-gradient(ellipse_at_center,transparent_20%,black)]" />
+            <div className="absolute pointer-events-none inset-0 flex items-center justify-center dark:bg-dark-100 bg-white [mask-image:radial-gradient(ellipse_at_center,transparent_20%,black)] " />
           </div>
 
           <div className="relative z-10">
@@ -77,43 +85,35 @@ const ProjectOverview = ({ params }: { params: { projectName: string } }) => {
               </Link>
             </div>
 
-            <div className="rounded-lg overflow-hidden" id="image">
-              <Image
-                src={imageUrl}
-                width={2000}
-                height={1000}
-                alt="portfolio"
-              />
-            </div>
-
+{/* Video Section */}
+<div className="rounded-lg overflow-hidden mb-16 aspect-video">
+  <iframe
+    className="w-full h-full rounded-lg"
+    src={videoUrl}
+    title={`${heading} Video`}
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowFullScreen
+  ></iframe>
+</div>
+            {markdownContent && (
+        <div className="mt-16 mb-32 w-full">
+          <MarkdownContent content={markdownContent} />
+        </div>
+      )}
             <div className="mt-8 mb-32 flex flex-col md:flex-row gap-10 md:gap-5 justify-between">
-              <div className="flex-1">
-                <h2 className="text-3xl min-[430px]:text-4xl md:text-5xl dark:text-stone-200 mb-5">
-                  Project Overview
-                </h2>
-
+              <div className="flex items-center">
                 <ProjectTechnologiesMini techStack={techStack} />
-
-                <div className="flex items-center gap-4 mt-10">
-                  <ShinyButton icon={<Globe />} iconPosition="left">
-                    <Link href={liveDemoUrl} target="_blank">
-                      View Demo
-                    </Link>
-                  </ShinyButton>
-
-                  <ShinyButton icon={<Code />} iconPosition="left">
-                    <Link href={sourceCodeUrl} target="_blank">
-                      Source Code
-                    </Link>
-                  </ShinyButton>
-                </div>
               </div>
-
-              <p className="flex-1">{description}</p>
+              <div className="flex items-center">
+                <ShinyButton icon={<Globe />} iconPosition="left">
+                  <Link href={liveDemoUrl} target="_blank">
+                    Play Link
+                  </Link>
+                </ShinyButton>
+              </div>
             </div>
           </div>
         </div>
-
         <Footer />
       </div>
     </main>

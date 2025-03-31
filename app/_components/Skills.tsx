@@ -6,7 +6,7 @@ import { motion } from "framer-motion";
 
 const Skills = () => {
   return (
-    <div className="relative z-10 py-16 sm:py-24" id="about">
+    <div className="relative z-10 py-16 sm:py-24 scale-105" id="about">
       <div className="space-y-4 mb-10">
         <motion.h1
           initial={{ opacity: 0, x: -75 }}
@@ -15,7 +15,7 @@ const Skills = () => {
           transition={{ duration: 0.5, delay: 0.25 }}
           className="text-3xl min-[430px]:text-4xl md:text-5xl font-bold dark:text-stone-200"
         >
-          Current technologies
+          Game Engines & Tools
         </motion.h1>
         <motion.p
           initial={{ opacity: 0, x: -90 }}
@@ -24,9 +24,7 @@ const Skills = () => {
           transition={{ duration: 0.5, delay: 0.25 }}
           className="text-sm min-[430px]:text-base max-w-lg md:max-w-3xl text-dark-200/70 dark:text-stone-200/70"
         >
-          I&apos;m proficient in a range of modern technologies that empower me
-          to build highly functional solutions. These are some of my main
-          technologies.
+          Here are some of the main game engines and tools I&apos;ve used across various projects.
         </motion.p>
       </div>
 
@@ -41,6 +39,7 @@ const Skills = () => {
           <TechCard key={cardItem.name} cardInfo={cardItem} />
         ))}
       </motion.div>
+
     </div>
   );
 };

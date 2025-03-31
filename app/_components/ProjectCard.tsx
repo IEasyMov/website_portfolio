@@ -1,7 +1,6 @@
 "use client";
 
 import { MoveUpRight } from "lucide-react";
-import Image from "next/image";
 import Link from "next/link";
 import ProjectTechnologiesMini from "./ProjectTechnologiesMini";
 
@@ -11,11 +10,11 @@ interface ProjectProps {
   id: string;
   heading: string;
   subheading: string;
-  description: string;
   imageUrl: string;
+  videoUrl: string; // Video URL for hover effect
+  videoGameplayUrl: string; // Video URL for hover effect
   techStack: string[];
   liveDemoUrl: string;
-  sourceCodeUrl: string;
 }
 
 const ProjectCard = ({ project }: { project: ProjectProps }) => {
@@ -29,13 +28,15 @@ const ProjectCard = ({ project }: { project: ProjectProps }) => {
       transition={{ duration: 0.5, delay: 0.25 }}
       className="bg-[#F3F4F3] dark:bg-dark-200 rounded-lg p-4 sm:p-8 space-y-8"
     >
-      <Link href={`/work/${id}`} className="rounded-lg overflow-hidden block">
-        <Image
+      <Link
+        href={`/work/${id}`}
+        className="rounded-lg overflow-hidden block relative group"
+      >
+        {/* Fallback image */}
+        <img
           src={imageUrl}
-          width={1000}
-          height={1000}
           alt={heading}
-          className="hover:scale-110 transition-transform duration-700"
+          className="w-full h-auto"
         />
       </Link>
       <div>

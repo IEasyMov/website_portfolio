@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { BackgroundBeams } from "./ui/BackgroundBeams";
+import { BackgroundBeams }   from "./ui/BackgroundBeams";
 import ShinyButton from "./ui/ShinyButton";
 
 const Footer = () => {
@@ -11,27 +11,37 @@ const Footer = () => {
       <div>
         <div className="space-y-8 p-10">
           <h1 className="text-5xl font-bold max-w-2xl leading-[110%] relative z-10">
-            Like what you see? Reach out{" "}
+            Reach out{" "}
             <Link
-              href="mailto:andrijawebd@gmail.com"
+              href="mailto:v.lacombe.student@gmail.com"
               className="text-primary hover:text-primary/80 border-b-2 border-primary hover:border-primary/80 transition-colors duration-200"
             >
               via email
             </Link>{" "}
-            to collaborate!
+            to collaborate !
           </h1>
-
-          <ShinyButton>
-            <Link href="mailto:andrijawebd@gmail.com">Schedule call</Link>
-          </ShinyButton>
+          <div className="grid gap-x-8 gap-y-4 grid-cols-3">
+            <ShinyButton>
+              <Link href="https://www.linkedin.com/in/victor-lacombe-programer/">Linkedin</Link>
+            </ShinyButton>
+            <ShinyButton>
+              <Link href="https://victor9955.itch.io/">Itch</Link>
+            </ShinyButton>
+            <ShinyButton>
+              <Link href="https://github.com/Victor9955">GitHub</Link>
+            </ShinyButton>
+          </div>
         </div>
 
         <div className="mt-16 p-10 border-t border-dark-200 dark:border-white/10 flex flex-col md:flex-row justify-between gap-10 md:gap-0">
           <div className="space-y-2.5">
             <h3 className="text-xl font-bold relative z-10">
-              Andrija Djordjevic
+              Victor Lacombe
             </h3>
-            <p className="text-dark-200/70 dark:text-stone-200/70 relative z-10">
+            <h3 className="relative z-10">
+              v.lacombe.student@gmail.com
+            </h3>
+            <p className="absolute bottom-7 left-10 text-dark-200/70 dark:text-stone-200/70">
               &copy; 2024 | All rights reserved.
             </p>
           </div>
@@ -43,7 +53,7 @@ const Footer = () => {
                 <Link href="/">Home</Link>
               </li>
               <li className="text-dark-200/60 hover:text-dark-200 dark:text-white/50 dark:hover:text-white">
-                <Link href="#work">Work</Link>
+                <Link href="#work">Projects</Link>
               </li>
               <li className="text-dark-200/60 hover:text-dark-200 dark:text-white/50 dark:hover:text-white">
                 <Link href="#about">About</Link>
@@ -52,57 +62,26 @@ const Footer = () => {
                 <Link href="#contact">Contact</Link>
               </li>
             </ul>
-
-            <ul className="space-y-2.5 relative z-10 text-sm sm:text-base">
-              <li className="text-lg font-semibold">Projects</li>
-              <li className="text-dark-200/60 hover:text-dark-200 dark:text-white/50 dark:hover:text-white">
-                <Link
-                  href="https://github.com/andrijaweb/ecommerce-app"
-                  target="_blank"
-                >
-                  Shoptidy
-                </Link>
-              </li>
-              <li className="text-dark-200/60 hover:text-dark-200 dark:text-white/50 dark:hover:text-white">
-                <Link
-                  href="https://github.com/andrijaweb/socialmedia-reactapp"
-                  target="_blank"
-                >
-                  SocialSphere
-                </Link>
-              </li>
-              <li className="text-dark-200/60 hover:text-dark-200 dark:text-white/50 dark:hover:text-white">
-                <Link
-                  href="https://github.com/andrijaweb/nextCut-app"
-                  target="_blank"
-                >
-                  NextCut
-                </Link>
-              </li>
-              <li className="text-dark-200/60 hover:text-dark-200 dark:text-white/50 dark:hover:text-white">
-                <Link href="/">NextFood</Link>
-              </li>
-            </ul>
-
-            <ul className="space-y-2.5 relative z-10 text-sm sm:text-base">
+{/*<ul className="space-y-2.5 relative z-10 text-sm sm:text-base">
               <li className="text-lg font-semibold">Socials</li>
               <li className="text-dark-200/60 hover:text-dark-200 dark:text-white/50 dark:hover:text-white">
                 <Link
-                  href="https://www.linkedin.com/in/andrija-djordjevic-a7b794282/"
+                  href="https://www.linkedin.com/in/victor-lacombe-programer/"
                   target="_blank"
                 >
                   LinkedIn
                 </Link>
               </li>
               <li className="text-dark-200/60 hover:text-dark-200 dark:text-white/50 dark:hover:text-white">
-                <Link href="https://github.com/andrijaweb" target="_blank">
+                <Link href="https://github.com/Victor9955" target="_blank">
                   Github
                 </Link>
               </li>
               <li className="text-dark-200/60 hover:text-dark-200 dark:text-white/50 dark:hover:text-white">
-                <Link href="/">Instagram</Link>
+                <Link href="https://victor9955.itch.io/">Itch</Link>
               </li>
-            </ul>
+            </ul>*/}
+            
           </div>
         </div>
       </div>
