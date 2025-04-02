@@ -30,11 +30,11 @@ const Homepage = () => {
         {/* Game Jam Section */}
       <div className="py-32 bg-white dark:bg-dark-100 text-center flex flex-col items-center">
         <p className="text-xl sm:text-2xl md:text-3xl lg:text-4xl font-semibold max-w-3xl leading-snug tracking-wide text-white dark:text-stone-200/90 mb-10">
-          You can look at my Game Jams projects on my itch.io page!
+          You can look at my Game Jams and Projects on my itch.io page!
         </p>
         <div className="flex justify-center">
           <ShinyButton icon={<ChevronRight />}>
-            <a href="https://victor9955.itch.io/" target="_blank" rel="noopener noreferrer">
+            <a href="https://iikarma.itch.io/" target="_blank" rel="noopener noreferrer">
               Visit My Itch.io
             </a>
           </ShinyButton>
