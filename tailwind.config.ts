@@ -28,6 +28,9 @@ const config: Config = {
           400: "#404040",
           700: "#4D4D4D",
         },
+        colored: {
+          DEFAULT: "#249e29",
+        }
       },
       animation: {
         shimmer: "shimmer 2s linear infinite",

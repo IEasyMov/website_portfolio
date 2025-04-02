@@ -5,6 +5,7 @@ import ShinyButton from "./ui/ShinyButton";
 import { AnimatedTooltip } from "./ui/Tooltip";
 import Link from "next/link";
 import { TextGenerateEffect } from "./ui/TextGenerate";
+import { TextGenerateEffectColored } from "./ui/TextGenerateColored";
 
 const HeroSection = () => {
   return (
@@ -36,8 +37,12 @@ const HeroSection = () => {
 
           {/* Title */}
           <TextGenerateEffect
-              words="Alexandre Foussat Game Designer"
+              words="Alexandre Foussat"
               className="text-[28px] sm:text-[36px] md:text-6xl lg:text-7xl font-bold max-w-5xl leading-snug tracking-wide block"
+          />
+          <TextGenerateEffectColored
+              words="Game Designer"
+              className="text-[28px] text-[#33ba23] sm:text-[36px] md:text-6xl lg:text-7xl font-bold max-w-5xl leading-snug tracking-wide block"
           />
         
 
