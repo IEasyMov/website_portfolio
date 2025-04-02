@@ -36,13 +36,10 @@ const HeroSection = () => {
 
           {/* Title */}
           <TextGenerateEffect
-              words="Alexandre Foussat"
+              words="Alexandre Foussat Game Designer"
               className="text-[28px] sm:text-[36px] md:text-6xl lg:text-7xl font-bold max-w-5xl leading-snug tracking-wide block"
           />
-          <TextGenerateEffect
-              words="Game Designer"
-              className="text-[28px] sm:text-[36px] md:text-6xl lg:text-7xl font-bold max-w-5xl leading-snug tracking-wide block"
-          />
+        
 
           {/* Subtitle */}
           <p className="pt-6 sm:pt-7 pb-8 sm:pb-10 text-base sm:text-lg md:text-xl text-dark-200 dark:text-stone-200/70 max-w-xl">
