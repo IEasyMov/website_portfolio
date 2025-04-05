@@ -22,24 +22,24 @@ const Footer = () => {
           </h1>
           <div className="grid gap-x-8 gap-y-4 grid-cols-3">
             <ShinyButton>
-              <Link href="https://www.linkedin.com/in/victor-lacombe-programer/">Linkedin</Link>
+              <Link href="https://www.linkedin.com/in/alexandrefoussat/">Linkedin</Link>
             </ShinyButton>
             <ShinyButton>
-              <Link href="https://victor9955.itch.io/">Itch</Link>
+              <Link href="https://iikarma.itch.io">Itch</Link>
             </ShinyButton>
-            <ShinyButton>
+            {/* <ShinyButton>
               <Link href="https://github.com/Victor9955">GitHub</Link>
-            </ShinyButton>
+            </ShinyButton> */}
           </div>
         </div>
 
         <div className="mt-16 p-10 border-t border-dark-200 dark:border-white/10 flex flex-col md:flex-row justify-between gap-10 md:gap-0">
           <div className="space-y-2.5">
             <h3 className="text-xl font-bold relative z-10">
-              Victor Lacombe
+              Alexandre Foussat
             </h3>
             <h3 className="relative z-10">
-              v.lacombe.student@gmail.com
+              alexfoussat@yahoo.com
             </h3>
             <p className="absolute bottom-7 left-10 text-dark-200/70 dark:text-stone-200/70">
               &copy; 2024 | All rights reserved.
