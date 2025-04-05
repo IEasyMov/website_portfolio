@@ -22,12 +22,6 @@ const ProjectsSection = () => {
         >
           My Projects and School works
         </motion.h1>
-
-{/*<ShinyButton icon={<ChevronRight />}>
-          <Link href="https://github.com/Victor9955" target="_blank">
-            All Projects
-          </Link>
-        </ShinyButton> */}
         
       </div>
 

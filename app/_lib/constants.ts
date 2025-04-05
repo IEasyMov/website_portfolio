@@ -1,55 +1,53 @@
 export const techCardsItems = [
   {
     name: "Unity Engine",
-    description: "C# and Shader Graph",
+    description: "Basic C#, blockout and prototyping",
     imageUrl: "/imgs/logos/unity.svg",
     bgColor: "bg-[#FFFFFF]/15",
   },
   {
     name: "Unreal Engine",
-    description: "C++ and Blueprint",
+    description: "Basic Blueprint, blockout and prototyping",
     imageUrl: "/imgs/logos/unreal.svg",
     bgColor: "bg-[#FFFFFF]/15",
   },
   {
-    name: "Steamworks",
-    description: "Low level Multiplayer, Lobbies and Achievement",
-    imageUrl: "/imgs/logos/steam.svg",
-    bgColor: "bg-[#00ADEE]/15",
+    name: "Miro",
+    description: "Brainstorming and creative conception",
+    imageUrl: "/imgs/logos/MiroLogo.svg",
+    bgColor: "bg-[#ffd02f]",
   },
   {
-    name: "Google Play",
-    description: "Achivements and Version Control",
-    imageUrl: "/imgs/logos/google.svg",
-    bgColor: "bg-[#008744]/15",
+    name: "Notion",
+    description: "Game Design documents and organization",
+    imageUrl: "/imgs/logos/NotionLogo.svg",
+    bgColor: "bg-[#ffffff]",
   },
   {
     name: "Git",
-    description: "Versionning",
+    description: "Versionning and project sharing",
     imageUrl: "/imgs/logos/git.svg",
     bgColor: "bg-[#F1502F]/15",
   },
-  {
-    name: "SFML",
-    description: "C++",
-    imageUrl: "/imgs/logos/sfml.svg",
-    bgColor: "bg-[#90cd43]/15",
-  },
-  {
-    name: "Raylib",
-    description: "C and C++",
-    imageUrl: "/imgs/logos/raylib.svg",
-    bgColor: "bg-[#FFFFFF]/90",
-  },
-  {
-    name: "Enet",
-    description: "C# and C++ UDP networking library",
-    imageUrl: "/imgs/logos/networking.svg",
-    bgColor: "bg-[#FFFFFF]/90",
-  }
 ];
 
-export const portfolioProjects = [
+export const portfolioProjects = [ 
+    {
+      id: "template",
+      heading: "Template",
+      subheading: "",
+      imageUrl: "https://i.imgur.com/7NQ9qRK.png",
+      techStack: [
+        "Tag1",
+        "Tag2",
+        "Tag3",
+        "Tag4",
+      ],
+      liveDemoUrl: "",
+      videoUrl: "https://www.youtube.com/embed/7jc1ONhnvX0?si=sBAne5ITG27x8XpN?rel=0",
+      videoGameplayUrl: "https://www.youtube.com/embed/7jc1ONhnvX0?si=sBAne5ITG27x8XpN?rel=0",
+      contentPath: "/content/Template.md",
+    },
     {
       id: "quantic",
       heading: "Quantictactoe",

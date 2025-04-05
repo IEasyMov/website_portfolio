@@ -48,7 +48,7 @@ const HeroSection = () => {
 
           {/* Subtitle */}
           <p className="pt-6 sm:pt-7 pb-8 sm:pb-10 text-base sm:text-lg md:text-xl text-dark-200 dark:text-stone-200/70 max-w-xl">
-            I design and create concept.
+            I imagine, design and create strange and fun video games.
           </p>
 
           {/* Buttons */}
