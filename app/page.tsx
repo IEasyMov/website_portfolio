@@ -10,6 +10,7 @@ import Skills from "@/app/_components/Skills";
 import ShinyButton from "@/app/_components/ui/ShinyButton";
 import { ChevronRight } from "lucide-react";
 import ProjectsSection from "@/app/_components/ProjectsSection";
+import GameJamSection from "@/app/_components/GameJamSection";
 import Footer from "@/app/_components/Footer";
 
 const navItems = [
@@ -26,6 +27,7 @@ const Homepage = () => {
         <HeroSection />
         <Skills />
         <ProjectsSection />
+        <GameJamSection />
 
         {/* Game Jam Section */}
       <div className="py-32 bg-white dark:bg-dark-100 text-center flex flex-col items-center">

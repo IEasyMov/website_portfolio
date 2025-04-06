@@ -6,19 +6,24 @@ import ProjectTechnologiesMini from "./ProjectTechnologiesMini";
 
 import { motion } from "framer-motion";
 
-interface ProjectProps {
+export interface ProjectProps {
   id: string;
   heading: string;
-  subheading: string;
-  imageUrl: string;
-  videoUrl: string; // Video URL for hover effect
-  videoGameplayUrl: string; // Video URL for hover effect
+  subheading?: string;
+  imageUrl?: string;
+  videoUrl?: string; // Video URL for hover effect
+  videoGameplayUrl?: string; // Video URL for hover effect
   techStack: string[];
-  liveDemoUrl: string;
+  techStackEngine: string[];
+  techStackAbout: string[];
+  techStackSize: string[];
+  techStackAward: string[];
+  liveDemoUrl?: string;
+  contentPath?: string; // New optional property
 }
 
 const ProjectCard = ({ project }: { project: ProjectProps }) => {
-  const { id, heading, imageUrl, techStack } = project;
+  const { id, heading, imageUrl, techStack, techStackEngine, techStackAbout, techStackSize, techStackAward} = project;
 
   return (
     <motion.div
@@ -42,7 +47,7 @@ const ProjectCard = ({ project }: { project: ProjectProps }) => {
       <div>
         <h3 className="text-2xl sm:text-3xl font-semibold">{heading}</h3>
         <div className="mt-4 flex flex-col sm:flex-row justify-between gap-5">
-          <ProjectTechnologiesMini techStack={techStack} />
+          <ProjectTechnologiesMini techStack={techStack} techStackEngine={techStackEngine} techStackAbout={techStackAbout} techStackSize={techStackSize} techStackAward={techStackAward} />
           <Link
             href={`/work/${id}`}
             className="p-3 bg-primary hover:bg-primary/80 transition-colors duration-200 rounded-lg self-start sm:self-end"

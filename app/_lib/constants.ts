@@ -1,3 +1,6 @@
+import { ProjectProps } from "../_components/ProjectCard";
+
+
 export const techCardsItems = [
   {
     name: "Unity Engine",
@@ -31,7 +34,7 @@ export const techCardsItems = [
   },
 ];
 
-export const portfolioProjects = [ 
+export const portfolioProjects: ProjectProps[] = [ 
     // {
     //   id: "template",
     //   heading: "Template",
@@ -59,6 +62,18 @@ export const portfolioProjects = [
         "VR Game",
         "Big Project"
       ],
+      techStackEngine: [
+        ""
+      ],
+      techStackAbout: [
+        ""
+      ],
+      techStackSize: [
+        ""
+      ],
+      techStackAward: [
+        ""
+      ],
       liveDemoUrl: "",
       videoUrl: "",
       videoGameplayUrl: "",
@@ -73,6 +88,18 @@ export const portfolioProjects = [
         "Unity",
         "Narrative Game",
         "Hauts-de-Seine Festival",
+      ],
+      techStackEngine: [
+        ""
+      ],
+      techStackAbout: [
+        ""
+      ],
+      techStackSize: [
+        ""
+      ],
+      techStackAward: [
+        ""
       ],
       liveDemoUrl: "",
       videoUrl: "",
@@ -90,6 +117,18 @@ export const portfolioProjects = [
         "Reflexion Game",
         "UX/UI",
       ],
+      techStackEngine: [
+        ""
+      ],
+      techStackAbout: [
+        ""
+      ],
+      techStackSize: [
+        ""
+      ],
+      techStackAward: [
+        ""
+      ],
       liveDemoUrl: "",
       videoUrl: "",
       videoGameplayUrl: "",
@@ -106,25 +145,22 @@ export const portfolioProjects = [
         "Big Project",
         "GDC2025 Nominee",
       ],
-      liveDemoUrl: "",
-      videoUrl: "",
-      videoGameplayUrl: "",
-      contentPath: "/content/PacosAnatomy.md",
-    },
-    {
-      id: "boba",
-      heading: "Boba",
-      subheading: "",
-      imageUrl: "https://i.imgur.com/qnO1jWb.png",
-      techStack: [
-        "Unity",
-        "Duo Game",
-        "Game Jam",
+      techStackEngine: [
+        ""
+      ],
+      techStackAbout: [
+        ""
+      ],
+      techStackSize: [
+        ""
+      ],
+      techStackAward: [
+        ""
       ],
       liveDemoUrl: "",
       videoUrl: "",
       videoGameplayUrl: "",
-      contentPath: "/content/Boba.md",
+      contentPath: "/content/PacosAnatomy.md",
     },
     {
       id: "workhorse",
@@ -135,6 +171,18 @@ export const portfolioProjects = [
         "Unreal Engine 5",
         "VR Game",
         "Feelings and Emotions",
+      ],
+      techStackEngine: [
+        ""
+      ],
+      techStackAbout: [
+        ""
+      ],
+      techStackSize: [
+        ""
+      ],
+      techStackAward: [
+        ""
       ],
       liveDemoUrl: "",
       videoUrl: "",
@@ -152,6 +200,18 @@ export const portfolioProjects = [
         "Big Project",
         "Internship",
       ],
+      techStackEngine: [
+        ""
+      ],
+      techStackAbout: [
+        ""
+      ],
+      techStackSize: [
+        ""
+      ],
+      techStackAward: [
+        ""
+      ],
       liveDemoUrl: "",
       videoUrl: "",
       videoGameplayUrl: "",
@@ -167,6 +227,18 @@ export const portfolioProjects = [
         "Adventure & Narrative",
         "Big Project",
         "Internship",
+      ],
+      techStackEngine: [
+        ""
+      ],
+      techStackAbout: [
+        ""
+      ],
+      techStackSize: [
+        ""
+      ],
+      techStackAward: [
+        ""
       ],
       liveDemoUrl: "",
       videoUrl: "",
@@ -184,42 +256,22 @@ export const portfolioProjects = [
         "Big Project",
         "Internship",
       ],
+      techStackEngine: [
+        ""
+      ],
+      techStackAbout: [
+        ""
+      ],
+      techStackSize: [
+        ""
+      ],
+      techStackAward: [
+        ""
+      ],
       liveDemoUrl: "",
       videoUrl: "",
       videoGameplayUrl: "",
       contentPath: "/content/Flashback2.md",
-    },
-    {
-      id: "botanicnightmare",
-      heading: "Botanic Nightmare",
-      subheading: "",
-      imageUrl: "https://i.imgur.com/qnO1jWb.png",
-      techStack: [
-        "Unity",
-        "Attack & Defend",
-        "Solo Made",
-        "Game Jam"
-      ],
-      liveDemoUrl: "",
-      videoUrl: "",
-      videoGameplayUrl: "",
-      contentPath: "/content/BotanicNightmare.md",
-    },
-    {
-      id: "urbeksagency",
-      heading: "Urbeks Agency",
-      subheading: "",
-      imageUrl: "https://i.imgur.com/qnO1jWb.png",
-      techStack: [
-        "Unity",
-        "Escape Game",
-        "Duo Game",
-        "Game Jam"
-      ],
-      liveDemoUrl: "",
-      videoUrl: "",
-      videoGameplayUrl: "",
-      contentPath: "/content/UrbeksAgency.md",
     },
     {
       id: "helloworld",
@@ -230,6 +282,18 @@ export const portfolioProjects = [
         "Unity",
         "Narrative Game",
         "Hauts-de-Seine Festival",
+      ],
+      techStackEngine: [
+        ""
+      ],
+      techStackAbout: [
+        ""
+      ],
+      techStackSize: [
+        ""
+      ],
+      techStackAward: [
+        ""
       ],
       liveDemoUrl: "",
       videoUrl: "",
@@ -246,26 +310,22 @@ export const portfolioProjects = [
         "4 players game",
         "Economic Simulation",
       ],
-      liveDemoUrl: "",
-      videoUrl: "",
-      videoGameplayUrl: "",
-      contentPath: "/content/LIGTraders.md",
-    },
-    {
-      id: "deeperdungeon",
-      heading: "Deeper Dungeon",
-      subheading: "",
-      imageUrl: "https://i.imgur.com/qnO1jWb.png",
-      techStack: [
-        "Unity",
-        "Solo Made",
-        "Endless Runner",
-        "Game Jam"
+      techStackEngine: [
+        ""
+      ],
+      techStackAbout: [
+        ""
+      ],
+      techStackSize: [
+        ""
+      ],
+      techStackAward: [
+        ""
       ],
       liveDemoUrl: "",
       videoUrl: "",
       videoGameplayUrl: "",
-      contentPath: "/content/DeeperDungeon.md",
+      contentPath: "/content/LIGTraders.md",
     },
     {
       id: "serenadefortwohearts",
@@ -277,26 +337,22 @@ export const portfolioProjects = [
         "Narrative Game",
         "Visual Novel",
       ],
-      liveDemoUrl: "",
-      videoUrl: "",
-      videoGameplayUrl: "",
-      contentPath: "/content/SerenadeForTwoHearts.md",
-    },
-    {
-      id: "makemelaugh",
-      heading: "MakeMeLaugh_Exe",
-      subheading: "",
-      imageUrl: "https://i.imgur.com/qnO1jWb.png",
-      techStack: [
-        "Unity",
-        "Short Action Game",
-        "Scary",
-        "Game Jam",
+      techStackEngine: [
+        ""
+      ],
+      techStackAbout: [
+        ""
+      ],
+      techStackSize: [
+        ""
+      ],
+      techStackAward: [
+        ""
       ],
       liveDemoUrl: "",
       videoUrl: "",
       videoGameplayUrl: "",
-      contentPath: "/content/MakeMeLaugh.md",
+      contentPath: "/content/SerenadeForTwoHearts.md",
     },
     {
       id: "twiceuponatime",
@@ -309,57 +365,22 @@ export const portfolioProjects = [
         "Duo Game",
         "Big Project",
       ],
+      techStackEngine: [
+        ""
+      ],
+      techStackAbout: [
+        ""
+      ],
+      techStackSize: [
+        ""
+      ],
+      techStackAward: [
+        ""
+      ],
       liveDemoUrl: "",
       videoUrl: "",
       videoGameplayUrl: "",
       contentPath: "/content/TwiceUponATime.md",
-    },
-    {
-      id: "cagashopper",
-      heading: "Caga Shopper",
-      subheading: "",
-      imageUrl: "https://i.imgur.com/qnO1jWb.png",
-      techStack: [
-        "Unity",
-        "Economic Simulation",
-        "Game Jam",
-      ],
-      liveDemoUrl: "",
-      videoUrl: "",
-      videoGameplayUrl: "",
-      contentPath: "/content/CagaShopper.md",
-    },
-    {
-      id: "spooktoons",
-      heading: "SpookToons",
-      subheading: "",
-      imageUrl: "https://i.imgur.com/qnO1jWb.png",
-      techStack: [
-        "Unity",
-        "WarioWare",
-        "Multi Games",
-        "Game Jam",
-      ],
-      liveDemoUrl: "",
-      videoUrl: "",
-      videoGameplayUrl: "",
-      contentPath: "/content/SpookToons.md",
-    },
-    {
-      id: "babbbabab",
-      heading: "Babbbabab",
-      subheading: "",
-      imageUrl: "https://i.imgur.com/qnO1jWb.png",
-      techStack: [
-        "Unity",
-        "Arcade Game",
-        "2D Retro",
-        "Game Jam",
-      ],
-      liveDemoUrl: "",
-      videoUrl: "",
-      videoGameplayUrl: "",
-      contentPath: "/content/Babbbabab.md",
     },
     {
       id: "asteroidblast",
@@ -372,42 +393,22 @@ export const portfolioProjects = [
         "Space Invaders Like",
         "Prototype",
       ],
+      techStackEngine: [
+        ""
+      ],
+      techStackAbout: [
+        ""
+      ],
+      techStackSize: [
+        ""
+      ],
+      techStackAward: [
+        ""
+      ],
       liveDemoUrl: "",
       videoUrl: "",
       videoGameplayUrl: "",
       contentPath: "/content/AsteroidBlast.md",
-    },
-    {
-      id: "clickdungeon",
-      heading: "Click&Dungeon",
-      subheading: "",
-      imageUrl: "https://i.imgur.com/qnO1jWb.png",
-      techStack: [
-        "Unity",
-        "Solo Made",
-        "Incremental Game",
-        "Game Jam",
-      ],
-      liveDemoUrl: "",
-      videoUrl: "",
-      videoGameplayUrl: "",
-      contentPath: "/content/ClickDungeon.md",
-    },
-    {
-      id: "theimpossibledelivery",
-      heading: "The impossible delivery",
-      subheading: "",
-      imageUrl: "https://i.imgur.com/qnO1jWb.png",
-      techStack: [
-        "Unity",
-        "Shooter",
-        "Action Game",
-        "Game Jam",
-      ],
-      liveDemoUrl: "",
-      videoUrl: "",
-      videoGameplayUrl: "",
-      contentPath: "/content/TheImpossibleDelivery.md",
     },
     {
       id: "rokkatensei",
@@ -420,26 +421,22 @@ export const portfolioProjects = [
         "2D TopDown",
         "Mobile",
       ],
-      liveDemoUrl: "",
-      videoUrl: "",
-      videoGameplayUrl: "",
-      contentPath: "/content/Rokkatensei.md",
-    },
-    {
-      id: "forgottenbaggage",
-      heading: "Forgotten Baggage",
-      subheading: "",
-      imageUrl: "https://i.imgur.com/qnO1jWb.png",
-      techStack: [
-        "Unity",
-        "Casual Action Game",
-        "Solo Made",
-        "Game Jam",
+      techStackEngine: [
+        ""
+      ],
+      techStackAbout: [
+        ""
+      ],
+      techStackSize: [
+        ""
+      ],
+      techStackAward: [
+        ""
       ],
       liveDemoUrl: "",
       videoUrl: "",
       videoGameplayUrl: "",
-      contentPath: "/content/ForgottenBaggage.md",
+      contentPath: "/content/Rokkatensei.md",
     },
     {
       id: "tcmc",
@@ -450,6 +447,18 @@ export const portfolioProjects = [
         "Unreal Engine 4",
         "Puzzle Game",
         "Big Project",
+      ],
+      techStackEngine: [
+        ""
+      ],
+      techStackAbout: [
+        ""
+      ],
+      techStackSize: [
+        ""
+      ],
+      techStackAward: [
+        ""
       ],
       liveDemoUrl: "",
       videoUrl: "",
@@ -467,6 +476,18 @@ export const portfolioProjects = [
         "Tavern Managemement simulator",
         "Prototype"
       ],
+      techStackEngine: [
+        ""
+      ],
+      techStackAbout: [
+        ""
+      ],
+      techStackSize: [
+        ""
+      ],
+      techStackAward: [
+        ""
+      ],
       liveDemoUrl: "",
       videoUrl: "",
       videoGameplayUrl: "",
@@ -482,6 +503,18 @@ export const portfolioProjects = [
         "Solo Made",
         "Fight & Narration Game",
         "Short Game"
+      ],
+      techStackEngine: [
+        ""
+      ],
+      techStackAbout: [
+        ""
+      ],
+      techStackSize: [
+        ""
+      ],
+      techStackAward: [
+        ""
       ],
       liveDemoUrl: "",
       videoUrl: "",
@@ -652,6 +685,315 @@ export const portfolioProjects = [
   //   contentPath: "/content/Crypt.md",
   // }
 ];
+
+export const portfolioGameJam = [
+  {
+    id: "boba",
+    heading: "Boba",
+    subheading: "",
+    imageUrl: "https://i.imgur.com/qnO1jWb.png",
+    techStack: [
+      "Unity",
+      "Duo Game",
+      "Game Jam",
+    ],
+    techStackEngine: [
+      ""
+    ],
+    techStackAbout: [
+      ""
+    ],
+    techStackSize: [
+      ""
+    ],
+    techStackAward: [
+      ""
+    ],
+    liveDemoUrl: "",
+    videoUrl: "",
+    videoGameplayUrl: "",
+    contentPath: "/content/Boba.md",
+  },
+  {
+    id: "botanicnightmare",
+    heading: "Botanic Nightmare",
+    subheading: "",
+    imageUrl: "https://i.imgur.com/qnO1jWb.png",
+    techStack: [
+      "Unity",
+      "Attack & Defend",
+      "Solo Made",
+      "Game Jam"
+    ],
+    techStackEngine: [
+      ""
+    ],
+    techStackAbout: [
+      ""
+    ],
+    techStackSize: [
+      ""
+    ],
+    techStackAward: [
+      ""
+    ],
+    liveDemoUrl: "",
+    videoUrl: "",
+    videoGameplayUrl: "",
+    contentPath: "/content/BotanicNightmare.md",
+  },
+  {
+    id: "urbeksagency",
+    heading: "Urbeks Agency",
+    subheading: "",
+    imageUrl: "https://i.imgur.com/qnO1jWb.png",
+    techStack: [
+      "Unity",
+      "Escape Game",
+      "Duo Game",
+      "Game Jam"
+    ],
+    techStackEngine: [
+      ""
+    ],
+    techStackAbout: [
+      ""
+    ],
+    techStackSize: [
+      ""
+    ],
+    techStackAward: [
+      ""
+    ],
+    liveDemoUrl: "",
+    videoUrl: "",
+    videoGameplayUrl: "",
+    contentPath: "/content/UrbeksAgency.md",
+  },
+  {
+    id: "deeperdungeon",
+    heading: "Deeper Dungeon",
+    subheading: "",
+    imageUrl: "https://i.imgur.com/qnO1jWb.png",
+    techStack: [
+      "Unity",
+      "Solo Made",
+      "Endless Runner",
+      "Game Jam"
+    ],
+    techStackEngine: [
+      ""
+    ],
+    techStackAbout: [
+      ""
+    ],
+    techStackSize: [
+      ""
+    ],
+    techStackAward: [
+      ""
+    ],
+    liveDemoUrl: "",
+    videoUrl: "",
+    videoGameplayUrl: "",
+    contentPath: "/content/DeeperDungeon.md",
+  },
+  {
+    id: "makemelaugh",
+    heading: "MakeMeLaugh_Exe",
+    subheading: "",
+    imageUrl: "https://i.imgur.com/qnO1jWb.png",
+    techStack: [
+      "Unity",
+      "Short Action Game",
+      "Scary",
+      "Game Jam",
+    ],
+    techStackEngine: [
+      ""
+    ],
+    techStackAbout: [
+      ""
+    ],
+    techStackSize: [
+      ""
+    ],
+    techStackAward: [
+      ""
+    ],
+    liveDemoUrl: "",
+    videoUrl: "",
+    videoGameplayUrl: "",
+    contentPath: "/content/MakeMeLaugh.md",
+  },
+  {
+    id: "cagashopper",
+    heading: "Caga Shopper",
+    subheading: "",
+    imageUrl: "https://i.imgur.com/qnO1jWb.png",
+    techStack: [
+      "Unity",
+      "Economic Simulation",
+      "Game Jam",
+    ],
+    techStackEngine: [
+      ""
+    ],
+    techStackAbout: [
+      ""
+    ],
+    techStackSize: [
+      ""
+    ],
+    techStackAward: [
+      ""
+    ],
+    liveDemoUrl: "",
+    videoUrl: "",
+    videoGameplayUrl: "",
+    contentPath: "/content/CagaShopper.md",
+  },
+  {
+    id: "spooktoons",
+    heading: "SpookToons",
+    subheading: "",
+    imageUrl: "https://i.imgur.com/qnO1jWb.png",
+    techStack: [
+      "Unity",
+      "WarioWare",
+      "Multi Games",
+      "Game Jam",
+    ],
+    techStackEngine: [
+      ""
+    ],
+    techStackAbout: [
+      ""
+    ],
+    techStackSize: [
+      ""
+    ],
+    techStackAward: [
+      ""
+    ],
+    liveDemoUrl: "",
+    videoUrl: "",
+    videoGameplayUrl: "",
+    contentPath: "/content/SpookToons.md",
+  },
+  {
+    id: "babbbabab",
+    heading: "Babbbabab",
+    subheading: "",
+    imageUrl: "https://i.imgur.com/qnO1jWb.png",
+    techStack: [
+      "Unity",
+      "Arcade Game",
+      "2D Retro",
+      "Game Jam",
+    ],
+    techStackEngine: [
+      ""
+    ],
+    techStackAbout: [
+      ""
+    ],
+    techStackSize: [
+      ""
+    ],
+    techStackAward: [
+      ""
+    ],
+    liveDemoUrl: "",
+    videoUrl: "",
+    videoGameplayUrl: "",
+    contentPath: "/content/Babbbabab.md",
+  },
+  {
+    id: "clickdungeon",
+    heading: "Click&Dungeon",
+    subheading: "",
+    imageUrl: "https://i.imgur.com/qnO1jWb.png",
+    techStack: [
+      "Unity",
+      "Solo Made",
+      "Incremental Game",
+      "Game Jam",
+    ],
+    techStackEngine: [
+      ""
+    ],
+    techStackAbout: [
+      ""
+    ],
+    techStackSize: [
+      ""
+    ],
+    techStackAward: [
+      ""
+    ],
+    liveDemoUrl: "",
+    videoUrl: "",
+    videoGameplayUrl: "",
+    contentPath: "/content/ClickDungeon.md",
+  },
+  {
+    id: "theimpossibledelivery",
+    heading: "The impossible delivery",
+    subheading: "",
+    imageUrl: "https://i.imgur.com/qnO1jWb.png",
+    techStack: [
+      "Unity",
+      "Shooter",
+      "Action Game",
+      "Game Jam",
+    ],
+    techStackEngine: [
+      ""
+    ],
+    techStackAbout: [
+      ""
+    ],
+    techStackSize: [
+      ""
+    ],
+    techStackAward: [
+      ""
+    ],
+    liveDemoUrl: "",
+    videoUrl: "",
+    videoGameplayUrl: "",
+    contentPath: "/content/TheImpossibleDelivery.md",
+  },
+  {
+    id: "forgottenbaggage",
+    heading: "Forgotten Baggage",
+    subheading: "",
+    imageUrl: "https://i.imgur.com/qnO1jWb.png",
+    techStack: [
+      "Unity",
+      "Casual Action Game",
+      "Solo Made",
+      "Game Jam",
+    ],
+    techStackEngine: [
+      ""
+    ],
+    techStackAbout: [
+      ""
+    ],
+    techStackSize: [
+      ""
+    ],
+    techStackAward: [
+      ""
+    ],
+    liveDemoUrl: "",
+    videoUrl: "",
+    videoGameplayUrl: "",
+    contentPath: "/content/ForgottenBaggage.md",
+  },
+]
 
 export const testimonialItems = [
 

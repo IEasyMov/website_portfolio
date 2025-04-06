@@ -13,11 +13,11 @@ const Footer = () => {
           <h1 className="text-5xl font-bold max-w-2xl leading-[110%] relative z-10">
             Reach out{" "}
             <Link
-              href="mailto:v.lacombe.student@gmail.com"
+              href="mailto:alexfoussat@yahoo.com"
               className="text-primary hover:text-primary/80 border-b-2 border-primary hover:border-primary/80 transition-colors duration-200"
             >
-              via email
-            </Link>{" "}
+              via email{" "}
+            </Link>
             to collaborate !
           </h1>
           <div className="grid gap-x-8 gap-y-4 grid-cols-3">
@@ -27,9 +27,9 @@ const Footer = () => {
             <ShinyButton>
               <Link href="https://iikarma.itch.io">Itch</Link>
             </ShinyButton>
-            {/* <ShinyButton>
-              <Link href="https://github.com/Victor9955">GitHub</Link>
-            </ShinyButton> */}
+            <ShinyButton>
+              <Link href="https://github.com/IEasyMov">GitHub</Link>
+            </ShinyButton>
           </div>
         </div>
 
@@ -39,10 +39,10 @@ const Footer = () => {
               Alexandre Foussat
             </h3>
             <h3 className="relative z-10">
-              alexfoussat@yahoo.com
+              Game Designer
             </h3>
             <p className="absolute bottom-7 left-10 text-dark-200/70 dark:text-stone-200/70">
-              &copy; 2024 | All rights reserved.
+              &copy; 2025 | All rights reserved.
             </p>
           </div>
 
@@ -62,7 +62,7 @@ const Footer = () => {
                 <Link href="#contact">Contact</Link>
               </li>
             </ul>
-{/*<ul className="space-y-2.5 relative z-10 text-sm sm:text-base">
+<ul className="space-y-2.5 relative z-10 text-sm sm:text-base">
               <li className="text-lg font-semibold">Socials</li>
               <li className="text-dark-200/60 hover:text-dark-200 dark:text-white/50 dark:hover:text-white">
                 <Link
@@ -80,7 +80,7 @@ const Footer = () => {
               <li className="text-dark-200/60 hover:text-dark-200 dark:text-white/50 dark:hover:text-white">
                 <Link href="https://victor9955.itch.io/">Itch</Link>
               </li>
-            </ul>*/}
+            </ul>
             
           </div>
         </div>
