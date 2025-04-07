@@ -60,18 +60,21 @@ export const portfolioProjects: ProjectProps[] = [
         ""
       ],
       techStackEngine: [
-        "Unreal Engine 5"
+        "Unreal Engine 5",
+        "Not Published Yet"
       ],
       techStackAbout: [
         "Exploration Game",
+        "Narrative Game",
         "VR Game",
       ],
       techStackSize: [
         "Big Project",
+        "Made in 6 Months",
         "Team of 12"
       ],
       techStackAward: [
-        "Test Award"
+        ""
       ],
       liveDemoUrl: "",
       videoUrl: "",
@@ -84,21 +87,21 @@ export const portfolioProjects: ProjectProps[] = [
       subheading: "",
       imageUrl: "https://i.imgur.com/qnO1jWb.png",
       techStack: [
-        "Unity",
-        "Narrative Game",
-        "Hauts-de-Seine Festival",
+        "",
       ],
       techStackEngine: [
-        ""
+        "Unity"
       ],
       techStackAbout: [
-        ""
+        "Narrative Game",
+        "Short experience"
       ],
       techStackSize: [
-        ""
+        "Made in 3 Weeks",
+        "Team of 5"
       ],
       techStackAward: [
-        ""
+        "Hauts-de-Seine Festival Nominee"
       ],
       liveDemoUrl: "",
       videoUrl: "",
@@ -111,19 +114,19 @@ export const portfolioProjects: ProjectProps[] = [
       subheading: "",
       imageUrl: "https://i.imgur.com/qnO1jWb.png",
       techStack: [
-        "Unity",
-        "Online Multiplayer",
-        "Reflexion Game",
-        "UX/UI",
+        ""
       ],
       techStackEngine: [
-        ""
+        "Unity"
       ],
       techStackAbout: [
-        ""
+        "Online Multiplayer",
+        "Reflexion Game",
+        "Duo Versus"
       ],
       techStackSize: [
-        ""
+        "Made in 1 Month",
+        "Team of 2"
       ],
       techStackAward: [
         ""
@@ -139,22 +142,23 @@ export const portfolioProjects: ProjectProps[] = [
       subheading: "",
       imageUrl: "https://i.imgur.com/qnO1jWb.png",
       techStack: [
-        "Unity",
-        "Alternative Controller",
-        "Big Project",
-        "GDC2025 Nominee",
+        ""
       ],
       techStackEngine: [
-        ""
+        "Unity"
       ],
       techStackAbout: [
-        ""
+        "Alternative Controller",
+        "Short Game",
+        "Physical Game"
       ],
       techStackSize: [
-        ""
+        "Big Project",
+        "Made in 3 Weeks",
+        "Team of 8"
       ],
       techStackAward: [
-        ""
+        "GDC-2025 Nominee"
       ],
       liveDemoUrl: "",
       videoUrl: "",
@@ -167,18 +171,22 @@ export const portfolioProjects: ProjectProps[] = [
       subheading: "",
       imageUrl: "https://i.imgur.com/qnO1jWb.png",
       techStack: [
-        "Unreal Engine 5",
-        "VR Game",
-        "Feelings and Emotions",
+        "",
+        
+        
       ],
       techStackEngine: [
-        ""
+        "Unreal Engine 5",
+        "Itch.io Published"
       ],
       techStackAbout: [
-        ""
+        "VR Game",
+        "Feelings and Emotions",
+        "Oppressive Experience"
       ],
       techStackSize: [
-        ""
+        "Made in 2 Weeks",
+        "Team of 11"
       ],
       techStackAward: [
         ""
@@ -194,19 +202,21 @@ export const portfolioProjects: ProjectProps[] = [
       subheading: "",
       imageUrl: "https://i.imgur.com/qnO1jWb.png",
       techStack: [
-        "Unity",
-        "Adventure & Narrative",
-        "Big Project",
-        "Internship",
+        "",
       ],
       techStackEngine: [
-        ""
+        "Unity",
+        "Not Published Yet"
       ],
       techStackAbout: [
-        ""
+        "Adventure",
+        "Action",
+        "Narrative"
       ],
       techStackSize: [
-        ""
+        "Big Project",
+        "Participated for 4 Months",
+        "During Internship"
       ],
       techStackAward: [
         ""
@@ -222,19 +232,21 @@ export const portfolioProjects: ProjectProps[] = [
       subheading: "",
       imageUrl: "https://i.imgur.com/qnO1jWb.png",
       techStack: [
-        "Unity",
-        "Adventure & Narrative",
-        "Big Project",
-        "Internship",
+        "",
       ],
       techStackEngine: [
-        ""
+        "Unity",
+        "Steam Published"
       ],
       techStackAbout: [
-        ""
+        "Adventure",
+        "Action",
+        "Narrative"
       ],
       techStackSize: [
-        ""
+        "Big Project",
+        "During Internship",
+        "Participated for 1 Month"
       ],
       techStackAward: [
         ""
@@ -250,19 +262,21 @@ export const portfolioProjects: ProjectProps[] = [
       subheading: "",
       imageUrl: "https://i.imgur.com/qnO1jWb.png",
       techStack: [
-        "Unity",
-        "Action & Adventure",
-        "Big Project",
-        "Internship",
+        "",
       ],
       techStackEngine: [
-        ""
+        "Unity",
+        "Steam Published"
       ],
       techStackAbout: [
-        ""
+        "Shooter",
+        "Adventure",
+        "Narrative"
       ],
       techStackSize: [
-        ""
+        "Big Project",
+        "Internship",
+        "Participated for 1 Month"
       ],
       techStackAward: [
         ""
@@ -278,21 +292,22 @@ export const portfolioProjects: ProjectProps[] = [
       subheading: "",
       imageUrl: "https://i.imgur.com/qnO1jWb.png",
       techStack: [
-        "Unity",
-        "Narrative Game",
-        "Hauts-de-Seine Festival",
+        "",
       ],
       techStackEngine: [
-        ""
+        "Unity",
+        "Itch.io Published"
       ],
       techStackAbout: [
-        ""
+        "Narrative Game",
+        "Short Experience"
       ],
       techStackSize: [
-        ""
+        "Made in 1 Month",
+        "Team of 4"
       ],
       techStackAward: [
-        ""
+        "Hauts-de-Seine Festival Winner",
       ],
       liveDemoUrl: "",
       videoUrl: "",
@@ -305,18 +320,20 @@ export const portfolioProjects: ProjectProps[] = [
       subheading: "",
       imageUrl: "https://i.imgur.com/qnO1jWb.png",
       techStack: [
-        "Unity",
-        "4 players game",
-        "Economic Simulation",
+        "",
       ],
       techStackEngine: [
-        ""
+        "Unity",
+        "Itch.io Published"
       ],
       techStackAbout: [
-        ""
+        "4 players game",
+        "Economic Simulation",
+        "Card Collection"
       ],
       techStackSize: [
-        ""
+        "Made in 1 Month",
+        "Team of 5"
       ],
       techStackAward: [
         ""
@@ -332,18 +349,19 @@ export const portfolioProjects: ProjectProps[] = [
       subheading: "",
       imageUrl: "https://i.imgur.com/qnO1jWb.png",
       techStack: [
+        "",
+      ],
+      techStackEngine: [
         "Unity",
+        "Itch.io Published"
+      ],
+      techStackAbout: [
         "Narrative Game",
         "Visual Novel",
       ],
-      techStackEngine: [
-        ""
-      ],
-      techStackAbout: [
-        ""
-      ],
       techStackSize: [
-        ""
+        "Made in 2 Weeks",
+        "Team of 10"
       ],
       techStackAward: [
         ""
@@ -359,19 +377,22 @@ export const portfolioProjects: ProjectProps[] = [
       subheading: "",
       imageUrl: "https://i.imgur.com/qnO1jWb.png",
       techStack: [
-        "Unity",
-        "Action & Narrative",
-        "Duo Game",
-        "Big Project",
+        "",
       ],
       techStackEngine: [
-        ""
+        "Unity",
+        "Itch.io Published"
       ],
       techStackAbout: [
-        ""
+        "Siblings Adventure",
+        "Action",
+        "Narrative",
+        "Duo Game",
       ],
       techStackSize: [
-        ""
+        "Big Project",
+        "Made in 3 Months",
+        "Team of 12"
       ],
       techStackAward: [
         ""
@@ -387,19 +408,19 @@ export const portfolioProjects: ProjectProps[] = [
       subheading: "",
       imageUrl: "https://i.imgur.com/qnO1jWb.png",
       techStack: [
-        "Unity",
-        "Solo Made",
-        "Space Invaders Like",
-        "Prototype",
+        "",
       ],
       techStackEngine: [
-        ""
+        "Unity"
       ],
       techStackAbout: [
-        ""
+        "Solo Made",
+        "Space Invaders Like",
       ],
       techStackSize: [
-        ""
+        "Prototype",
+        "Made in 1 Week",
+        "Solo Made"
       ],
       techStackAward: [
         ""
@@ -415,19 +436,21 @@ export const portfolioProjects: ProjectProps[] = [
       subheading: "",
       imageUrl: "https://i.imgur.com/qnO1jWb.png",
       techStack: [
-        "Unity",
-        "Turn Based Game",
-        "2D TopDown",
-        "Mobile",
+        ""
       ],
       techStackEngine: [
-        ""
+        "Unity",
+        "Itch.io Published",
+        "Play Store Published"
       ],
       techStackAbout: [
-        ""
+        "Mobile Game",
+        "Turn Based Fights",
+        "2D TopDown"
       ],
       techStackSize: [
-        ""
+        "Made in 1 Month",
+        "Team of 8"
       ],
       techStackAward: [
         ""
@@ -443,18 +466,21 @@ export const portfolioProjects: ProjectProps[] = [
       subheading: "",
       imageUrl: "https://i.imgur.com/qnO1jWb.png",
       techStack: [
-        "Unreal Engine 4",
-        "Puzzle Game",
-        "Big Project",
+        "",
       ],
       techStackEngine: [
-        ""
+        "Unreal Engine 4",
+        "Itch.io Published"
       ],
       techStackAbout: [
-        ""
+        "Puzzle Game",
+        "Narrative",
+        "Action Game"
       ],
       techStackSize: [
-        ""
+        "Big Project",
+        "Made in 2 Months",
+        "Team of 8"
       ],
       techStackAward: [
         ""
@@ -470,19 +496,20 @@ export const portfolioProjects: ProjectProps[] = [
       subheading: "",
       imageUrl: "https://i.imgur.com/qnO1jWb.png",
       techStack: [
-        "Unity",
-        "Solo Made",
-        "Tavern Managemement simulator",
-        "Prototype"
+        ""
       ],
       techStackEngine: [
-        ""
+        "Unity"
       ],
       techStackAbout: [
-        ""
+        "Tavern Managemement",
+        "Gestion Game",
+        "Economic Simulation"
       ],
       techStackSize: [
-        ""
+        "Prototype",
+        "Made in 4 Months",
+        "Solo Made"
       ],
       techStackAward: [
         ""
@@ -498,19 +525,19 @@ export const portfolioProjects: ProjectProps[] = [
       subheading: "",
       imageUrl: "https://i.imgur.com/qnO1jWb.png",
       techStack: [
-        "Unity",
-        "Solo Made",
-        "Fight & Narration Game",
-        "Short Game"
+        ""
       ],
       techStackEngine: [
-        ""
+        "Unity"
       ],
       techStackAbout: [
-        ""
+        "Fighting Game",
+        "Narration",
+        "Short Experience"
       ],
       techStackSize: [
-        ""
+        "Made in 2 Months",
+        "Solo Made"
       ],
       techStackAward: [
         ""
@@ -692,18 +719,21 @@ export const portfolioGameJam: ProjectProps[] = [
     subheading: "",
     imageUrl: "https://i.imgur.com/qnO1jWb.png",
     techStack: [
-      "Unity",
-      "Duo Game",
-      "Game Jam",
+      ""
     ],
     techStackEngine: [
-      ""
+      "Unity",
+      "Itch.io Published"
     ],
     techStackAbout: [
-      ""
+      "Duo Game",
+      "Local Multiplayer",
+      "Arcade Game",
+      "Bubbles - Theme"
     ],
     techStackSize: [
-      ""
+      "Made in 3 Days",
+      "Team of 5"
     ],
     techStackAward: [
       ""
@@ -719,22 +749,23 @@ export const portfolioGameJam: ProjectProps[] = [
     subheading: "",
     imageUrl: "https://i.imgur.com/qnO1jWb.png",
     techStack: [
-      "Unity",
-      "Attack & Defend",
-      "Solo Made",
-      "Game Jam"
+      ""
     ],
     techStackEngine: [
-      ""
+      "Unity",
+      "Itch.io Published"
     ],
     techStackAbout: [
-      ""
+      "Action Game",
+      "Short Experience",
+      "Living & Machines - Theme"
     ],
     techStackSize: [
-      ""
+      "Made in 3 Days",
+      "Solo Made"
     ],
     techStackAward: [
-      ""
+      "CS-Studio GameJam Winner"
     ],
     liveDemoUrl: "",
     videoUrl: "",
@@ -747,22 +778,23 @@ export const portfolioGameJam: ProjectProps[] = [
     subheading: "",
     imageUrl: "https://i.imgur.com/qnO1jWb.png",
     techStack: [
-      "Unity",
-      "Escape Game",
-      "Duo Game",
-      "Game Jam"
+      ""
     ],
     techStackEngine: [
-      ""
+      "Unity",
+      "Physical Game",
     ],
     techStackAbout: [
-      ""
+      "Escape Game",
+      "Duo Game",
+      "Feeling & Senses - Theme"
     ],
     techStackSize: [
-      ""
+      "Made in 1 Week",
+      "Team of 8"
     ],
     techStackAward: [
-      ""
+      "Game Jam Winner"
     ],
     liveDemoUrl: "",
     videoUrl: "",
@@ -775,19 +807,19 @@ export const portfolioGameJam: ProjectProps[] = [
     subheading: "",
     imageUrl: "https://i.imgur.com/qnO1jWb.png",
     techStack: [
-      "Unity",
-      "Solo Made",
-      "Endless Runner",
-      "Game Jam"
+      ""
     ],
     techStackEngine: [
-      ""
+      "Unity",
+      "Itch.io Published"
     ],
     techStackAbout: [
-      ""
+      "Endless Runner",
+      "Unwanted Abilities - Theme"
     ],
     techStackSize: [
-      ""
+      "Made in 3 Days",
+      "Solo Made"
     ],
     techStackAward: [
       ""
@@ -803,19 +835,20 @@ export const portfolioGameJam: ProjectProps[] = [
     subheading: "",
     imageUrl: "https://i.imgur.com/qnO1jWb.png",
     techStack: [
-      "Unity",
-      "Short Action Game",
-      "Scary",
-      "Game Jam",
+      ""
     ],
     techStackEngine: [
-      ""
+      "Unity",
+      "Itch.io Published"
     ],
     techStackAbout: [
-      ""
+      "Short Action Experience",
+      "Scary & Funny",
+      "Clown - Theme"
     ],
     techStackSize: [
-      ""
+      "Made in 3 Days",
+      "Team of 3"
     ],
     techStackAward: [
       ""
@@ -831,18 +864,20 @@ export const portfolioGameJam: ProjectProps[] = [
     subheading: "",
     imageUrl: "https://i.imgur.com/qnO1jWb.png",
     techStack: [
-      "Unity",
-      "Economic Simulation",
-      "Game Jam",
+      ""
     ],
     techStackEngine: [
-      ""
+      "Unity", 
+      "Itch.io Published"
     ],
     techStackAbout: [
-      ""
+      "Economic Simulation",
+      "Short Game",
+      "Silence GameJam"
     ],
     techStackSize: [
-      ""
+      "Made in 2 Weeks",
+      "Team of 2"
     ],
     techStackAward: [
       ""
@@ -858,19 +893,20 @@ export const portfolioGameJam: ProjectProps[] = [
     subheading: "",
     imageUrl: "https://i.imgur.com/qnO1jWb.png",
     techStack: [
-      "Unity",
-      "WarioWare",
-      "Multi Games",
-      "Game Jam",
+      ""
     ],
     techStackEngine: [
-      ""
+      "Unity", 
+      "Itch.io Published"
     ],
     techStackAbout: [
-      ""
+      "WarioWare",
+      "Mini-Games",
+      "Halloween - Theme"
     ],
     techStackSize: [
-      ""
+      "Made in 1 Month",
+      "Team of 5"
     ],
     techStackAward: [
       ""
@@ -886,19 +922,21 @@ export const portfolioGameJam: ProjectProps[] = [
     subheading: "",
     imageUrl: "https://i.imgur.com/qnO1jWb.png",
     techStack: [
-      "Unity",
-      "Arcade Game",
-      "2D Retro",
-      "Game Jam",
+      ""
     ],
     techStackEngine: [
-      ""
+      "Unity",
+      "Itch.io Published"
     ],
     techStackAbout: [
-      ""
+      "Arcade Game",
+      "2D Retro",
+      "Card Game",
+      "Scam - Theme"
     ],
     techStackSize: [
-      ""
+      "Made in 1 Week",
+      "Team of 6"
     ],
     techStackAward: [
       ""
@@ -914,19 +952,19 @@ export const portfolioGameJam: ProjectProps[] = [
     subheading: "",
     imageUrl: "https://i.imgur.com/qnO1jWb.png",
     techStack: [
-      "Unity",
-      "Solo Made",
-      "Incremental Game",
-      "Game Jam",
+      ""
     ],
     techStackEngine: [
-      ""
+      "Unity",
+      "Itch.io Published"
     ],
     techStackAbout: [
-      ""
+      "Incremental Game",
+      "Dungeon - Theme"
     ],
     techStackSize: [
-      ""
+      "Made in 10 Days",
+      "Solo Made"
     ],
     techStackAward: [
       ""
@@ -942,19 +980,19 @@ export const portfolioGameJam: ProjectProps[] = [
     subheading: "",
     imageUrl: "https://i.imgur.com/qnO1jWb.png",
     techStack: [
-      "Unity",
-      "Shooter",
-      "Action Game",
-      "Game Jam",
+      ""
     ],
     techStackEngine: [
-      ""
+      "Unity"
     ],
     techStackAbout: [
-      ""
+      "Shooter",
+      "Action Game",
+      "Delivery - Theme"
     ],
     techStackSize: [
-      ""
+      "Made in 3 Days",
+      "Team of 3"
     ],
     techStackAward: [
       ""
@@ -970,22 +1008,23 @@ export const portfolioGameJam: ProjectProps[] = [
     subheading: "",
     imageUrl: "https://i.imgur.com/qnO1jWb.png",
     techStack: [
-      "Unity",
-      "Casual Action Game",
-      "Solo Made",
-      "Game Jam",
-    ],
-      techStackEngine: [
         ""
+      ],
+      techStackEngine: [
+        "Unity",
+        "Itch.io Published"
       ],
       techStackAbout: [
-        ""
+        "Short Experience",
+        "Arcade Game",
+        "Lost - Theme"
       ],
       techStackSize: [
-        ""
+        "Made in 3 Days",
+        "Solo Made"
       ],
       techStackAward: [
-        ""
+        "LaTech GameJam Winner"
       ],
     liveDemoUrl: "",
     videoUrl: "",
