@@ -57,22 +57,21 @@ export const portfolioProjects: ProjectProps[] = [
       subheading: "",
       imageUrl: "https://i.imgur.com/qnO1jWb.png",
       techStack: [
-        "Unreal Engine 5",
-        "Exploration Game",
-        "VR Game",
-        "Big Project"
+        ""
       ],
       techStackEngine: [
-        ""
+        "Unreal Engine 5"
       ],
       techStackAbout: [
-        ""
+        "Exploration Game",
+        "VR Game",
       ],
       techStackSize: [
-        ""
+        "Big Project",
+        "Team of 12"
       ],
       techStackAward: [
-        ""
+        "Test Award"
       ],
       liveDemoUrl: "",
       videoUrl: "",
@@ -686,7 +685,7 @@ export const portfolioProjects: ProjectProps[] = [
   // }
 ];
 
-export const portfolioGameJam = [
+export const portfolioGameJam: ProjectProps[] = [
   {
     id: "boba",
     heading: "Boba",
@@ -966,7 +965,7 @@ export const portfolioGameJam = [
     contentPath: "/content/TheImpossibleDelivery.md",
   },
   {
-    id: "forgottenbaggage",
+    id: "forgotten-baggage",
     heading: "Forgotten Baggage",
     subheading: "",
     imageUrl: "https://i.imgur.com/qnO1jWb.png",
@@ -976,18 +975,18 @@ export const portfolioGameJam = [
       "Solo Made",
       "Game Jam",
     ],
-    techStackEngine: [
-      ""
-    ],
-    techStackAbout: [
-      ""
-    ],
-    techStackSize: [
-      ""
-    ],
-    techStackAward: [
-      ""
-    ],
+      techStackEngine: [
+        ""
+      ],
+      techStackAbout: [
+        ""
+      ],
+      techStackSize: [
+        ""
+      ],
+      techStackAward: [
+        ""
+      ],
     liveDemoUrl: "",
     videoUrl: "",
     videoGameplayUrl: "",

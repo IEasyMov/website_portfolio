@@ -66,19 +66,19 @@ const Footer = () => {
               <li className="text-lg font-semibold">Socials</li>
               <li className="text-dark-200/60 hover:text-dark-200 dark:text-white/50 dark:hover:text-white">
                 <Link
-                  href="https://www.linkedin.com/in/victor-lacombe-programer/"
+                  href="https://www.linkedin.com/in/alexandrefoussat/"
                   target="_blank"
                 >
                   LinkedIn
                 </Link>
               </li>
               <li className="text-dark-200/60 hover:text-dark-200 dark:text-white/50 dark:hover:text-white">
-                <Link href="https://github.com/Victor9955" target="_blank">
+                <Link href="https://github.com/IEasyMov" target="_blank">
                   Github
                 </Link>
               </li>
               <li className="text-dark-200/60 hover:text-dark-200 dark:text-white/50 dark:hover:text-white">
-                <Link href="https://victor9955.itch.io/">Itch</Link>
+                <Link href="https://iikarma.itch.io">Itch</Link>
               </li>
             </ul>
             

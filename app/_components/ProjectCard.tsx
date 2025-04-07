@@ -19,7 +19,7 @@ export interface ProjectProps {
   techStackSize: string[];
   techStackAward: string[];
   liveDemoUrl?: string;
-  contentPath?: string; // New optional property
+  contentPath: string; // New optional property
 }
 
 const ProjectCard = ({ project }: { project: ProjectProps }) => {
