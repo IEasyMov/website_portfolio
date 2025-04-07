@@ -64,8 +64,8 @@ export const portfolioProjects: ProjectProps[] = [
         "Not Published Yet"
       ],
       techStackAbout: [
-        "Exploration Game",
-        "Narrative Game",
+        "Exploration",
+        "Narrative",
         "VR Game",
       ],
       techStackSize: [
