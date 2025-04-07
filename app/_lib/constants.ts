@@ -53,9 +53,9 @@ export const portfolioProjects: ProjectProps[] = [
     // },
     {
       id: "onezero",
-      heading: "One&Zero?",
+      heading: "One&Zero",
       subheading: "",
-      imageUrl: "https://i.imgur.com/qnO1jWb.png",
+      imageUrl: "https://i.imgur.com/7NQ9qRK.png",
       techStack: [
         ""
       ],
@@ -85,7 +85,7 @@ export const portfolioProjects: ProjectProps[] = [
       id: "alzmemory",
       heading: "AlzMemory?",
       subheading: "",
-      imageUrl: "https://i.imgur.com/qnO1jWb.png",
+      imageUrl: "https://i.imgur.com/7NQ9qRK.png",
       techStack: [
         "",
       ],

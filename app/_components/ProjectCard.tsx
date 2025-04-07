@@ -45,8 +45,8 @@ const ProjectCard = ({ project }: { project: ProjectProps }) => {
         />
       </Link>
       <div>
-        <h3 className="text-2xl sm:text-3xl font-semibold">{heading}</h3>
-        <div className="mt-4 flex flex-col sm:flex-row justify-between gap-5">
+        <h3 className="text-2xl sm:text-3xl font-semibold text-center">{heading}</h3>
+        <div className="mt-8 flex flex-col sm:flex-row justify-between gap-5">
           <ProjectTechnologiesMini techStack={techStack} techStackEngine={techStackEngine} techStackAbout={techStackAbout} techStackSize={techStackSize} techStackAward={techStackAward} />
           {/* <Link
             href={`/work/${id}`}
