@@ -112,7 +112,7 @@ export const portfolioProjects: ProjectProps[] = [
       id: "quantictactoe",
       heading: "QuanticTacToe",
       subheading: "",
-      imageUrl: "https://i.imgur.com/qnO1jWb.png",
+      imageUrl: "https://i.imgur.com/7NQ9qRK.png",
       techStack: [
         ""
       ],

@@ -41,7 +41,7 @@ const ProjectCard = ({ project }: { project: ProjectProps }) => {
         <img
           src={imageUrl}
           alt={heading}
-          className="w-full h-45"
+          className="w-full h-auto"
         />
       </Link>
       <div>
