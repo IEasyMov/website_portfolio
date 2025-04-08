@@ -414,7 +414,6 @@ export const portfolioProjects: ProjectProps[] = [
         "Unity"
       ],
       techStackAbout: [
-        "Solo Made",
         "Space Invaders Like",
       ],
       techStackSize: [
@@ -441,7 +440,7 @@ export const portfolioProjects: ProjectProps[] = [
       techStackEngine: [
         "Unity",
         "Itch.io Published",
-        "Play Store Published"
+        "PlayStore Published"
       ],
       techStackAbout: [
         "Mobile Game",

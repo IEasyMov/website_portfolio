@@ -31,7 +31,7 @@ const ProjectCard = ({ project }: { project: ProjectProps }) => {
       whileInView={{ opacity: 1, y: 0 }}
       viewport={{ once: true }}
       transition={{ duration: 0.5, delay: 0.25 }}
-      className="bg-[#F3F4F3] dark:bg-dark-200 rounded-lg p-4 sm:p-8 space-y-8"
+      className="bg-[#F3F4F3] dark:bg-dark-200 rounded-lg p-4 sm:p-8 space-y-8 flex flex-col h-full"
     >
       <Link
         href={`/work/${id}`}
