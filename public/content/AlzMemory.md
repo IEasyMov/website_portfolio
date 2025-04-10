@@ -3,7 +3,7 @@
 <div style="background:rgb(26, 26, 26); padding: 1.5rem; margin-bottom: 2rem; border-radius: 4px; text-align: center;">
 <a href="#introduction" style="color: #007bff; text-decoration: none; margin: 0 10px;">🌟 Introduction</a>
 <a href="#game" style="color: #007bff; text-decoration: none; margin: 0 10px;">👾 Gameplay </a>
-<a href="#steam" style="color: #007bff; text-decoration: none; margin: 0 10px;">👨‍💻 Custom Netcode</a>
+<a href="#steam" style="color: #007bff; text-decoration: none; margin: 0 10px;">📃 Tasks</a>
 <a href="#lesson" style="color: #007bff; text-decoration: none; margin: 0 10px;">📌 Lessons Learned </a>
 
 </div>
@@ -13,13 +13,17 @@
     <div style="flex: 1; padding: 0 15px; color: #fff; text-align: justify; line-height: 1.6; max-width: 600px;">
         <h2 style="font-size: 2rem; color: #007bff; margin-bottom: 1.5rem;">🌟 Introduction</h2>
         <p style="margin-bottom: 1.2rem;">
-            "What's the project about"
+            <i>AlzMemory?</i> is a short narrative game that immerses players in the fragmented mind of a father battling Alzheimer's. Through intimate vignettes, the game explores his struggles with fading memories and the emotional weight of past regrets, as his children, grandmother, and subconscious bring buried feelings to the surface.
         </p>
         <p style="margin-bottom: 1.2rem;">
-            "What you created in the project"
+            This is a short project we created for the Haut-de-Seine Festival, we had to make a game around the theme <i>Courage</i>.
+        </p>
+        <p style="margin-bottom: 1.2rem;">
+            We made this project with a little team of 5 in 3 weeks.
         </p>
         <p>
-            "What've you improved by creating the project"
+            My objectives during this project was to try orienting and making the players feel and think through a created character with his own story and background.
+            For this particular story and narrative context we tried doing something around ALzheimer, I had to documentate myself and tried to create something interacting like mini-games through the dialogues to make the players interact directly with the illness and it's impact on people.
         </p>
     </div>
     <img src="https://i.imgur.com/xkBMExc.jpeg" 
