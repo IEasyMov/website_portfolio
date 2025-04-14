@@ -16,17 +16,23 @@
             <i>AlzMemory?</i> is a short narrative game that immerses players in the fragmented mind of a father battling Alzheimer's. Through intimate vignettes, the game explores his struggles with fading memories and the emotional weight of past regrets, as his children, grandmother, and subconscious bring buried feelings to the surface.
         </p>
         <p style="margin-bottom: 1.2rem;">
+            -
+        </p>
+        <p style="margin-bottom: 1.2rem;">
             This is a short project we created for the Haut-de-Seine Festival, we had to make a game around the theme <i>Courage</i>.
         </p>
         <p style="margin-bottom: 1.2rem;">
             We made this project with a little team of 5 in 3 weeks.
+        </p>
+        <p style="margin-bottom: 1.2rem;">
+            -
         </p>
         <p>
             My objectives during this project was to try orienting and making the players feel and think through a created character with his own story and background.
             For this particular story and narrative context we tried doing something around ALzheimer, I had to documentate myself and tried to create something interacting like mini-games through the dialogues to make the players interact directly with the illness and it's impact on people.
         </p>
     </div>
-    <img src="https://i.imgur.com/xkBMExc.jpeg" 
+    <img src="\imgs\projects\AlzPP1.PNG" 
          alt="Featured Concept Art" 
          style="max-width: 500px; width: 100%; height: auto; border-radius: 8px; object-fit: cover; align-self: center;">
 </div>
@@ -36,42 +42,49 @@
     <div style="color: #fff; text-align: justify; line-height: 1.6;">
         <h2 style="font-size: 2rem; color: #007bff; margin-bottom: 1.5rem;">👾 Gameplay</h2>
         <p style="margin-bottom: 1.2rem;">
-            "What is the game"
+            Basicly the game is really simple, the players only have to click to pass the dialogues and play the little mini games with their mouses.
         </p>
         <p style="margin-bottom: 1.2rem;">
-            "How players play"
+            Since it's a really short and linear game, the dialogues will follow each others and the players just have to click. When a mini game occurs, the players will be able to interact and complete them easily.
         </p>
         <p>
-            "What's the objective"
+            The objective of the game was to make a driven narrative story with some mini games to create more interactions and comprehension of the illness and impact of it on the daily life of thoses persons.
         </p>
     </div>
 </div>
 <div id="steam" style="display: flex; align-items: center; margin: 2rem 0;">
     <div style="flex: 1; color: #fff;">
-        <h2 style="font-size: 2rem; color: #007bff;">👨‍💻 What i've done 1 (Duplicate if multiple)</h2>
+        <h2 style="font-size: 2rem; color: #007bff;">👨‍💻 What i've realised on the project</h2>
         <ul style="font-size: 120%;">
         <li style= "padding-bottom: 15px">
         <div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 20px;">
     <div style="flex: 1; min-width: 0;">
-        <span style="color:rgb(164, 208, 255); font-weight: bold;  font-size: 120%">Title 1 of what i've done</span>
+        <span style="color:rgb(164, 208, 255); font-weight: bold;  font-size: 120%">Dialogues</span>
                 <p style="margin-bottom: 1.2rem;">
-                    "Text 1 of what i've done"
+                    With Yann, the 2nd Game Artist of the game we wrote the dialogues lines and character and place of each characters of the game.
+                </p>
+                <p style="margin-bottom: 2rem;">
+                    We / I, wanted to create a smooth story where the players can easily understand what is happening, how they are impacting the story and what are the objective from each characters.
                 </p>
     </div>
     <div style="flex-shrink: 0;">
-        <img src="https://i.imgur.com/4TVF003.png" alt="Network Diagram" 
-             style="width: 600px; max-width: 150%; border: 1px solid #3d4450; border-radius: 4px;">
+        <img src="\imgs\projects\AlzPP3.PNG" alt="Network Diagram" 
+             style="width: 600px; max-width: 150%; border: 1px solid #3d4450; border-radius: 4px; margin-bottom: 2rem;">
     </div>
 </div>
 
 <details style="margin: 10px 0; border: 1px solid #3d4450; border-radius: 4px;">
     <summary style="cursor: pointer; padding: 8px; background-color: #2a2f3a; color: #fff; font-family: monospace;">
-        "Outlet text"
+        All the characters
     </summary>
     <div style="background-color: #1a1a1a; border-radius: 0 0 4px 4px;">
 <div>
 
-    "Inside the outlet text"
+    - Father : 
+    - Grandma : 
+    - Grandpa : 
+    - Daughter : 
+    - Twins : 
 
 </div>
         </details>
