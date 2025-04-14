@@ -80,11 +80,19 @@
     <div style="background-color: #1a1a1a; border-radius: 0 0 4px 4px;">
 <div>
 
-    - Father : 
-    - Grandma : 
-    - Grandpa : 
-    - Daughter : 
-    - Twins : 
+    - Father : He is the one suffering from Alzheimer, he's still living his life with his kids in a nice house even tho his memory loss
+    and impact from the illness make his life way harder in the daily basis
+
+    - Grandma : She is still living with his son and grandchildrens, tormented by the loss of her beloved husband but really happy
+    to spend some good time with the family
+    - Grandpa : Passed away years ago, was rough but a good father to his kid, teaching him maners and how to live. Probably his roughness
+    made his relation with his son harder during his last moments in the hospital
+
+    - Daughter : The oldest of the childrens, she had to learn life the hard way by taking care of her father with his illness.
+    But she is happy and enjoy life with her two demonic little brothers
+
+    - Twins : Energetic little monsters, they spend their time outside fighting togethers, 
+    crafting wooden house and exploring the woods surrounding the house
 
 </div>
         </details>
