@@ -52,24 +52,28 @@
         </p>
     </div>
 </div>
-<div id="steam" style="display: flex; align-items: center; margin: 2rem 0;">
-    <div style="flex: 1; color: #fff;">
-        <h2 style="font-size: 2rem; color: #007bff;">👨‍💻 What i've realised on the project</h2>
-        <ul style="font-size: 120%;">
-        <li style= "padding-bottom: 15px">
-        <div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 20px;">
-    <div style="flex: 1; min-width: 0;">
-        <span style="color:rgb(164, 208, 255); font-weight: bold;  font-size: 120%">Dialogues</span>
-                <p style="margin-bottom: 1.2rem;">
-                    With Yann, the 2nd Game Artist of the game we wrote the dialogues lines and character and place of each characters of the game.
-                </p>
-                <p style="margin-bottom: 2rem;">
-                    We / I, wanted to create a smooth story where the players can easily understand what is happening, how they are impacting the story and what are the objective from each characters.
-                </p>
+<div id="introduction" style="display: flex; align-items: flex-start; gap: 2rem; margin: 2rem auto; max-width: 1200px;">
+    <!-- Image Column (Left) -->
+    <div style="flex: 1; min-width: 0; margin-top: 8rem;">
+        <img src="\imgs\projects\AlzPP3.PNG" 
+             alt="Featured Concept Art" 
+             style="width: 100%; max-width: 500px; height: auto; border-radius: 8px; object-fit: cover;">
     </div>
-    <div style="flex-shrink: 0;">
-        <img src="\imgs\projects\AlzPP3.PNG" alt="Network Diagram" 
-             style="width: 600px; max-width: 150%; border: 1px solid #3d4450; border-radius: 4px; margin-bottom: 2rem;">
+<div style="flex: 1; padding: 0 15px; color: #fff; text-align: justify; line-height: 1.6;">
+    <h2 style="font-size: 2rem; color: #007bff;">👨‍💻 What I've realized on the project</h2>
+        <ul style="font-size: 120%;">
+            <li style="padding-bottom: 15px;">
+                <div style="display: flex; flex-direction: column; gap: 20px;">
+                    <span style="color:rgb(164, 208, 255); font-weight: bold; font-size: 120%">Dialogues</span>
+                    <p style="margin-bottom: 1.2rem;">
+                        With Yann, the 2nd Game Artist of the game we wrote the dialogues lines and character and place of each characters of the game.
+                    </p>
+                    <p style="margin-bottom: 2rem;">
+                        We / I, wanted to create a smooth story where the players can easily understand what is happening, how they are impacting the story and what are the objective from each characters.
+                    </p>
+                </div>
+            </li>
+        </ul>
     </div>
 </div>
 
@@ -78,7 +82,7 @@
         All the characters
     </summary>
     <div style="background-color: #1a1a1a; border-radius: 0 0 4px 4px;">
-<div>
+    <div>
 
     - Father : He is the one suffering from Alzheimer, he's still living his life with his kids in a nice house even tho his memory loss
     and impact from the illness make his life way harder in the daily basis
@@ -93,7 +97,6 @@
 
     - Twins : Energetic little monsters, they spend their time outside fighting togethers, 
     crafting wooden house and exploring the woods surrounding the house
-
 </div>
         </details>
             </li>
