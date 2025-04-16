@@ -26,7 +26,7 @@
             For this particular story and narrative context we tried doing something around ALzheimer, I had to documentate myself and tried to create something interacting like mini-games through the dialogues to make the players interact directly with the illness and it's impact on people.
         </p>
     </div>
-    <img src="\imgs\projects\AlzPP1.PNG" 
+    <img src="\imgs\projects\Alz\AlzPP1.PNG" 
          alt="Featured Concept Art" 
          style="max-width: 500px; width: 100%; height: auto; border-radius: 8px; object-fit: cover; align-self: center; margin-top: 10rem;">
 </div>
@@ -51,7 +51,7 @@
 <div id="introduction" style="display: flex; align-items: flex-start; gap: 2rem; margin: 2rem auto; max-width: 1200px;">
     <!-- Image Column (Left) -->
     <div style="flex: 1; min-width: 0; margin-top: 4rem;">
-        <img src="\imgs\projects\AlzPP3.PNG" 
+        <img src="\imgs\projects\Alz\AlzPP3.PNG" 
              alt="Featured Concept Art" 
              style="width: 100%; max-width: 500px; height: auto; border-radius: 8px; object-fit: cover;">
     </div>
@@ -101,27 +101,27 @@
 </div>
 <div style="display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap; margin: 2rem 0;">
     <img 
-        src="\imgs\projects\AlzPP4.PNG" 
+        src="\imgs\projects\Alz\AlzPP4.PNG" 
         alt="Image 1" 
         style="width: 200px; height: 400px; object-fit: cover; border-radius: 8px;"
     >
     <img 
-        src="\imgs\projects\AlzPP5.PNG" 
+        src="\imgs\projects\Alz\AlzPP5.PNG" 
         alt="Image 2" 
         style="width: 200px; height: 400px; object-fit: cover; border-radius: 8px;"
     >
     <img 
-        src="\imgs\projects\AlzPP6.PNG" 
+        src="\imgs\projects\Alz\AlzPP6.PNG" 
         alt="Image 3" 
         style="width: 200px; height: 400px; object-fit: cover; border-radius: 8px;"
     >
     <img 
-        src="\imgs\projects\AlzPP7.PNG" 
+        src="\imgs\projects\Alz\AlzPP7.PNG" 
         alt="Image 3" 
         style="width: 200px; height: 400px; object-fit: cover; border-radius: 8px;"
     >
     <img 
-        src="\imgs\projects\AlzPP8.PNG" 
+        src="\imgs\projects\Alz\AlzPP8.PNG" 
         alt="Image 3" 
         style="width: 200px; height: 400px; object-fit: cover; border-radius: 8px;"
     >
@@ -166,9 +166,9 @@
         </ul>
     </div>
     <div style="flex: 1; min-width: 0; margin-top: 4rem;">
-        <img src="\imgs\projects\AlzPP3.PNG" 
-             alt="Featured Concept Art" 
-             style="width: 100%; max-width: 500px; height: auto; border-radius: 8px; object-fit: cover;">
+        <img src="\imgs\projects\Alz\AlzVid1.Gif" alt="this slowpoke moves"  style="width: 100%; max-width: 500px; height: auto; border-radius: 8px; object-fit: cover;margin-top: 4rem;"/>
+        <img src="\imgs\projects\Alz\AlzVid2.Gif" alt="this slowpoke moves"  style="width: 100%; max-width: 500px; height: auto; border-radius: 8px; object-fit: cover;margin-top: 14rem;"/>
+        <img src="\imgs\projects\Alz\AlzPP3.PNG" alt="Featured Concept Art" style="width: 100%; max-width: 500px; height: auto; border-radius: 8px; object-fit: cover;margin-top: 10rem;"/>
     </div>
 </div>
 
