@@ -3,8 +3,9 @@
 <div style="background:rgb(26, 26, 26); padding: 1.5rem; margin-bottom: 2rem; border-radius: 4px; text-align: center;">
 <a href="#introduction" style="color: #007bff; text-decoration: none; margin: 0 10px;">🌟 Introduction</a>
 <a href="#game" style="color: #007bff; text-decoration: none; margin: 0 10px;">👾 Gameplay </a>
-<a href="#steam" style="color: #007bff; text-decoration: none; margin: 0 10px;">📃 Tasks</a>
-<a href="#lesson" style="color: #007bff; text-decoration: none; margin: 0 10px;">📌 Lessons Learned </a>
+<a href="#task" style="color: #007bff; text-decoration: none; margin: 0 10px;">📃 Tasks Realized</a>
+<a href="#lesson" style="color: #007bff; text-decoration: none; margin: 0 10px;">📌 Lessons Learned</a>
+<a href="#infos" style="color: #007bff; text-decoration: none; margin: 0 10px;">⚡ Quick infos</a>
 
 </div>
 
@@ -44,11 +45,11 @@
         <p>
             The objective of the game was to make a driven narrative story with some mini games to create more interactions and comprehension of the illness and impact of it on the daily life of thoses persons.
         </p>
-        <h2 style="font-size: 2rem; color: #007bff;">👨‍💻 What I've realized on the project</h2>
+        <h2 id="task" style="font-size: 2rem; color: #007bff;">👨‍💻 What I've realized on the project</h2>
     </div>
 </div>
 
-<div id="introduction" style="display: flex; align-items: flex-start; gap: 2rem; margin: 2rem auto; max-width: 1200px;">
+<div style="display: flex; align-items: flex-start; gap: 2rem; margin: 2rem auto; max-width: 1200px;">
     <!-- Image Column (Left) -->
     <div style="flex: 1; min-width: 0; margin-top: 4rem;">
         <img src="\imgs\projects\Alz\AlzPP3.PNG" 
@@ -127,7 +128,7 @@
     >
 </div>
 
-<div id="introduction" style="display: flex; align-items: flex-start; gap: 2rem; margin: 2rem auto; max-width: 1200px;">
+<div style="display: flex; align-items: flex-start; gap: 2rem; margin: 2rem auto; max-width: 1200px;">
     <!-- Image Column (Left) -->
 <div style="flex: 1; padding: 0 15px; color: #fff; text-align: justify; line-height: 1.6;">
         <ul style="font-size: 120%;">
@@ -172,14 +173,30 @@
     </div>
 </div>
 
-<div id="lesson" style="display: flex; align-items: center; margin: 2rem 0;">
-    <div style="flex: 1; padding: 0 15px; color: #fff;">
-        <h2 style="font-size: 2rem; color: #007bff;">📌 Lessons Learned</h2>
-        <p>
-            "What I learnt during the project"
+<div id="lesson" style="display: flex; align-items: flex-start; gap: 2rem; margin: 2rem 0; max-width: 1200px; margin-left: auto; margin-right: auto;">
+    <div style="color: fff; text-align: justify; line-height: 1.6;">
+        <h2 style="font-size: 2rem; color: #007bff; margin-bottom: 4rem;">📌 Lessons Learned</h2>
+        <div style="margin-left: 3.5rem;"><p>
+            - I've learn that it's way harder for a little project like this one to be able the characters really impactant for the players, as well as the story.
         </p>
+        <p>- I feel like the game is lacking of interaction, mini games and dialogue possibility to make less of an "skip the dialogue simulator".</p>
+        <p>- I still liked the project in term of art and design of the universe, would have definitly loved to make the narration a bit less deep and more entraining for the players, so they catch up with the father instantly and have more fun or understanding playing and interacting with the different family members.</p></div>
     </div>
-    <img src="https://media.discordapp.net/attachments/1212459753343557682/1348978988139417680/lrs01_1.png?ex=67d216d5&is=67d0c555&hm=2c763f3c0b7a6f4fa3508069ea36d77d3164b346ce864e0af9ad709e1ec2ff35&=&format=webp&quality=lossless&width=1175&height=940" 
-         alt="Featured Concept Art" 
-         style="margin-left: 12px;">
+</div>
+
+<div id="infos" style="display: flex; align-items: flex-start; gap: 2rem; margin: 2rem 0; max-width: 1200px; margin-left: auto; margin-right: auto;">
+    <div style="color: fff; text-align: justify; line-height: 1.6;">
+        <h2 style="font-size: 2rem; color: #007bff; margin-bottom: 4rem;">⚡ Quick infos</h2>
+        <div style="margin-left: 3.5rem;">
+        <p style="margin-bottom: 2rem;">
+            Project made in 3 Weeks (Only during free time)
+        </p>
+        <p style="margin-bottom: 2rem;">The game got nominated at the Hauts-de-Seine Festival along with the others game from the 18+y category</p>
+        <p style="margin-bottom: 1rem;">The team :</p>
+        <p style="margin-bottom: -1rem;">- Game Artists : Lucio Mazza & Yann Gigez</p>
+        <p style="margin-bottom: -1rem;">- Programmers : Victor Lacombe & Gabriel Le Mer</p>
+        <p style="margin-bottom: 2rem;">- Designer : Me</p>
+        <p style="margin-bottom: 2rem;">The game is not playable, we decided to not publish it since it's a short project and we would have wish to have more time to work on it to fully show the story and experience</p>
+        </div>
+    </div>
 </div>

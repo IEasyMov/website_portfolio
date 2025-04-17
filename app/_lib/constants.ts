@@ -85,7 +85,7 @@ export const portfolioProjects: ProjectProps[] = [
       id: "alzmemory",
       heading: "AlzMemory?",
       subheading: "",
-      imageUrl: "/imgs/projects/AlzPP2.PNG",
+      imageUrl: "/imgs/projects/Alz/AlzPP2.PNG",
       techStack: [
         "",
       ],
