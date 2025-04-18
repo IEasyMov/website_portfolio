@@ -1,6 +1,7 @@
 <!-- Summary Section with Navigation -->
 
 <div style="background:rgb(26, 26, 26); padding: 1.5rem; margin-bottom: 2rem; border-radius: 4px; text-align: center;">
+<a href="#pitch" style="color: #007bff; text-decoration: none; margin: 0 10px;">💎 Pitch</a>
 <a href="#introduction" style="color: #007bff; text-decoration: none; margin: 0 10px;">🌟 Introduction</a>
 <a href="#game" style="color: #007bff; text-decoration: none; margin: 0 10px;">👾 Gameplay </a>
 <a href="#task" style="color: #007bff; text-decoration: none; margin: 0 10px;">📃 Tasks Realized</a>
@@ -8,6 +9,13 @@
 <a href="#infos" style="color: #007bff; text-decoration: none; margin: 0 10px;">⚡ Quick infos</a>
 
 </div>
+<div style="margin-left: 3.5rem;"><h2 id="pitch" style="font-size: 2rem; color: #007bff; margin-bottom: 1.5rem;">💎 Pitch</h2>
+        <p style="margin-bottom: -1rem;">
+            Hey you.. Please help my father, he seems.. Lost in his thoughs.. He's really sick you know
+        </p>
+        <p style="margin-bottom: 6rem;">
+            Lend him a hand for us, his lovely family
+        </p></div>
 
 <!-- Main Content with Anchor -->
 <div id="introduction" style="display: flex; align-items: flex-start; gap: 2rem; margin: 2rem 0; max-width: 1200px; margin-left: auto; margin-right: auto;">
@@ -19,15 +27,12 @@
         <p style="margin-bottom: 1.2rem;">
             This is a short project we created for the Haut-de-Seine Festival, we had to make a game around the theme <i>Courage</i>.
         </p>
-        <p style="margin-bottom: 4rem;">
-            We made this project with a little team of 5 in 3 weeks.
-        </p>
         <p>
             My objectives during this project was to try orienting and making the players feel and think through a created character with his own story and background.
             For this particular story and narrative context we tried doing something around ALzheimer, I had to documentate myself and tried to create something interacting like mini-games through the dialogues to make the players interact directly with the illness and it's impact on people.
         </p>
     </div>
-    <img src="\imgs\projects\Alz\AlzPP1.PNG" 
+    <img src="https://i.imgur.com/oTH2nLd.png" 
          alt="Featured Concept Art" 
          style="max-width: 500px; width: 100%; height: auto; border-radius: 8px; object-fit: cover; align-self: center; margin-top: 10rem;">
 </div>
@@ -52,7 +57,7 @@
 <div style="display: flex; align-items: flex-start; gap: 2rem; margin: 2rem auto; max-width: 1200px;">
     <!-- Image Column (Left) -->
     <div style="flex: 1; min-width: 0; margin-top: 4rem;">
-        <img src="\imgs\projects\Alz\AlzPP3.PNG" 
+        <img src="https://i.imgur.com/HBqNJ7X.png" 
              alt="Featured Concept Art" 
              style="width: 100%; max-width: 500px; height: auto; border-radius: 8px; object-fit: cover;">
     </div>
@@ -102,27 +107,27 @@
 </div>
 <div style="display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap; margin: 2rem 0;">
     <img 
-        src="\imgs\projects\Alz\AlzPP4.PNG" 
+        src="https://i.imgur.com/BUv9WnH.png" 
         alt="Image 1" 
         style="width: 200px; height: 400px; object-fit: cover; border-radius: 8px;"
     >
     <img 
-        src="\imgs\projects\Alz\AlzPP5.PNG" 
+        src="https://i.imgur.com/d4Drc4y.png" 
         alt="Image 2" 
         style="width: 200px; height: 400px; object-fit: cover; border-radius: 8px;"
     >
     <img 
-        src="\imgs\projects\Alz\AlzPP6.PNG" 
+        src="https://i.imgur.com/Zn4iVPx.png" 
         alt="Image 3" 
         style="width: 200px; height: 400px; object-fit: cover; border-radius: 8px;"
     >
     <img 
-        src="\imgs\projects\Alz\AlzPP7.PNG" 
+        src="https://i.imgur.com/K98jPEV.png" 
         alt="Image 3" 
         style="width: 200px; height: 400px; object-fit: cover; border-radius: 8px;"
     >
     <img 
-        src="\imgs\projects\Alz\AlzPP8.PNG" 
+        src="https://i.imgur.com/GLOq4Ed.png" 
         alt="Image 3" 
         style="width: 200px; height: 400px; object-fit: cover; border-radius: 8px;"
     >
@@ -169,9 +174,9 @@
     <div style="flex: 1; min-width: 0; margin-top: 4rem;">
         <img src="\imgs\projects\Alz\AlzVid1.Gif" alt="this slowpoke moves"  style="width: 100%; max-width: 500px; height: auto; border-radius: 8px; object-fit: cover;margin-top: 4rem;"/>
         <img src="\imgs\projects\Alz\AlzVid2.Gif" alt="this slowpoke moves"  style="width: 100%; max-width: 500px; height: auto; border-radius: 8px; object-fit: cover;margin-top: 14rem;"/>
-        <img src="\imgs\projects\Alz\AlzPP3.PNG" alt="Featured Concept Art" style="width: 100%; max-width: 500px; height: auto; border-radius: 8px; object-fit: cover;margin-top: 10rem;"/>
+        <img src="https://i.imgur.com/k21f489.png" alt="Featured Concept Art" style="width: 100%; max-width: 500px; height: auto; border-radius: 8px; object-fit: cover;margin-top: 10rem;"/>
     </div>
-</div>
+</div>  
 
 <div id="lesson" style="display: flex; align-items: flex-start; gap: 2rem; margin: 2rem 0; max-width: 1200px; margin-left: auto; margin-right: auto;">
     <div style="color: fff; text-align: justify; line-height: 1.6;">

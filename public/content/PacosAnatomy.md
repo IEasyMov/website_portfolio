@@ -1,6 +1,7 @@
 <!-- Summary Section with Navigation -->
 
 <div style="background:rgb(26, 26, 26); padding: 1.5rem; margin-bottom: 2rem; border-radius: 4px; text-align: center;">
+<a href="#pitch" style="color: #007bff; text-decoration: none; margin: 0 10px;">💎 Pitch</a>
 <a href="#introduction" style="color: #007bff; text-decoration: none; margin: 0 10px;">🌟 Introduction</a>
 <a href="#game" style="color: #007bff; text-decoration: none; margin: 0 10px;">👾 Gameplay </a>
 <a href="#steam" style="color: #007bff; text-decoration: none; margin: 0 10px;">📃 Tasks</a>
@@ -9,7 +10,7 @@
 </div>
 
 <!-- Main Content with Anchor -->
-<h2 style="font-size: 2rem; color: #007bff; margin-bottom: 1.5rem;">💎 Pitch</h2>
+<h2 id="pitch" style="font-size: 2rem; color: #007bff; margin-bottom: 1.5rem;">💎 Pitch</h2>
         <p style="margin-bottom: -1rem;">
             Doc! We need you! Our little monster Paco requires your help. As an expert you should be able to fix him.. Right?
         </p>

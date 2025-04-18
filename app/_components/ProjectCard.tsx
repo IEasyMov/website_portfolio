@@ -38,22 +38,14 @@ const ProjectCard = ({ project }: { project: ProjectProps }) => {
         className="rounded-lg overflow-hidden block relative group"
       >
         {/* Fallback image */}
-        <img
-          src={imageUrl}
-          alt={heading}
-          className="w-full h-auto"
-        />
+        <div className="aspect-square w-full overflow-hidden">
+          <img src={imageUrl} alt={heading} className="w-full h-full object-cover" />
+        </div>
       </Link>
       <div>
         <h3 className="text-2xl sm:text-3xl font-semibold text-center">{heading}</h3>
         <div className="mt-8 flex flex-col sm:flex-row justify-between gap-5">
           <ProjectTechnologiesMini techStack={techStack} techStackEngine={techStackEngine} techStackAbout={techStackAbout} techStackSize={techStackSize} techStackAward={techStackAward} />
-          {/* <Link
-            href={`/work/${id}`}
-            className="p-3 bg-primary hover:bg-primary/80 transition-colors duration-200 rounded-lg self-start sm:self-end"
-          >
-            <MoveUpRight className="size-5 sm:size-8 text-[#F3F4F3] dark:text-dark-200" />
-          </Link> */}
         </div>
       </div>
     </motion.div>
