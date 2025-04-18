@@ -25,7 +25,7 @@
             <i>GameName</i> Introduction of the game
         </p>
         <p style="margin-bottom: 1.2rem;">
-            Context of the game
+            Context of the game, why we made it
         </p>
         <p>
             My Objectives for the project
