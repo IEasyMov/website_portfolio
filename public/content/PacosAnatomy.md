@@ -30,7 +30,7 @@
         <p style="margin-bottom: 2rem;">
             This project was very particular because it was a physical game, plus it was Alternative Controler kind..
         </p>
-        <p style="margin-bottom: 1rem;"><b>My task during the project : </b></p>
+        <p style="margin-bottom: 1rem;"><b>!!! TO DELETE My task during the project : </b></p>
         <p style="margin-bottom: -1rem;">- Conceiving the Game Design Document of the project</p>
         <p style="margin-bottom: -1rem;">- Imagining and schematizing all the 3 mini-games for the heart, brain and lungs</p>
         <p style="margin-bottom: -1rem;">- Helping creating the mechanical inputs of the game</p>
