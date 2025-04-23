@@ -13,7 +13,7 @@
         <p style="margin-bottom: -1rem;">
             Pitch1
         </p>
-        <p style="margin-bottom: 6rem;">
+        <p style="margin-bottom: 2rem;">
             Pitch2
         </p></div>
 
