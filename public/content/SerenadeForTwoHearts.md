@@ -25,10 +25,10 @@
             <i>Serenade for two Heart</i> is a dating sims where you try to date different people. To do so you'll have different choice to try and succed in you conquest of love.
         </p>
         <p style="margin-bottom: 1.2rem;">
-            Context of the game, why we made it
+            We made the game during a narrative game project at school, we were by little group and basicly as a really small scope project we had to make a narrative game.
         </p>
         <p>
-            My Objectives for the project
+            My Objectives for the project were to try getting along with the dating sim type of games, as well as succeding putting myself at the place of the main character in a romantic way to make the flirt and dialogued more accurate, logic and realistic.
         </p>
     </div>
     <img src="https://i.imgur.com/oTH2nLd.png" 

@@ -21,7 +21,7 @@
 <div id="introduction" style="display: flex; align-items: flex-start; gap: 2rem; margin: 2rem 0; max-width: 1200px; margin-left: auto; margin-right: auto;">
     <div style="flex: 1; padding: 0 15px; color: #fff; text-align: justify; line-height: 1.6; max-width: 600px;">
         <h2 style="font-size: 2rem; color: #007bff; margin-bottom: 4rem;">🌟 Introduction</h2>
-        <p style="margin-bottom: 4rem;">
+        <p style="margin-bottom: 2rem;">
             <i>GameName</i> Introduction of the game
         </p>
         <p style="margin-bottom: 1.2rem;">
