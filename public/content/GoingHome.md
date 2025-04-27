@@ -194,14 +194,9 @@
         <h2 style="font-size: 2rem; color: #007bff; margin-bottom: 4rem;">⚡ Quick infos</h2>
         <div style="margin-left: 3.5rem;">
         <p style="margin-bottom: 2rem;">
-            quickinfo1
+            Project is still on going, I worked on it for 3 months on Unity
         </p>
-        <p style="margin-bottom: 2rem;">quickinfo2</p>
-        <p style="margin-bottom: 1rem;">The team :</p>
-        <p style="margin-bottom: -1rem;">team1</p>
-        <p style="margin-bottom: -1rem;">team2</p>
-        <p style="margin-bottom: 2rem;">team</p>
-        <p style="margin-bottom: 2rem;">published?</p>
+        <p style="margin-bottom: 2rem;">The game is still in developpement and not playable yet</p>
         </div>
     </div>
 </div>

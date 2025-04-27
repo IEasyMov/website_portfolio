@@ -180,14 +180,12 @@
         <h2 style="font-size: 2rem; color: #007bff; margin-bottom: 4rem;">⚡ Quick infos</h2>
         <div style="margin-left: 3.5rem;">
         <p style="margin-bottom: 2rem;">
-            quickinfo1
+            Project made in 1 Month on Unity
         </p>
-        <p style="margin-bottom: 2rem;">quickinfo2</p>
         <p style="margin-bottom: 1rem;">The team :</p>
-        <p style="margin-bottom: -1rem;">team1</p>
-        <p style="margin-bottom: -1rem;">team2</p>
-        <p style="margin-bottom: 2rem;">team</p>
-        <p style="margin-bottom: 2rem;">published?</p>
+        <p style="margin-bottom: 0rem;">- Programmers : Victor Lacombe</p>
+        <p style="margin-bottom: 3rem;">- Designer : Me (we made the little tweaks and ideas togethers with Victor)</p>
+        <p style="margin-bottom: 2rem;">The game is playable by downloading the files, adding it on Steam as a Non-Steam game, and then you can invite your friends through the Steam Contact List</p>
         </div>
     </div>
 </div>

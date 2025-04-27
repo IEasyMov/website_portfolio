@@ -6,6 +6,7 @@
 <a href="#game" style="color: #007bff; text-decoration: none; margin: 0 10px;">👾 Gameplay </a>
 <a href="#steam" style="color: #007bff; text-decoration: none; margin: 0 10px;">📃 Tasks</a>
 <a href="#lesson" style="color: #007bff; text-decoration: none; margin: 0 10px;">📌 Lessons Learned </a>
+<a href="#infos" style="color: #007bff; text-decoration: none; margin: 0 10px;">⚡ Quick infos</a>
 
 </div>
 
@@ -103,4 +104,21 @@
     <img src="https://media.discordapp.net/attachments/1212459753343557682/1348978988139417680/lrs01_1.png?ex=67d216d5&is=67d0c555&hm=2c763f3c0b7a6f4fa3508069ea36d77d3164b346ce864e0af9ad709e1ec2ff35&=&format=webp&quality=lossless&width=1175&height=940" 
          alt="Featured Concept Art" 
          style="margin-left: 12px;">
+</div>
+
+<div id="infos" style="display: flex; align-items: flex-start; gap: 2rem; margin: 2rem 0; max-width: 1200px; margin-left: auto; margin-right: auto;">
+    <div style="color: fff; text-align: justify; line-height: 1.6;">
+        <h2 style="font-size: 2rem; color: #007bff; margin-bottom: 4rem;">⚡ Quick infos</h2>
+        <div style="margin-left: 3.5rem;">
+        <p style="margin-bottom: 2rem;">
+            Project made in 2 weeks on Unity + Physicly Handmade monster
+        </p>
+        <p style="margin-bottom: 1rem;">The team :</p>
+        <p style="margin-bottom: 0rem;">- Programmers : Victor Lacombe, Santino Romero, Ema Ouardi</p>
+        <p style="margin-bottom: 0rem;">- Designers : Scotty Fermin & Me</p>
+        <p style="margin-bottom: 0rem;">- Artists : Chaher Himaya & Marion Puigcerver</p>
+        <p style="margin-bottom: 3rem;">- Producer : Lionel Bourgeois</p>
+        <p style="margin-bottom: 2rem;">The game is sadly not playable from home since the monster is required for the game to be working, however there are some gameplay videos a above on the page</p>
+        </div>
+    </div>
 </div>

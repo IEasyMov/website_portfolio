@@ -184,14 +184,14 @@
         <h2 style="font-size: 2rem; color: #007bff; margin-bottom: 4rem;">⚡ Quick infos</h2>
         <div style="margin-left: 3.5rem;">
         <p style="margin-bottom: 2rem;">
-            quickinfo1
+            Project made in 2 weeks on Unreal Engine 5
         </p>
-        <p style="margin-bottom: 2rem;">quickinfo2</p>
         <p style="margin-bottom: 1rem;">The team :</p>
-        <p style="margin-bottom: -1rem;">team1</p>
-        <p style="margin-bottom: -1rem;">team2</p>
-        <p style="margin-bottom: 2rem;">team</p>
-        <p style="margin-bottom: 2rem;">published?</p>
+        <p style="margin-bottom: 0rem;">- Programmers : Clément Bostyn, Alexis Le Bourhis and Santino Romero</p>
+        <p style="margin-bottom: 0rem;">- Designers : Scotty Fermin, Thomas Florent, Virgile Vazeille and Me</p>
+        <p style="margin-bottom: 0rem;">- Artists : Paul Averous, Nathalie Pahmer and Aida Menheim</p>
+        <p style="margin-bottom: 3rem;">- Producer : Anna Samoilenko & Alessandro Santarelli</p>
+        <p style="margin-bottom: 2rem;">The game is playable and available on the Itch.io page below</p>
         </div>
     </div>
 </div>
