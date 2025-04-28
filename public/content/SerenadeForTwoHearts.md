@@ -180,14 +180,13 @@
         <h2 style="font-size: 2rem; color: #007bff; margin-bottom: 4rem;">⚡ Quick infos</h2>
         <div style="margin-left: 3.5rem;">
         <p style="margin-bottom: 2rem;">
-            quickinfo1
+            Project made in 1 month on Unity
         </p>
-        <p style="margin-bottom: 2rem;">quickinfo2</p>
         <p style="margin-bottom: 1rem;">The team :</p>
-        <p style="margin-bottom: -1rem;">team1</p>
-        <p style="margin-bottom: -1rem;">team2</p>
-        <p style="margin-bottom: 2rem;">team</p>
-        <p style="margin-bottom: 2rem;">published?</p>
+        <p style="margin-bottom: 0rem;">- Programmers : Jules Krabal, Maxens Thiam and Tom Segaux</p>
+        <p style="margin-bottom: 0rem;">- Designers : Nicolas Couillais and me</p>
+        <p style="margin-bottom: 0rem;">- Artists : Yann Gigez</p>
+        <p style="margin-bottom: 2rem;">The game is playble from the Itch.io page below!</p>
         </div>
     </div>
 </div>
