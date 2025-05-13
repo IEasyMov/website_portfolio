@@ -32,7 +32,6 @@
             This project was very particular because it was a physical game, plus it was Alternative Controler kind..
         </p>
         <p style="margin-bottom: 1rem;"><b>!!! TO DELETE My task during the project : </b></p>
-        <p style="margin-bottom: -1rem;">- Conceiving the Game Design Document of the project</p>
         <p style="margin-bottom: -1rem;">- Imagining and schematizing all the 3 mini-games for the heart, brain and lungs</p>
         <p style="margin-bottom: -1rem;">- Helping creating the mechanical inputs of the game</p>
         <p style="margin-bottom: -1rem;">- Helping creating the physical monster</p>
@@ -52,45 +51,77 @@
         </p>
         <p style="margin-bottom: -1rem;">Each gauge represent one organ, when the organ's mini-game starts, the gauge starts decreasing too until the game is completed, which put back the gauge to the max.</p>
         <p style="margin-bottom: 2rem;">If two gauges decrease to zero the game will be lost, you have to keep Paco alive for 2 minutes, with then at least 2 organs alive.</p>
-        <h3 style="font-size: 1.7rem; color: #007bff; margin-bottom: 1.5rem;">How to play</h3>
-        <p style="margin-bottom: -1rem;">
-            <b style="font-size: 1.2rem; color: #007bff;">The heart</b> - The heart is basicly a pump, on the screen we show you a line on which a heartbeat will appear.
-        </p>
-        <p style="margin-bottom: -1rem;">You have to press the heart / pump with your hand firmly each time the heartbeat reach the line to do one beat.</p>
-        <p style="margin-bottom: -1rem;">You have to complete as much heartbeat in a row as there are beats on the exemple line, each time you complete one, one symbol on the exemple line will turn green, if you fail one, everything reset.</p>
     </div>
 </div>
 <div id="steam" style="display: flex; align-items: center; margin: 2rem 0;">
     <div style="flex: 1; color: #fff;">
-        <h2 style="font-size: 2rem; color: #007bff;">👨‍💻 What i've done 1 (Duplicate if multiple)</h2>
+        <h2 style="font-size: 2rem; color: #007bff;">👨‍💻 What I've realized on the project</h2>
         <ul style="font-size: 120%;">
         <li style= "padding-bottom: 15px">
         <div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 20px;">
     <div style="flex: 1; min-width: 0;">
-        <span style="color:rgb(164, 208, 255); font-weight: bold;  font-size: 120%">Title 1 of what i've done</span>
+        <span style="color:rgb(164, 208, 255); font-weight: bold;  font-size: 120%">The game concept</span>
                 <p style="margin-bottom: 1.2rem;">
-                    "Text 1 of what i've done"
+                    The first task, but if not the most important of the project, was to find a novative and original concept for that alternative controller game.
+                </p>
+                <p style="margin-bottom: 0rem;">
+                    Scotty Fermin and me were the first to work on it, since it was a week dedicated of finding an idea, before creating a whole team.
+                </p>
+                <p style="margin-bottom: -1rem;">
+                    We had two main ideas, one being a toilet box where the player would have to play with the toilet broom, the flush, and with the screen being in the toilet hole.
+                </p>
+                <p style="margin-bottom: 1rem;">
+                    The second idea being Paco's idea. A big monster with holes in his body, the player would have to put his hands in it and play with his organs to do something (we hadn't choose it would be o keep him alive as a vet at first).
+                </p>
+                <p style="margin-bottom: -1rem;">
+                    We then decided to push a bit the monster idea and created a powerpoint presentation, the main objective now would be to make the idea and concept the most attractive possible.
+                </p>
+                <p style="margin-bottom: 3rem;">
+                    (Why ? Because the first week were only Scotty and me (2 GD's), then during the weekend, we'll send our powerpoint and the other students would choose the one they like the most among all the concepts, and place themselves in each teams, it was a great idea to create teams in my opinion).
                 </p>
     </div>
     <div style="flex-shrink: 0;">
-        <img src="https://i.imgur.com/4TVF003.png" alt="Network Diagram" 
-             style="width: 600px; max-width: 150%; border: 1px solid #3d4450; border-radius: 4px;">
+        <img src="\imgs\projects\Paco\Paco1.png" alt="Network Diagram" 
+             style="width: 600px; max-width: 150%; border: 1px solid #3d4450; border-radius: 4px; margin-top: 13rem;">
+             <p>
+            <i>Main page of the powerpoint presentation</i>
+        </p>
     </div>
 </div>
 
 <details style="margin: 10px 0; border: 1px solid #3d4450; border-radius: 4px;">
     <summary style="cursor: pointer; padding: 8px; background-color: #2a2f3a; color: #fff; font-family: monospace;">
-        "Outlet text"
+        Link to the powerpoint presentation (Mostly in French)
     </summary>
     <div style="background-color: #1a1a1a; border-radius: 0 0 4px 4px;">
 <div>
-
-    "Inside the outlet text"
-    
+    <a href="https://www.canva.com/design/DAGTP9a1HuE/uUs5RALX030iOwALMv81mg/edit?utm_content=DAGTP9a1HuE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank" style="color: #007bff;">Public acces to Paco's Anatomy first design document</a>
 </div>
         </details>
             </li>
         </ul>
+    </div>
+</div>
+
+<div id="steam" style="display: flex; align-items: center; margin: 2rem 0;">
+    <div style="flex: 1; color: #fff;">
+        <ul style="font-size: 120%;">
+        <li style= "padding-bottom: 15px">
+        <div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 20px;">
+        <div style="flex-shrink: 0;">
+        <img src="\imgs\projects\Paco\Paco1.png" alt="Network Diagram" 
+             style="width: 600px; max-width: 150%; border: 1px solid #3d4450; border-radius: 4px; margin-top: 13rem;">
+             <p>
+            <i>Main page of the powerpoint presentation</i>
+        </p>
+    </div>
+    <div style="flex: 1; min-width: 0;">
+        <span style="color:rgb(164, 208, 255); font-weight: bold;  font-size: 120%">Imagining and schematizing all 3 mini-games</span>
+                <p style="margin-bottom: -1rem;">
+            <b style="color: #007bff;">The heart</b> - The heart is basicly a pump that the player has to press with his hand inside of the hole. On the screen, we show you a line on which a heartbeat will appear, like a rythm
+        </p>
+        <p style="margin-bottom: -1rem;">You have to press the heart / pump with your hand firmly each time the heartbeat reach the line to do one beat.</p>
+        <p style="margin-bottom: -1rem;">You have to complete as much heartbeat in a row as there are beats on the exemple line, each time you complete one, one symbol on the exemple line will turn green, if you fail one, everything reset.</p>
     </div>
 </div>
 
