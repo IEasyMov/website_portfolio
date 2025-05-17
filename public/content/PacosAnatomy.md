@@ -31,15 +31,9 @@
         <p style="margin-bottom: 2rem;">
             This project was very particular because it was a physical game, plus it was Alternative Controler kind..
         </p>
-        <p style="margin-bottom: 1rem;"><b>!!! TO DELETE My task during the project : </b></p>
-        <p style="margin-bottom: -1rem;">- Imagining and schematizing all the 3 mini-games for the heart, brain and lungs</p>
-        <p style="margin-bottom: -1rem;">- Helping creating the mechanical inputs of the game</p>
-        <p style="margin-bottom: -1rem;">- Helping creating the physical monster</p>
-        <p style="margin-bottom: -1rem;">- Searching and setting up the sounds of the game</p>
     </div>
-    <img src="https://media.licdn.com/dms/image/v2/D4E22AQHJhQPWxmY-qQ/feedshare-shrink_2048_1536/B4EZW7ucEAHgAo-/0/1742611275095?e=1747267200&v=beta&t=V-7hLRHLs-OEpLyIwlEDwVmHDotjpJh9htpTPddb7eY" 
-         alt="Featured Concept Art" 
-         style="max-width: 500px; width: 100%; height: auto; border-radius: 8px; object-fit: cover; align-self: center;">
+    <img src="\imgs\projects\Paco\Paco3.png" alt="Paco at the GDC" 
+             style="width: 600px; max-width: 150%; border: 1px solid #3d4450; border-radius: 4px; margin-top: 9.5rem;">
 </div>
 
 
@@ -53,11 +47,30 @@
         <p style="margin-bottom: 2rem;">If two gauges decrease to zero the game will be lost, you have to keep Paco alive for 2 minutes, with then at least 2 organs alive.</p>
     </div>
 </div>
+<details style="margin: 10px 0; border: 1px solid #3d4450; border-radius: 4px;">
+    <summary style="cursor: pointer; padding: 8px; background-color: #2a2f3a; color: #fff; font-family: monospace;">
+        Gameplay Video
+    </summary>
+    <div style="background-color: #1a1a1a; border-radius: 0 0 4px 4px;">
+        <div style="max-width: 800px; margin: 2rem auto; aspect-ratio: 16/9;">
+            <iframe 
+                width="100%" 
+                height="100%"
+                src="https://www.youtube.com/embed/frU4FpPoatA?start=0&rel=0" 
+                title="Paco's Anatomy Gameplay" 
+                frameborder="0" 
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+                allowfullscreen
+                style="border-radius: 8px;"
+            ></iframe>
+        </div>
+    </div>
+        </details>
+
 <div id="steam" style="display: flex; align-items: center; margin: 2rem 0;">
     <div style="flex: 1; color: #fff;">
         <h2 style="font-size: 2rem; color: #007bff;">👨‍💻 What I've realized on the project</h2>
         <ul style="font-size: 120%;">
-        <li style= "padding-bottom: 15px">
         <div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 20px;">
     <div style="flex: 1; min-width: 0;">
         <span style="color:rgb(164, 208, 255); font-weight: bold;  font-size: 120%">The game concept</span>
@@ -81,7 +94,7 @@
                 </p>
     </div>
     <div style="flex-shrink: 0;">
-        <img src="\imgs\projects\Paco\Paco1.png" alt="Network Diagram" 
+        <img src="\imgs\projects\Paco\Paco1.png" alt="Main page of presentation" 
              style="width: 600px; max-width: 150%; border: 1px solid #3d4450; border-radius: 4px; margin-top: 13rem;">
              <p>
             <i>Main page of the powerpoint presentation</i>
@@ -102,27 +115,50 @@
         </ul>
     </div>
 </div>
-
-<div id="steam" style="display: flex; align-items: center; margin: 2rem 0;">
+<p style="color:rgb(164, 208, 255); font-weight: bold;  font-size: 26px; margin-left: 2.5rem;">Imagining and schematizing all 3 mini-games</p>
+<div style="display: flex; align-items: center; margin: 2rem 0;">
     <div style="flex: 1; color: #fff;">
         <ul style="font-size: 120%;">
-        <li style= "padding-bottom: 15px">
         <div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 20px;">
         <div style="flex-shrink: 0;">
-        <img src="\imgs\projects\Paco\Paco1.png" alt="Network Diagram" 
-             style="width: 600px; max-width: 150%; border: 1px solid #3d4450; border-radius: 4px; margin-top: 13rem;">
-             <p>
-            <i>Main page of the powerpoint presentation</i>
-        </p>
+        <img src="\imgs\projects\Paco\PacoHeart.gif" alt="Gif of the heart mini game" 
+             style="width: 550px; max-width: 150%; border: 1px solid #3d4450; border-radius: 4px; margin-top: 6rem;">
     </div>
     <div style="flex: 1; min-width: 0;">
-        <span style="color:rgb(164, 208, 255); font-weight: bold;  font-size: 120%">Imagining and schematizing all 3 mini-games</span>
-                <p style="margin-bottom: -1rem;">
+        <p style="margin-bottom: -1rem;margin-top: 6.5rem;">
             <b style="color: #007bff;">The heart</b> - The heart is basicly a pump that the player has to press with his hand inside of the hole. On the screen, we show you a line on which a heartbeat will appear, like a rythm
         </p>
         <p style="margin-bottom: -1rem;">You have to press the heart / pump with your hand firmly each time the heartbeat reach the line to do one beat.</p>
         <p style="margin-bottom: -1rem;">You have to complete as much heartbeat in a row as there are beats on the exemple line, each time you complete one, one symbol on the exemple line will turn green, if you fail one, everything reset.</p>
     </div>
+</div>
+
+<div style="display: flex; align-items: center; margin: 2rem 0;">
+    <div style="flex: 1; min-width: 0;">
+        <p style="margin-bottom: -1rem;margin-top: 3rem;">
+            <b style="color: #007bff;">The lungs</b> - For that part it was the hardest of them three to do, we wanted to have a feeling like cow utters to pull, a bit like if you were touching thin lungs (times 3, he's a monster afterall).
+        </p>
+        <p style="margin-bottom: -1rem;">We made it with ballons filled with flour, for the pressing part so they're a bit hard but soft in the same time.</p>
+        <p style="margin-bottom: -1rem;">For the mini-game on the other hand it's easy, you have to pull the lungs to fill up the oxygen jauge of the monster (3 jauges, for the three lungs to pull). Once they're all pulled and so filled in game, the mini-game is complete.</p>
+    </div>
+    <div style="flex-shrink: 0;">
+        <img src="\imgs\projects\Paco\PacoLungs.gif" alt="Gif of the heart mini game" 
+             style="width: 550px; max-width: 150%; border: 1px solid #3d4450; border-radius: 4px; margin-top: 7rem;margin-left: 2rem;">
+    </div> 
+</div>
+
+<div style="display: flex; align-items: center; margin: 2rem 0;">
+    <div style="flex-shrink: 0;">
+        <img src="\imgs\projects\Paco\PacoBrain.gif" alt="Gif of the heart mini game" 
+             style="width: 550px; max-width: 150%; border: 1px solid #3d4450; border-radius: 4px; margin-top: 6rem;margin-right: 2.5rem;">
+    </div>
+    <div style="flex: 1; min-width: 0;">
+        <p style="margin-bottom: -1rem;margin-top: 3rem;">
+            <b style="color: #007bff;">The brain</b> - The brain must have been the quickest of them 3 to do, basicly there is 5 little neurons (it's switches on/off buttons) inside of the brain's hole in Paco's chest.
+        </p>
+        <p style="margin-bottom: -1rem;">We give on the game screen a code (ex: off, on, on, off, off) and the actual state of the neurons.</p>
+        <p style="margin-bottom: -1rem;">The player has to find them and activate them one by one to complete the code and validate the game.</p>
+    </div> 
 </div>
 
 <div id="lesson" style="display: flex; align-items: center; margin: 2rem 0;">
