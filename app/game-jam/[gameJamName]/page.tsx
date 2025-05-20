@@ -19,8 +19,9 @@ import {
 import Image from "next/image";
 import Link from "next/link";
 import { notFound } from "next/navigation";
+import type { Metadata } from 'next';
 
-export function generateMetadata({ params }: { params: { gameJamName: string } }) {
+export function generateMetadata({ params }: { params: { gameJamName: string } }): Metadata {
   const gameJam = portfolioGameJam?.find(g => g.id === params.gameJamName);
   return { 
     title: gameJam?.heading || "Game Jam Not Found",
@@ -34,8 +35,7 @@ const navItems = [
   { name: "Contact", link: "/#contact", icon: <ContactIcon /> },
 ];
 
-export default function GameJamPage({ params }: { params: { gameJamName: string } }) {
-
+export default async function GameJamPage({ params }: { params: { gameJamName: string } }) {
   console.log('Route params:', params);
   console.log('Looking for Game Jam:', params.gameJamName);
   console.log('Available Game Jams:', portfolioGameJam?.map(g => g.id) || []);
@@ -57,7 +57,7 @@ export default function GameJamPage({ params }: { params: { gameJamName: string 
   if (gameJam.contentPath) {
     try {
       const markdownPath = path.join(process.cwd(), 'public', gameJam.contentPath);
-      markdownContent = fs.readFileSync(markdownPath, 'utf-8');
+      markdownContent = await fs.promises.readFile(markdownPath, 'utf-8');
     } catch (error) {
       console.error("Error reading markdown:", error);
     }
