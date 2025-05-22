@@ -165,12 +165,15 @@
     <div style="flex: 1; padding: 0 15px; color: #fff;">
         <h2 style="font-size: 2rem; color: #007bff;">📌 Lessons Learned</h2>
         <p>
-            "What I learnt during the project"
+            During the project I learnt the importance of organization, mostly during the ordering of the fur, the electronics inputs and material. 
+        </p>
+        <p>
+            Also playtesting each little mechanics and features as soon possible is primordial, it's sometimes longer for a dev to return on something finished hours/days ago and that just got playtested, than asking for a live playtest and modifying things instantly after the feedbacks.
+        </p>
+        <p>
+            To conclude, since we got selected and invited to the GDC Edition 2025, we learnt the importance of the visuals, all the efforts for marketing and attractivness of our project and how to make the player's experience the best possible!
         </p>
     </div>
-    <img src="https://media.discordapp.net/attachments/1212459753343557682/1348978988139417680/lrs01_1.png?ex=67d216d5&is=67d0c555&hm=2c763f3c0b7a6f4fa3508069ea36d77d3164b346ce864e0af9ad709e1ec2ff35&=&format=webp&quality=lossless&width=1175&height=940" 
-         alt="Featured Concept Art" 
-         style="margin-left: 12px;">
 </div>
 
 <div id="infos" style="display: flex; align-items: flex-start; gap: 2rem; margin: 2rem 0; max-width: 1200px; margin-left: auto; margin-right: auto;">

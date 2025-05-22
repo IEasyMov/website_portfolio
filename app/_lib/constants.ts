@@ -195,8 +195,7 @@ export const portfolioProjects: ProjectProps[] = [
       liveDemoUrl: "",
       videoUrl: "",
       videoGameplayUrl: "",
-      // contentPath: "/content/Workhorse.md",
-      contentPath: "/content/WorkInProgress.md",
+      contentPath: "/content/Workhorse.md",
     },
     {
       id: "goinghome",
@@ -257,8 +256,7 @@ export const portfolioProjects: ProjectProps[] = [
       liveDemoUrl: "",
       videoUrl: "",
       videoGameplayUrl: "",
-      // contentPath: "/content/Amerzone.md",
-      contentPath: "/content/WorkInProgress.md",
+      contentPath: "/content/Amerzone.md",
     },
     {
       id: "flashback2",

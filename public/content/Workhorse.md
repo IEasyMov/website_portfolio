@@ -35,7 +35,7 @@
             Also I wanted to try creating that oppressive feeling and atmosphere around the player, with SFX and VFX. A little bit of story driven game with interactions from the player. It was very interesting to do.
         </p>
     </div>
-    <img src="https://i.imgur.com/oTH2nLd.png" 
+    <img src="\imgs\projects\WorkHorse\WH1.png" 
          alt="Featured Concept Art" 
          style="max-width: 500px; width: 100%; height: auto; border-radius: 8px; object-fit: cover; align-self: center; margin-top: 10rem;">
 </div>
@@ -45,22 +45,24 @@
     <div style="color: #fff; text-align: justify; line-height: 1.6;">
         <h2 style="font-size: 2rem; color: #007bff; margin-bottom: 1.5rem;">👾 Gameplay</h2>
         <p style="margin-bottom: 1.2rem;">
-            Gameplay1
+            The gameplay of WorkHorse is really linear and narrative driven, the player spawns at his desk in the working office. He will have to complete some tasks given to him by his boss from his PC.
         </p>
         <p style="margin-bottom: 1.2rem;">
-            Gameplay2
+            The more the player will complete tasks, the more his collegues will watch and approach him.. Applying pressure and starting to create an anxious ambiance around the player, starting from some dizzy VFX, to some soundtracks, etc..
         </p>
         <p>
-            Gameplay3
+            In the end, once the pressure is at it's apogee, the player will have two choices, either leave the building which will make him restart the day, with some tweaks that changes it slightly. 
+        </p>
+        <p>
+            Or by giving his demission letter to his boss, which makes him leave that toxic environnment and actually end the game.
         </p>
         <h2 id="task" style="font-size: 2rem; color: #007bff;">👨‍💻 What I've realized on the project</h2>
     </div>
 </div>
 
 <div style="display: flex; align-items: flex-start; gap: 2rem; margin: 2rem auto; max-width: 1200px;">
-    <!-- Image Column (Left) -->
-    <div style="flex: 1; min-width: 0; margin-top: 4rem;">
-        <img src="https://i.imgur.com/HBqNJ7X.png" 
+    <div style="flex: 1; min-width: 0; margin-top: 1rem;">
+        <img src="\imgs\projects\WorkHorse\WH4.jpg" 
              alt="Featured Concept Art" 
              style="width: 100%; max-width: 500px; height: auto; border-radius: 8px; object-fit: cover;">
     </div>
@@ -68,12 +70,12 @@
         <ul style="font-size: 120%;">
             <li style="padding-bottom: 15px;">
                 <div style="display: flex; flex-direction: column; gap: 20px;">
-                    <span style="color:rgb(164, 208, 255); font-weight: bold; font-size: 120%">task1</span>
+                    <span style="color:rgb(164, 208, 255); font-weight: bold; font-size: 120%">The storyboard</span>
                     <p style="margin-bottom: 1.2rem;">
-                        explanation1
+                        With the others GD's, I created on the the blackboard the whole storyline of the game. Since it's a short one it wasn't that long to make, but we wanted to have some tweaks and some repeatibility with a kinda loop gameplay.
                     </p>
                     <p style="margin-bottom: 2rem;">
-                        explanation2
+                        We wanted mostly the loop part, with an double and different ending, one that will restart the loop, the other one that will completly end the game as a "You've finished it".
                     </p>
                 </div>
             </li>
@@ -81,90 +83,100 @@
     </div>
 </div>
 
-<details style="margin: 10px 0; border: 1px solid #3d4450; border-radius: 4px;">
-    <summary style="cursor: pointer; padding: 8px; background-color: #2a2f3a; color: #fff; font-family: monospace;">
-        Info1
-    </summary>
-    <div style="background-color: #1a1a1a; border-radius: 0 0 4px 4px;">
-    <div>
 
-    Info1Text
-</div>
-        </details>
-            </li>
-        </ul>
-    </div>
-</div>
-<div style="display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap; margin: 2rem 0;">
+<div style="display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap; margin: 2rem 0;background:rgb(26, 26, 26);">
     <img 
-        src="https://i.imgur.com/BUv9WnH.png" 
+        src="\imgs\projects\WorkHorse\WHG1.gif" 
         alt="Image 1" 
-        style="width: 200px; height: 400px; object-fit: cover; border-radius: 8px;"
+        style="width: 100px; height: auto; object-fit: cover; border-radius: 8px; margin-top: 3rem;"
     >
     <img 
-        src="https://i.imgur.com/d4Drc4y.png" 
+        src="\imgs\projects\WorkHorse\WHG2.gif" 
         alt="Image 2" 
-        style="width: 200px; height: 400px; object-fit: cover; border-radius: 8px;"
+        style="width: 100px; height: auto; object-fit: cover; border-radius: 8px;"
     >
     <img 
-        src="https://i.imgur.com/Zn4iVPx.png" 
+        src="\imgs\projects\WorkHorse\WHG3.gif" 
         alt="Image 3" 
-        style="width: 200px; height: 400px; object-fit: cover; border-radius: 8px;"
-    >
-    <img 
-        src="https://i.imgur.com/K98jPEV.png" 
-        alt="Image 3" 
-        style="width: 200px; height: 400px; object-fit: cover; border-radius: 8px;"
-    >
-    <img 
-        src="https://i.imgur.com/GLOq4Ed.png" 
-        alt="Image 3" 
-        style="width: 200px; height: 400px; object-fit: cover; border-radius: 8px;"
+        style="width: 100px; height: auto; object-fit: cover; border-radius: 8px;margin-top: 3rem;"
     >
 </div>
+<div style="background:rgb(26, 26, 26);margin-top:-2.5rem;font-size:1.5rem;"><p style="text-align: center;">The collegues, getting more pressuring</p></div>
 
-<div style="display: flex; align-items: flex-start; gap: 2rem; margin: 2rem auto; max-width: 1200px;">
+
+<div style="display: flex; align-items: flex-start; gap: 2rem; margin: 2rem auto; max-width: 1200px;margin-top: 8rem;">
     <!-- Image Column (Left) -->
 <div style="flex: 1; padding: 0 15px; color: #fff; text-align: justify; line-height: 1.6;">
         <ul style="font-size: 120%;">
             <li style="padding-bottom: 15px;">
                 <div style="display: flex; flex-direction: column; gap: 20px;">
-                    <span style="color:rgb(164, 208, 255); font-weight: bold; font-size: 120%">task2</span>
-                    <p style="margin-bottom: -2rem; color:rgb(164, 208, 255);">
-                        task2 title1
+                    <span style="color:rgb(164, 208, 255); font-weight: bold; font-size: 120%">The printer</span>
+                    <p style="margin-bottom: -2rem;">
+                        The printer is a really important part of the game, the player will have two different task to do on it. Printing the regular document, and printing the resignation letter.
                     </p>
                     <p style="margin-bottom: -1rem;">
-                        task2 text1
+                        To use the printer, the player will have to bring an USB key from his desk, plug it in the printer, then put and hold his hand on the printing button until the loading bar reach the maximum (printing complete).
                     </p>
                     <p style="margin-bottom: 1.2rem;">
-                        task2 text2
-                    </p>
-                    <p style="margin-bottom: -2rem; color:rgb(164, 208, 255);">
-                        task2 title2
-                    </p>
-                    <p style="margin-bottom: -1rem;">
-                        task2 text3
-                    </p>
-                    <p style="margin-bottom: -1rem;">
-                        task2 text4
-                    </p>
-                    <p style="margin-bottom: 3rem;">
-                        task2 text5
-                    </p>
-                    <p style="margin-bottom: -2rem; color:rgb(164, 208, 255);">
-                        task2 title3
-                    </p>
-                    <p style="margin-bottom: 1.2rem;">
-                        task2 text6
+                        Of course, for the pressuring part, the more the player holds the button, the more the collegues will approach him.. applying more pressure, then once really close an really anxious song start to play to make the player feel like the center of universe, watched by everyone around in a bad way.
                     </p>
                 </div>
             </li>
         </ul>
     </div>
     <div style="flex: 1; min-width: 0; margin-top: 4rem;">
-        <img src="\imgs\projects\Alz\AlzVid1.Gif" alt="this slowpoke moves"  style="width: 100%; max-width: 500px; height: auto; border-radius: 8px; object-fit: cover;margin-top: 4rem;"/>
-        <img src="\imgs\projects\Alz\AlzVid2.Gif" alt="this slowpoke moves"  style="width: 100%; max-width: 500px; height: auto; border-radius: 8px; object-fit: cover;margin-top: 14rem;"/>
-        <img src="https://i.imgur.com/k21f489.png" alt="Featured Concept Art" style="width: 100%; max-width: 500px; height: auto; border-radius: 8px; object-fit: cover;margin-top: 10rem;"/>
+        <img src="\imgs\projects\WorkHorse\WH3.png" alt="this slowpoke moves"  style="width: 100%; max-width: 500px; height: auto; border-radius: 8px; object-fit: cover;margin-top: 6rem;"/>
+    </div>
+</div>  
+
+<div style="display: flex; align-items: flex-start; gap: 2rem; margin: 2rem auto; max-width: 1200px;">
+    <!-- Image Column (Left) -->
+    <div style="flex: 1; min-width: 0; margin-top: 4rem;">
+        <img src="\imgs\projects\WorkHorse\WH1.png" alt="this slowpoke moves"  style="width: 100%; max-width: 500px; height: auto; border-radius: 8px; object-fit: cover;"/>
+        <img src="\imgs\projects\WorkHorse\WH2.png" alt="this slowpoke moves"  style="width: 100%; max-width: 500px; height: auto; border-radius: 8px; object-fit: cover;margin-top: 1rem;"/>
+    </div>
+<div style="flex: 1; padding: 0 15px; color: #fff; text-align: justify; line-height: 1.6;">
+        <ul style="font-size: 120%;">
+            <li style="padding-bottom: 15px;">
+                <div style="display: flex; flex-direction: column; gap: 20px; margin-top:10rem;">
+                    <span style="color:rgb(164, 208, 255); font-weight: bold; font-size: 120%">The desk</span>
+                    <p style="margin-bottom: -2rem;">
+                        The desk is the most important part of the game with the ambiance, the player will spend a lot of time on it with the different tasks.
+                    </p>
+                    <p style="margin-bottom: -1rem;">
+                        On the desk is the computer where the tasks will be shown to the player. Also he'll have to sort the files and folder to find some hints on the situation and how to finish the game.
+                    </p>
+                    <p style="margin-bottom: 1.2rem;">
+                        Then, there is a lot of working props, as pencils, workpapers, books, paperballs, etc.. The player will have to sort them in different drawers to complete a task.
+                    </p>
+                </div>
+            </li>
+        </ul>
+    </div>    
+</div>  
+
+<div style="display: flex; align-items: flex-start; gap: 2rem; margin: 2rem auto; max-width: 1200px;margin-top: 8rem;">
+    <!-- Image Column (Left) -->
+<div style="flex: 1; padding: 0 15px; color: #fff; text-align: justify; line-height: 1.6;">
+        <ul style="font-size: 120%;">
+            <li style="padding-bottom: 15px;">
+                <div style="display: flex; flex-direction: column; gap: 20px;">
+                    <span style="color:rgb(164, 208, 255); font-weight: bold; font-size: 120%">The collegues</span>
+                    <p style="margin-bottom: -2rem;">
+                        The collegues, being the main entities on the game, surrounding the player and making him feel as much uncomfortable as possible.
+                    </p>
+                    <p style="margin-bottom: -1rem;">
+                        The objective with the collegues, was to make the player feel like the one little new guy that just got hired, scared to do any sound with the printer, stuff he moves, when he walks, etc..
+                    </p>
+                    <p style="margin-bottom: 1.2rem;">
+                        The more the player interact with the game and so do sound, the more the collegues will approach him.. As far as they end up being only few centimeters close from the player..
+                    </p>
+                </div>
+            </li>
+        </ul>
+    </div>
+    <div style="flex: 1; min-width: 0; margin-top: 4rem;">
+        <img src="\imgs\projects\WorkHorse\WH5.png" alt="this slowpoke moves"  style="width: 100%; max-width: 500px; height: auto; border-radius: 8px; object-fit: cover;margin-top: -3rem;"/>
     </div>
 </div>  
 
@@ -172,10 +184,10 @@
     <div style="color: fff; text-align: justify; line-height: 1.6;">
         <h2 style="font-size: 2rem; color: #007bff; margin-bottom: 4rem;">📌 Lessons Learned</h2>
         <div style="margin-left: 3.5rem;"><p>
-            - lesson1
+            I learnt during this project the importance of using a mix of vfx, visuals and sounds to create emotions and feelings to the player. And mostly how to use them.
         </p>
-        <p>- lesson2</p>
-        <p>- lesson3</p></div>
+        <p>How to create an ambient scene narrativly driven and kinda making the players feel what we want them to feel.</p>
+        <p>All the difficult points that the VR add to a regular Video game project such as interactions, visuals, menus, texts and textures.</p></div>
     </div>
 </div>
 
