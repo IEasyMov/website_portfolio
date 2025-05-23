@@ -286,8 +286,7 @@ export const portfolioProjects: ProjectProps[] = [
       liveDemoUrl: "",
       videoUrl: "",
       videoGameplayUrl: "",
-      // contentPath: "/content/Flashback2.md",
-      contentPath: "/content/WorkInProgress.md",
+      contentPath: "/content/Flashback2.md",
     },
     {
       id: "helloworld",

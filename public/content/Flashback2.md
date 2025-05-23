@@ -33,7 +33,7 @@
             I had the chance to participate on the production of the Patch-3 of the game after his lunch on steam, the patch was looking like a big rework of the game, fixing a lot of issues, bigs and features causing obstacle to the good fun of the game.
         </p>
     </div>
-    <img src="https://i.imgur.com/oTH2nLd.png" 
+    <img src="\imgs\projects\Flashback2\FB1.png" 
          alt="Featured Concept Art" 
          style="max-width: 500px; width: 100%; height: auto; border-radius: 8px; object-fit: cover; align-self: center; margin-top: 10rem;">
 </div>
@@ -43,13 +43,13 @@
     <div style="color: #fff; text-align: justify; line-height: 1.6;">
         <h2 style="font-size: 2rem; color: #007bff; margin-bottom: 1.5rem;">👾 Gameplay</h2>
         <p style="margin-bottom: 1.2rem;">
-            Gameplay1
+            Flashback 2 is mostly a shooter and platformer game, the player will have to explore different areas, buildings or regions. Collect some story keys objects, and of course kill enemies to advance further.
         </p>
         <p style="margin-bottom: 1.2rem;">
-            Gameplay2
+            Different kind of exotic gameplay are added on top of that, there are mecha fights, driving bike, even finding some electrical circuits to hack. They were added to make more gameplay mechanics in the game, and give a little bit of more things to learn for the player, creating challenge + satisfaction understanding new mechanics.
         </p>
         <p>
-            Gameplay3
+            Also a lot of narrative parts, cutscenes and dialogues, creating the lore and some storyline through the game with lot of different characters..
         </p>
         <h2 id="task" style="font-size: 2rem; color: #007bff;">👨‍💻 What I've realized on the project</h2>
     </div>
@@ -58,20 +58,38 @@
 <div style="display: flex; align-items: flex-start; gap: 2rem; margin: 2rem auto; max-width: 1200px;">
     <!-- Image Column (Left) -->
     <div style="flex: 1; min-width: 0; margin-top: 4rem;">
-        <img src="https://i.imgur.com/HBqNJ7X.png" 
+        <img src="\imgs\projects\Flashback2\FB2.png" 
              alt="Featured Concept Art" 
-             style="width: 100%; max-width: 500px; height: auto; border-radius: 8px; object-fit: cover;">
+             style="width: 100%; max-width: 500px; height: auto; border-radius: 8px; object-fit: cover;margin-top: 2rem;">
+             <img src="\imgs\projects\Flashback2\FB9.png" 
+             alt="Featured Concept Art" 
+             style="width: 100%; max-width: 500px; height: auto; border-radius: 8px; object-fit: cover;margin-top: 3rem;">
+             <img src="\imgs\projects\Flashback2\FB10.png" 
+             alt="Featured Concept Art" 
+             style="width: 100%; max-width: 500px; height: auto; border-radius: 8px; object-fit: cover;margin-top: 3rem;">
     </div>
 <div style="flex: 1; padding: 0 15px; color: #fff; text-align: justify; line-height: 1.6;">
         <ul style="font-size: 120%;">
             <li style="padding-bottom: 15px;">
                 <div style="display: flex; flex-direction: column; gap: 20px;">
-                    <span style="color:rgb(164, 208, 255); font-weight: bold; font-size: 120%">task1</span>
+                    <span style="color:rgb(164, 208, 255); font-weight: bold; font-size: 120%">Playing the game</span>
                     <p style="margin-bottom: 1.2rem;">
-                        explanation1
+                        Maybe the earlier and easier, when I joined the project my first and main task was to play the game, the Lead Game Designer wanted me to play it, with a fresh look and complete unknowing of the story, universe and gameplay.
                     </p>
-                    <p style="margin-bottom: 2rem;">
-                        explanation2
+                    <p style="margin-bottom: 1rem;">
+                        He wanted me to write a little essay, explaining all the things I understood of the game, story and chatacters. The things I liked and disliked, understood and misunderstood, and mostly the things that were too much or lacking for me.  
+                    </p>
+                    <p style="margin-bottom: -2rem;">
+                        The things I liked the most were kinda easy, the new universe, learning the game with new mechanics and features, the different characters and lore of this world.
+                    </p>
+                    <p style="margin-bottom: -2rem;">
+                        And for the dislike or misunderstood part it was more like.. Some of the characters are starting some relationships togethers, but it's not used the way I would use it, or go more into that (exemple Conrad and Helen having a romance, but only during like 3 mins on the whole game, I was a bit dissapointed).
+                    </p>
+                    <p style="margin-bottom: 1.2rem;">
+                        On the other hand, I was also dissapointed by some mechanics being used only once in the game, could have been a really great use if used multiple times, like the mecha fights or some hackings in the early early game (limit tutorial city).
+                    </p>
+                    <p style="margin-bottom: 1.2rem;">
+                        In the end my Lead was really happy and surprised about my essay, saying the he had forgotten the use and meaning of some of the parts I spoke about. Sadly we didn't had the time to use more of thoses mechanics and place them elsewhere, but at least the essay was done.
                     </p>
                 </div>
             </li>
@@ -79,46 +97,40 @@
     </div>
 </div>
 
-<details style="margin: 10px 0; border: 1px solid #3d4450; border-radius: 4px;">
-    <summary style="cursor: pointer; padding: 8px; background-color: #2a2f3a; color: #fff; font-family: monospace;">
-        Info1
-    </summary>
-    <div style="background-color: #1a1a1a; border-radius: 0 0 4px 4px;">
-    <div>
-
-    Info1Text
-</div>
-        </details>
-            </li>
-        </ul>
-    </div>
-</div>
+<p style="font-size:2.5rem;text-align: center;">Main Characters</p>
 <div style="display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap; margin: 2rem 0;">
     <img 
-        src="https://i.imgur.com/BUv9WnH.png" 
+        src="\imgs\projects\Flashback2\FB4.png" 
         alt="Image 1" 
-        style="width: 200px; height: 400px; object-fit: cover; border-radius: 8px;"
+        style="width: auto; height: 250px; object-fit: cover; border-radius: 8px;"
     >
     <img 
-        src="https://i.imgur.com/d4Drc4y.png" 
+        src="\imgs\projects\Flashback2\FB5.png" 
         alt="Image 2" 
-        style="width: 200px; height: 400px; object-fit: cover; border-radius: 8px;"
+        style="width: auto; height: 250px; object-fit: cover; border-radius: 8px;"
     >
     <img 
-        src="https://i.imgur.com/Zn4iVPx.png" 
+        src="\imgs\projects\Flashback2\FB6.png" 
         alt="Image 3" 
-        style="width: 200px; height: 400px; object-fit: cover; border-radius: 8px;"
+        style="width: auto; height: 250px; object-fit: cover; border-radius: 8px;"
     >
     <img 
-        src="https://i.imgur.com/K98jPEV.png" 
+        src="\imgs\projects\Flashback2\FB7.png" 
         alt="Image 3" 
-        style="width: 200px; height: 400px; object-fit: cover; border-radius: 8px;"
+        style="width: auto; height: 250px; object-fit: cover; border-radius: 8px;"
     >
     <img 
-        src="https://i.imgur.com/GLOq4Ed.png" 
+        src="\imgs\projects\Flashback2\FB8.png" 
         alt="Image 3" 
-        style="width: 200px; height: 400px; object-fit: cover; border-radius: 8px;"
+        style="width: auto; height: 250px; object-fit: cover; border-radius: 8px;"
     >
+</div>
+<div style="display: flex; gap: 1rem; justify-content: left; flex-wrap: wrap; margin: 2rem 0;margin-top:-3rem;">
+<p style="font-size:1.5rem;margin-left: 7rem;">Conrad Hart</p>
+<p style="font-size:1.5rem;margin-left: 5.5rem;">A.I.S.H.A</p>
+<p style="font-size:1.5rem;margin-left: 6.5rem;">Helen Clark</p>
+<p style="font-size:1.5rem;margin-left: 4rem;">Ian Nemeczek</p>
+<p style="font-size:1.5rem;margin-left: 6rem;">Lazarus</p>
 </div>
 
 <div style="display: flex; align-items: flex-start; gap: 2rem; margin: 2rem auto; max-width: 1200px;">
