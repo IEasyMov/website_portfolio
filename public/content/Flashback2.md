@@ -139,42 +139,26 @@
         <ul style="font-size: 120%;">
             <li style="padding-bottom: 15px;">
                 <div style="display: flex; flex-direction: column; gap: 20px;">
-                    <span style="color:rgb(164, 208, 255); font-weight: bold; font-size: 120%">task2</span>
-                    <p style="margin-bottom: -2rem; color:rgb(164, 208, 255);">
-                        task2 title1
+                    <span style="color:rgb(164, 208, 255); font-weight: bold; font-size: 120%">Redaction of the dev log</span>
+                    <p style="margin-bottom: -2rem;">
+                        My 2nd task was more straight forward, once i've finished played I had to watch some footage and gameplay of the old version of the game (The one that was published at the time, not the reworked version we were working on).
                     </p>
                     <p style="margin-bottom: -1rem;">
-                        task2 text1
+                        Inside a big google doc, I firstly had to create a recap of all the new features or modifications between the actual version and the one we were working on. Including the pros and cons of the actual version, and comparing them to the new one (That had of course only advantages compared to the actual).
                     </p>
                     <p style="margin-bottom: 1.2rem;">
-                        task2 text2
-                    </p>
-                    <p style="margin-bottom: -2rem; color:rgb(164, 208, 255);">
-                        task2 title2
-                    </p>
-                    <p style="margin-bottom: -1rem;">
-                        task2 text3
-                    </p>
-                    <p style="margin-bottom: -1rem;">
-                        task2 text4
-                    </p>
-                    <p style="margin-bottom: 3rem;">
-                        task2 text5
-                    </p>
-                    <p style="margin-bottom: -2rem; color:rgb(164, 208, 255);">
-                        task2 title3
+                        Once that full recap finished I had then to create a powerpoint destined to the publishers and the marketing team, showcasing them all the new features, advancement, modifications and fixes we did during the upcoming Patch.3 (the version we were working on).
                     </p>
                     <p style="margin-bottom: 1.2rem;">
-                        task2 text6
+                        This one was also very interesting to make, for the first time I had to make documents that were going to be seen by high persons in the studio.
                     </p>
                 </div>
             </li>
         </ul>
     </div>
     <div style="flex: 1; min-width: 0; margin-top: 4rem;">
-        <img src="\imgs\projects\Alz\AlzVid1.Gif" alt="this slowpoke moves"  style="width: 100%; max-width: 500px; height: auto; border-radius: 8px; object-fit: cover;margin-top: 4rem;"/>
-        <img src="\imgs\projects\Alz\AlzVid2.Gif" alt="this slowpoke moves"  style="width: 100%; max-width: 500px; height: auto; border-radius: 8px; object-fit: cover;margin-top: 14rem;"/>
-        <img src="https://i.imgur.com/k21f489.png" alt="Featured Concept Art" style="width: 100%; max-width: 500px; height: auto; border-radius: 8px; object-fit: cover;margin-top: 10rem;"/>
+        <img src="\imgs\projects\Flashback2\FB1.png" alt="this slowpoke moves"  style="width: 100%; max-width: 500px; height: auto; border-radius: 8px; object-fit: cover;margin-top: 2rem;"/>
+        <img src="\imgs\projects\Flashback2\FB3.png" alt="this slowpoke moves"  style="width: 100%; max-width: 500px; height: auto; border-radius: 8px; object-fit: cover;margin-top: 4rem;"/>
     </div>
 </div>  
 
