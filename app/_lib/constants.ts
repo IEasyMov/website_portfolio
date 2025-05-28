@@ -317,8 +317,8 @@ export const portfolioProjects: ProjectProps[] = [
       liveDemoUrl: "",
       videoUrl: "",
       videoGameplayUrl: "",
-      contentPath: "/content/TwiceUponATime.md",
-      // contentPath: "/content/WorkInProgress.md",
+      // contentPath: "/content/TwiceUponATime.md",
+      contentPath: "/content/WorkInProgress.md",
     },
     {
       id: "rokkatensei",

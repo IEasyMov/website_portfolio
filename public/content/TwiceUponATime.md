@@ -21,17 +21,17 @@
         <p style="margin-bottom: 4rem;">
             <i>Twice Upon a Time</i> is a chill and cooperative two-player narrative platformer game bringing you back to a nostalgic world filled with all kinds of sweets and a gripping story.
         </p>
-        <p style="margin-bottom: -1rem;">
+        <p style="margin-bottom: 2rem;">
             During 3 months of work for a big school project we had to make a Couch Game type game, we decided to make one around a nice sibling story and competition.
         </p>
-        <p>Merging platforming, narrative, competition, taunt and fun into the same game.</p>
+        <p style="margin-bottom: 2rem;">Merging platforming, narrative, competition, taunt and fun into the same game.</p>
         <p>
             Since playing books were a big part of my childhood, I really wanted the game to create a nostalgia for the players like me. I wanted the dialogues, funny or taunting quotes of the siblings to be authentic and realistic, making a kind of attachement for them through their story.
         </p>
     </div>
-    <img src="https://i.imgur.com/oTH2nLd.png" 
+    <img src="\imgs\projects\TUAT\TUAT2.png" 
          alt="Featured Concept Art" 
-         style="max-width: 500px; width: 100%; height: auto; border-radius: 8px; object-fit: cover; align-self: center; margin-top: 10rem;">
+         style="max-width: 500px; width: 100%; height: auto; border-radius: 8px; object-fit: cover; align-self: center; margin-top: 5rem;">
 </div>
 
 
@@ -39,22 +39,41 @@
     <div style="color: #fff; text-align: justify; line-height: 1.6;">
         <h2 style="font-size: 2rem; color: #007bff; margin-bottom: 1.5rem;">👾 Gameplay</h2>
         <p style="margin-bottom: 1.2rem;">
-            Gameplay1
+            Twice Upon A Time is a platformer 2D, so the gameplay is pretty simple, it's all about jumping, pushing, pulling and grabbing things !
         </p>
         <p style="margin-bottom: 1.2rem;">
-            Gameplay2
+            Since it was supposed to be a vertical slice, we wanted to create multiple worlds with different themes and universes to play with, for the one and one only present in the slice we decided to go for a "Sweets & Candy" themed world.
         </p>
         <p>
-            Gameplay3
+            Since it's a duo game, two players will have some asymetric gameplay from times to times, mixing cooperation and competition sometimes for a little bit of spice, taunt and sibling fights.
         </p>
+        <details style="margin: 10px 0; border: 1px solid #3d4450; border-radius: 4px;">
+    <summary style="cursor: pointer; padding: 8px; background-color: #2a2f3a; color: #fff; font-family: monospace;">
+        Gameplay Video
+    </summary>
+    <div style="background-color: #1a1a1a; border-radius: 0 0 4px 4px;">
+        <div style="max-width: 800px; margin: 2rem auto; aspect-ratio: 16/9;">
+            <iframe 
+                width="100%" 
+                height="100%"
+                src="https://www.youtube.com/embed/TZRwV7C3Y18?start=0&rel=0" 
+                title="Twice Upon a Time Trailer" 
+                frameborder="0" 
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+                allowfullscreen
+                style="border-radius: 8px;"
+            ></iframe>
+        </div>
+    </div>
+        </details>  
         <h2 id="task" style="font-size: 2rem; color: #007bff;">👨‍💻 What I've realized on the project</h2>
     </div>
 </div>
 
 <div style="display: flex; align-items: flex-start; gap: 2rem; margin: 2rem auto; max-width: 1200px;">
     <!-- Image Column (Left) -->
-    <div style="flex: 1; min-width: 0; margin-top: 4rem;">
-        <img src="https://i.imgur.com/HBqNJ7X.png" 
+    <div style="flex: 1; min-width: 0; margin-top: 5rem;">
+        <img src="\imgs\projects\TUAT\TUAT5.png" 
              alt="Featured Concept Art" 
              style="width: 100%; max-width: 500px; height: auto; border-radius: 8px; object-fit: cover;">
     </div>
@@ -62,12 +81,12 @@
         <ul style="font-size: 120%;">
             <li style="padding-bottom: 15px;">
                 <div style="display: flex; flex-direction: column; gap: 20px;">
-                    <span style="color:rgb(164, 208, 255); font-weight: bold; font-size: 120%">task1</span>
+                    <span style="color:rgb(164, 208, 255); font-weight: bold; font-size: 120%">Conceiving the obstacles</span>
                     <p style="margin-bottom: 1.2rem;">
-                        explanation1
+                        It was a really fun task, since we were in a "Sweet & Candy" world we wanted to use candies and sweet food as obstacles, so we made a nice list with all the candies we used to eat when we were younger.
                     </p>
                     <p style="margin-bottom: 2rem;">
-                        explanation2
+                        Once the list of candy was done, we tried creating 2-3 ideas PER candy to explore a multitude of different exemple of how to use them in a platformer. (Ex: The Marshmallow being a bouncer or trampoline, the CandyCane could be some hooks or levers, etc..)
                     </p>
                 </div>
             </li>
@@ -75,47 +94,20 @@
     </div>
 </div>
 
-<details style="margin: 10px 0; border: 1px solid #3d4450; border-radius: 4px;">
-    <summary style="cursor: pointer; padding: 8px; background-color: #2a2f3a; color: #fff; font-family: monospace;">
-        Info1
-    </summary>
-    <div style="background-color: #1a1a1a; border-radius: 0 0 4px 4px;">
-    <div>
 
-    Info1Text
-</div>
-        </details>
-            </li>
-        </ul>
-    </div>
-</div>
 <div style="display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap; margin: 2rem 0;">
     <img 
-        src="https://i.imgur.com/BUv9WnH.png" 
+        src="\imgs\projects\TUAT\TUAT6.png" 
         alt="Image 1" 
-        style="width: 200px; height: 400px; object-fit: cover; border-radius: 8px;"
+        style="width: 150px; height: 300px; object-fit: cover; border-radius: 8px;"
     >
     <img 
-        src="https://i.imgur.com/d4Drc4y.png" 
+        src="\imgs\projects\TUAT\TUAT7.png" 
         alt="Image 2" 
-        style="width: 200px; height: 400px; object-fit: cover; border-radius: 8px;"
-    >
-    <img 
-        src="https://i.imgur.com/Zn4iVPx.png" 
-        alt="Image 3" 
-        style="width: 200px; height: 400px; object-fit: cover; border-radius: 8px;"
-    >
-    <img 
-        src="https://i.imgur.com/K98jPEV.png" 
-        alt="Image 3" 
-        style="width: 200px; height: 400px; object-fit: cover; border-radius: 8px;"
-    >
-    <img 
-        src="https://i.imgur.com/GLOq4Ed.png" 
-        alt="Image 3" 
-        style="width: 200px; height: 400px; object-fit: cover; border-radius: 8px;"
+        style="width: 100px; height: 300px; object-fit: cover; border-radius: 8px;"
     >
 </div>
+<p style="font-size: 1.5rem;text-align: center;margin-top:-2rem;">Brother   &   Sister</p>
 
 <div style="display: flex; align-items: flex-start; gap: 2rem; margin: 2rem auto; max-width: 1200px;">
     <!-- Image Column (Left) -->
@@ -123,9 +115,9 @@
         <ul style="font-size: 120%;">
             <li style="padding-bottom: 15px;">
                 <div style="display: flex; flex-direction: column; gap: 20px;">
-                    <span style="color:rgb(164, 208, 255); font-weight: bold; font-size: 120%">task2</span>
-                    <p style="margin-bottom: -2rem; color:rgb(164, 208, 255);">
-                        task2 title1
+                    <span style="color:rgb(164, 208, 255); font-weight: bold; font-size: 120%">Level Design</span>
+                    <p style="margin-bottom: -2rem;">
+                        My 2nd task on the project was 
                     </p>
                     <p style="margin-bottom: -1rem;">
                         task2 text1
