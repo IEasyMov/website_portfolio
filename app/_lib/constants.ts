@@ -110,34 +110,6 @@ export const portfolioProjects: ProjectProps[] = [
       contentPath: "/content/AlzMemory.md",
     },
     {
-      id: "quantictactoe",
-      heading: "QuanticTacToe",
-      subheading: "",
-      imageUrl: "https://i.imgur.com/7NQ9qRK.png",
-      techStack: [
-        ""
-      ],
-      techStackEngine: [
-        "Unity"
-      ],
-      techStackAbout: [
-        "Online Multiplayer",
-        "Reflexion Game",
-        "Duo Versus"
-      ],
-      techStackSize: [
-        "Made in 1 Month",
-        "Team of 2"
-      ],
-      techStackAward: [
-        ""
-      ],
-      liveDemoUrl: "",
-      videoUrl: "",
-      videoGameplayUrl: "",
-      contentPath: "/content/Quantictctoe.md",
-    },
-    {
       id: "pacosanatomy",
       heading: "Paco's Anatomy",
       subheading: "",
@@ -314,67 +286,7 @@ export const portfolioProjects: ProjectProps[] = [
       liveDemoUrl: "",
       videoUrl: "",
       videoGameplayUrl: "",
-      // contentPath: "/content/HelloWorld.md",
-      contentPath: "/content/WorkInProgress.md",
-    },
-    {
-      id: "ligtraders",
-      heading: "LIG Traders",
-      subheading: "",
-      imageUrl: "https://i.imgur.com/lOEjphc.png",
-      techStack: [
-        "",
-      ],
-      techStackEngine: [
-        "Unity",
-        "Itch.io Published"
-      ],
-      techStackAbout: [
-        "4 players game",
-        "Economic Simulation",
-        "Card Collection"
-      ],
-      techStackSize: [
-        "Made in 1 Month",
-        "Team of 5"
-      ],
-      techStackAward: [
-        ""
-      ],
-      liveDemoUrl: "",
-      videoUrl: "",
-      videoGameplayUrl: "",
-      // contentPath: "/content/LIGTraders.md",
-      contentPath: "/content/WorkInProgress.md",
-    },
-    {
-      id: "serenadefortwohearts",
-      heading: "Serenade for two Hearts",
-      subheading: "",
-      imageUrl: "https://i.imgur.com/vMjo7F9.png",
-      techStack: [
-        "",
-      ],
-      techStackEngine: [
-        "Unity",
-        "Itch.io Published"
-      ],
-      techStackAbout: [
-        "Narrative Game",
-        "Visual Novel",
-      ],
-      techStackSize: [
-        "Made in 2 Weeks",
-        "Team of 10"
-      ],
-      techStackAward: [
-        ""
-      ],
-      liveDemoUrl: "",
-      videoUrl: "",
-      videoGameplayUrl: "",
-      // contentPath: "/content/SerenadeForTwoHearts.md",
-      contentPath: "/content/WorkInProgress.md",
+      contentPath: "/content/HelloWorld.md",
     },
     {
       id: "twiceuponatime",
@@ -405,36 +317,8 @@ export const portfolioProjects: ProjectProps[] = [
       liveDemoUrl: "",
       videoUrl: "",
       videoGameplayUrl: "",
-      // contentPath: "/content/TwiceUponATime.md",
-      contentPath: "/content/WorkInProgress.md",
-    },
-    {
-      id: "asteroidblast",
-      heading: "AsteroidBlast",
-      subheading: "",
-      imageUrl: "https://i.imgur.com/qnO1jWb.png",
-      techStack: [
-        "",
-      ],
-      techStackEngine: [
-        "Unity"
-      ],
-      techStackAbout: [
-        "Space Invaders Like",
-      ],
-      techStackSize: [
-        "Prototype",
-        "Made in 1 Week",
-        "Solo Made"
-      ],
-      techStackAward: [
-        ""
-      ],
-      liveDemoUrl: "",
-      videoUrl: "",
-      videoGameplayUrl: "",
-      // contentPath: "/content/AsteroidBlast.md",
-      contentPath: "/content/WorkInProgress.md",
+      contentPath: "/content/TwiceUponATime.md",
+      // contentPath: "/content/WorkInProgress.md",
     },
     {
       id: "rokkatensei",
@@ -561,6 +445,34 @@ export const portfolioProjects: ProjectProps[] = [
 
 export const portfolioGameJam: ProjectProps[] = [
   {
+      id: "quantictactoe",
+      heading: "QuanticTacToe",
+      subheading: "",
+      imageUrl: "https://i.imgur.com/7NQ9qRK.png",
+      techStack: [
+        ""
+      ],
+      techStackEngine: [
+        "Unity"
+      ],
+      techStackAbout: [
+        "Online Multiplayer",
+        "Reflexion Game",
+        "Duo Versus"
+      ],
+      techStackSize: [
+        "Made in 1 Month",
+        "Team of 2"
+      ],
+      techStackAward: [
+        ""
+      ],
+      liveDemoUrl: "",
+      videoUrl: "",
+      videoGameplayUrl: "",
+      contentPath: "/content/Quantictctoe.md",
+    },
+  {
     id: "boba",
     heading: "Boba",
     subheading: "",
@@ -620,6 +532,65 @@ export const portfolioGameJam: ProjectProps[] = [
     contentPath: "/content/BotanicNightmare.md",
   },
   {
+      id: "ligtraders",
+      heading: "LIG Traders",
+      subheading: "",
+      imageUrl: "https://i.imgur.com/lOEjphc.png",
+      techStack: [
+        "",
+      ],
+      techStackEngine: [
+        "Unity",
+        "Itch.io Published"
+      ],
+      techStackAbout: [
+        "4 players game",
+        "Economic Simulation",
+        "Card Collection"
+      ],
+      techStackSize: [
+        "Made in 1 Month",
+        "Team of 5"
+      ],
+      techStackAward: [
+        ""
+      ],
+      liveDemoUrl: "",
+      videoUrl: "",
+      videoGameplayUrl: "",
+      // contentPath: "/content/LIGTraders.md",
+      contentPath: "/content/WorkInProgress.md",
+    },
+    {
+      id: "serenadefortwohearts",
+      heading: "Serenade for two Hearts",
+      subheading: "",
+      imageUrl: "https://i.imgur.com/vMjo7F9.png",
+      techStack: [
+        "",
+      ],
+      techStackEngine: [
+        "Unity",
+        "Itch.io Published"
+      ],
+      techStackAbout: [
+        "Narrative Game",
+        "Visual Novel",
+      ],
+      techStackSize: [
+        "Made in 2 Weeks",
+        "Team of 10"
+      ],
+      techStackAward: [
+        ""
+      ],
+      liveDemoUrl: "",
+      videoUrl: "",
+      videoGameplayUrl: "",
+      // contentPath: "/content/SerenadeForTwoHearts.md",
+      contentPath: "/content/WorkInProgress.md",
+    },
+  {
     id: "urbeksagency",
     heading: "Urbeks Agency",
     subheading: "",
@@ -648,6 +619,34 @@ export const portfolioGameJam: ProjectProps[] = [
     videoGameplayUrl: "",
     contentPath: "/content/UrbeksAgency.md",
   },
+  {
+      id: "asteroidblast",
+      heading: "AsteroidBlast",
+      subheading: "",
+      imageUrl: "https://i.imgur.com/qnO1jWb.png",
+      techStack: [
+        "",
+      ],
+      techStackEngine: [
+        "Unity"
+      ],
+      techStackAbout: [
+        "Space Invaders Like",
+      ],
+      techStackSize: [
+        "Prototype",
+        "Made in 1 Week",
+        "Solo Made"
+      ],
+      techStackAward: [
+        ""
+      ],
+      liveDemoUrl: "",
+      videoUrl: "",
+      videoGameplayUrl: "",
+      // contentPath: "/content/AsteroidBlast.md",
+      contentPath: "/content/WorkInProgress.md",
+    },
   {
     id: "deeperdungeon",
     heading: "Deeper Dungeon",

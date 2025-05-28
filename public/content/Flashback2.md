@@ -166,10 +166,11 @@
     <div style="color: fff; text-align: justify; line-height: 1.6;">
         <h2 style="font-size: 2rem; color: #007bff; margin-bottom: 4rem;">📌 Lessons Learned</h2>
         <div style="margin-left: 3.5rem;"><p>
-            - lesson1
+            I learnt so much on this project, even more since it was my first ever professional project.
         </p>
-        <p>- lesson2</p>
-        <p>- lesson3</p></div>
+        <p>From organizing tasks proprely with Slack and ClickUp, creating and managing task tickets for my own work, to redact professional documents for the marketing team of the studio, it was a truely awesome experience.</p>
+        <p>I also learnt of course the importance of users's feedbacks, since the entire Patch.3 was based on thoses, modifying features or fixing some bugs.</p>
+        <p>It was truely an amazing first experience and I could have never dreamt of a better first step in the video game industry than this one.</p></div>
     </div>
 </div>
 
