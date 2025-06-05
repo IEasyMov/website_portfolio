@@ -31,7 +31,7 @@
     </div>
     <img src="\imgs\projects\TUAT\TUAT2.png" 
          alt="Featured Concept Art" 
-         style="max-width: 500px; width: 100%; height: auto; border-radius: 8px; object-fit: cover; align-self: center; margin-top: 5rem;">
+         style="max-width: 500px; width: 100%; height: auto; border-radius: 8px; object-fit: cover; align-self: center; margin-top: 2rem;">
 </div>
 
 
@@ -117,40 +117,25 @@
                 <div style="display: flex; flex-direction: column; gap: 20px;">
                     <span style="color:rgb(164, 208, 255); font-weight: bold; font-size: 120%">Level Design</span>
                     <p style="margin-bottom: -2rem;">
-                        My 2nd task on the project was 
+                        My 2nd task on the project was all about Level Design, with my 3 mates we were slowly creating some little compounds with single or double ingredients maximum.
                     </p>
-                    <p style="margin-bottom: -1rem;">
-                        task2 text1
-                    </p>
-                    <p style="margin-bottom: 1.2rem;">
-                        task2 text2
-                    </p>
-                    <p style="margin-bottom: -2rem; color:rgb(164, 208, 255);">
-                        task2 title2
-                    </p>
-                    <p style="margin-bottom: -1rem;">
-                        task2 text3
-                    </p>
-                    <p style="margin-bottom: -1rem;">
-                        task2 text4
-                    </p>
-                    <p style="margin-bottom: 3rem;">
-                        task2 text5
-                    </p>
-                    <p style="margin-bottom: -2rem; color:rgb(164, 208, 255);">
-                        task2 title3
+                    <p style="margin-bottom: 2rem;">
+                        That idea was to make sure we could see the full potential of what we could do with every single one of them, making a multitude of little puzzles and platformers just to be able later to combine them.
                     </p>
                     <p style="margin-bottom: 1.2rem;">
-                        task2 text6
+                        My task was to select the puzzles with the best potential (knowing that we could only set a certain amount of them).
+                    </p>
+                    <p style="margin-bottom: -2rem;">
+                        So basicly drawing on the whiteboard or paper some sketchs or 1st try of the levels we wanted to show in the game, placing some sections for dialogues, others for competitives & cooperation gameplay.
                     </p>
                 </div>
             </li>
         </ul>
     </div>
     <div style="flex: 1; min-width: 0; margin-top: 4rem;">
-        <img src="\imgs\projects\Alz\AlzVid1.Gif" alt="this slowpoke moves"  style="width: 100%; max-width: 500px; height: auto; border-radius: 8px; object-fit: cover;margin-top: 4rem;"/>
-        <img src="\imgs\projects\Alz\AlzVid2.Gif" alt="this slowpoke moves"  style="width: 100%; max-width: 500px; height: auto; border-radius: 8px; object-fit: cover;margin-top: 14rem;"/>
-        <img src="https://i.imgur.com/k21f489.png" alt="Featured Concept Art" style="width: 100%; max-width: 500px; height: auto; border-radius: 8px; object-fit: cover;margin-top: 10rem;"/>
+        <img src="\imgs\projects\TUAT\TUAT8.png" alt="this slowpoke moves"  style="width: 100%; max-width: 500px; height: auto; border-radius: 8px; object-fit: cover;margin-top: 0rem;"/>
+        <img src="\imgs\projects\TUAT\TUAT9.png" alt="this slowpoke moves"  style="width: 100%; max-width: 500px; height: auto; border-radius: 8px; object-fit: cover;margin-top: 0rem;"/>
+        <img src="\imgs\projects\TUAT\TUAT11.png" alt="this slowpoke moves"  style="width: 100%; max-width: 500px; height: auto; border-radius: 8px; object-fit: cover;margin-top: 0rem;"/>
     </div>
 </div>  
 
@@ -158,10 +143,10 @@
     <div style="color: fff; text-align: justify; line-height: 1.6;">
         <h2 style="font-size: 2rem; color: #007bff; margin-bottom: 4rem;">📌 Lessons Learned</h2>
         <div style="margin-left: 3.5rem;"><p>
-            - lesson1
+            - We had an enormous amount of problems during the production, between issues when deciding for the Art Direction, choosing which mechanics to keep or to cut, being late on Level Design and Art, the project was really harsh to work on.
         </p>
-        <p>- lesson2</p>
-        <p>- lesson3</p></div>
+        <p>- All thoses problems helped me learn a lot about how a great organisation is the key for a great project (at least for the management part), how communicating between each corps help a lot, to ensure having the same vision of things and not having to erase, restart or repeat things.</p>
+        <p>- Being Lead Game Designer on the project made me learn how to proprely make the different cores of the group communicate, transmitting informations left and right, organising little meetings when high decision were taken to ensure the approval or understandement of everyone. It was really an amazing project to make.</p></div>
     </div>
 </div>
 
@@ -170,14 +155,15 @@
         <h2 style="font-size: 2rem; color: #007bff; margin-bottom: 4rem;">⚡ Quick infos</h2>
         <div style="margin-left: 3.5rem;">
         <p style="margin-bottom: 2rem;">
-            quickinfo1
+            Project made during 3 months as a Couch Game section of our school cursus.
         </p>
-        <p style="margin-bottom: 2rem;">quickinfo2</p>
         <p style="margin-bottom: 1rem;">The team :</p>
-        <p style="margin-bottom: -1rem;">team1</p>
-        <p style="margin-bottom: -1rem;">team2</p>
-        <p style="margin-bottom: 2rem;">team</p>
-        <p style="margin-bottom: 2rem;">published?</p>
+        <p style="margin-bottom: -1rem;">Designers : Michael Bao, Rayan Kayne, Noé Henriot and myself</p>
+        <p style="margin-bottom: -1rem;">Artists : Flora Denis, Marion Puigcerver and Aurore Martin</p>
+        <p style="margin-bottom: -1rem;">Programmers : Victor Lacombe, Leo LeLann and Santino Romero</p>
+        <p style="margin-bottom: -1rem;">Sound Designers : Yassine Boudlal and Alexandre Cardot</p>
+        <p style="margin-bottom: 2rem;">Producers : Tom Crochet and Thomas Boeglin</p>
+        <p style="margin-bottom: 2rem;">Yes! It's playable on Itch.io!</p>
         </div>
     </div>
 </div>
