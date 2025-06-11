@@ -348,8 +348,8 @@ export const portfolioProjects: ProjectProps[] = [
       liveDemoUrl: "",
       videoUrl: "",
       videoGameplayUrl: "",
-      // contentPath: "/content/Rokkatensei.md",
-      contentPath: "/content/WorkInProgress.md",
+      contentPath: "/content/Rokkatensei.md",
+      // contentPath: "/content/WorkInProgress.md",
     },
     {
       id: "tcmc",

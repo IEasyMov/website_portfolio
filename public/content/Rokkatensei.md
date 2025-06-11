@@ -37,7 +37,7 @@
             My Objectives for this project were to learn more about the turn based genre, also how to create an understandable and easy way to play the game with our fingers on phone, really interesting to have to put less buttons, UI or keybinds than PC or console games. 
         </p>
     </div>
-    <img src="https://i.imgur.com/oTH2nLd.png" 
+    <img src="\imgs\projects\Rokkatensei\RK1.png" 
          alt="Featured Concept Art" 
          style="max-width: 500px; width: 100%; height: auto; border-radius: 8px; object-fit: cover; align-self: center; margin-top: 10rem;">
 </div>
@@ -47,10 +47,10 @@
     <div style="color: #fff; text-align: justify; line-height: 1.6;">
         <h2 style="font-size: 2rem; color: #007bff; margin-bottom: 1.5rem;">👾 Gameplay</h2>
         <p style="margin-bottom: 1.2rem;">
-            Gameplay1
+            Rokkatensei is a turn based fighting game playable on android. The gameplay is really simple, you control units, setup them, move and attack with each turn. Enemies will do the same with his units.
         </p>
         <p style="margin-bottom: 1.2rem;">
-            Gameplay2
+            You can use the environnement and your characters unique abilities at your advantage
         </p>
         <p>
             Gameplay3
