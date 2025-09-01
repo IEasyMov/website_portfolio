@@ -10,36 +10,34 @@
 </div>
 <div style="margin-left: 3.5rem;"><h2 id="pitch" style="font-size: 2rem; color: #007bff; margin-bottom: 1.5rem;">💎 Theme & Game</h2>
         <p style="margin-bottom: -1rem;">
-            The theme for this game jam was "Bubbles"
+            Text1
         </p>
         <p style="margin-bottom: -1rem;">
+            Text2
         </p>
         <p style="margin-bottom: 2rem;">
+            Text3
         </p></div>
 
 <!-- Main Content with Anchor -->
-<h2 style="font-size: 2rem; color: #007bff; margin-bottom: 2rem;margin-left:3.5rem;">🌟 Introduction</h2>
+<h2 style="font-size: 2rem; color: #007bff; margin-bottom: 4rem;margin-left:3.5rem;">🌟 Introduction</h2>
 <div id="introduction" style="display: flex; align-items: flex-start; gap: 2rem; margin: 2rem 0; max-width: 1200px; margin-left: auto; margin-right: auto;">
     <img src="\imgs\projects\Boba\Boba1.png" 
          alt="Featured Concept Art" 
          style="max-width: 500px; width: 100%; height: auto; border-radius: 8px; object-fit: cover; align-self: center;">
     <div style="flex: 1; padding: 0 15px; color: #fff; text-align: justify; line-height: 1.6; max-width: 600px;">
         <p style="margin-bottom: 0rem;">
-            <i style="color: #007bff; font-size: 1.5rem;">Boba </i>  is a two-player co-op arcade game will keep you on the edge of your seat as you team up with a friend to survive the open ocean.
+            <i>Name</i> Text1
         </p>
         <p style="margin-bottom: 2rem;">
-            Plot Twist: One of you is a brave hamster rolling in a plastic ball, and the other wields a shampoo bottle as your weapon of choice. Together, you must stay within the protective radius of a life buoy while overcoming relentless obstacles and enemies.
+            Text2
         </p>
         <p style="margin-bottom: 1.2rem;">
-            The Challenges:
+            Text3
         </p>
         <p>
-            - The Wave: Timing is everything! Jump over the towering waves to keep your hamster ball afloat and safe from the stormy waters.
+            Text4
         </p>
-        <p>
-            - The Fishnet: Aim true and fire away! Destroy the fishnet pillars to clear your path and protect your furry friend.</p>
-            <p>
-            - The Fan: The clock is ticking! Shoot the three buttons to turn off the fan before it blows you out of the buoy's safety zone.</p>
     </div>
 </div>
 
