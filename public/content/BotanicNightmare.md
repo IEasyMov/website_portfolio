@@ -23,7 +23,7 @@
          style="max-width: 500px; width: 100%; height: auto; border-radius: 8px; object-fit: cover; align-self: center;">
     <div style="flex: 1; padding: 0 15px; color: #fff; text-align: justify; line-height: 1.6; max-width: 600px;">
         <p style="margin-bottom: 0rem;">
-            <i style="color: #007bff; font-size: 1.5rem;">Boba </i>  is a two-player co-op arcade game will keep you on the edge of your seat as you team up with a friend to survive the open ocean.
+            <i style="color: #007bff; font-size: 1.5rem;">Botanic Nightmare </i>  is a little survival defense game where you have to explore an abandonned factory, using seeds to create mutant plants and defeat .
         </p>
         <p style="margin-bottom: 2rem;">
             Plot Twist: One of you is a brave hamster rolling in a plastic ball, and the other wields a shampoo bottle as your weapon of choice. Together, you must stay within the protective radius of a life buoy while overcoming relentless obstacles and enemies.
