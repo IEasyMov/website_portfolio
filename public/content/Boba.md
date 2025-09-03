@@ -10,11 +10,9 @@
 </div>
 <div style="margin-left: 3.5rem;"><h2 id="pitch" style="font-size: 2rem; color: #007bff; margin-bottom: 1.5rem;">💎 Theme & Game</h2>
         <p style="margin-bottom: -1rem;">
-            The theme for this game jam was "Bubbles"
+            The theme for this game jam was "Bubbles".
         </p>
-        <p style="margin-bottom: -1rem;">
-        </p>
-        <p style="margin-bottom: 2rem;">
+        <p style="margin-bottom: -1rem;">We made the game for the event of the Global Game Jam 2025, where we worked during a good 3 days to create this little experience coop game.
         </p></div>
 
 <!-- Main Content with Anchor -->
@@ -48,13 +46,16 @@
     <div style="color: #fff; text-align: justify; line-height: 1.6;">
         <h2 style="font-size: 2rem; color: #007bff; margin-bottom: 1.5rem;">👾 Gameplay</h2>
         <p style="margin-bottom: 1.2rem;">
-            Text1
+            With only three shared health points, there's no room for mistakes. Every heartbeat counts as you and your partner navigate the treacherous ocean, relying on sharp reflexes and seamless teamwork.
         </p>
         <p style="margin-bottom: 1.2rem;">
-            Text2
+            The player 1 that is in the bubble will move it to dodge some moving obstacles and dangers.
         </p>
         <p>
-            Text3
+            While the player 2 that is above will have to shoot some incoming objects to prevent any collision or damages too.
+        </p>
+        <p>
+            The objective of the game is to stay alive as long as possible by dodging everything that threaten our littles hamster lifes.
         </p>
         <h2 id="task" style="font-size: 2rem; color: #007bff;">📃 Tasks Realized</h2>
     </div>
@@ -71,12 +72,12 @@
         <ul style="font-size: 120%;">
             <li style="padding-bottom: 15px;">
                 <div style="display: flex; flex-direction: column; gap: 20px;">
-                    <span style="color:rgb(164, 208, 255); font-weight: bold; font-size: 120%">task1</span>
+                    <span style="color:rgb(164, 208, 255); font-weight: bold; font-size: 120%">Concept of the game</span>
                     <p style="margin-bottom: 1.2rem;">
-                        explanation1
+                        We needed a real quick and short game to make, so we decided to plan a little endless game. With low amount of mechanics to create and more polishing it was the right scope for a 3 days long Game Jam.
                     </p>
                     <p style="margin-bottom: 2rem;">
-                        explanation2
+                        Starting by deciding how much players, that it'll be a local coop, and what will the players play, our little hamsters !
                     </p>
                 </div>
             </li>
@@ -92,12 +93,18 @@
         <ul style="font-size: 120%;">
             <li style="padding-bottom: 15px;">
                 <div style="display: flex; flex-direction: column; gap: 20px;">
-                    <span style="color:rgb(164, 208, 255); font-weight: bold; font-size: 120%; margin-top:3rem;">task2</span>
+                    <span style="color:rgb(164, 208, 255); font-weight: bold; font-size: 120%; margin-top:3rem;">Designing the obstacles</span>
                     <p style="margin-bottom: 1.2rem;">
-                        explanation1
+                        We took the register of a swimming pool or beach activities, reason why we took floaters, slides and net as exemples for the obstacles, and some good looking fresh water with a sunny view for the game in general, to make it feel like beach time.
                     </p>
                     <p style="margin-bottom: 2rem;">
-                        explanation2
+                        - Wave : This obstacle is as simple as it's name, it's a huge wave that will be passing through the map, the bubble player will have to move out of the way to dodge the wave.
+                    </p>
+                    <p>
+                        - Net : Like a beachvolley net, between two pillars is a big net that will damage the players on collision, the top player has to shot the pillars to destroy them and make the net disapear before it has the chance to touch the players since it cover the entire size of the map.
+                    </p>
+                    <p>
+                        - Fan : A fan placed on one side of the floater, it'll blow wind on the player and push him more and more until it touches the floater and get damaged. The top player has to shot an activation button on another side of the floater to turn it off and make it dissapear.
                     </p>
                 </div>
             </li>
@@ -114,11 +121,11 @@
     <div style="color: fff; text-align: justify; line-height: 1.6;">
         <h2 style="font-size: 2rem; color: #007bff; margin-bottom: 4rem;">📌 Lessons Learned</h2>
         <div style="margin-left: 3.5rem;"><p>
-            - lesson1
+            - I learnt once again that a really short game scope isn't bad at all, sometimes it means we will have more time polishing the game and making nice effects or fixing bugs.
         </p>
-        <p>- lesson2
+        <p>- I've done the Global Game Jam last year too, and once again 3 days to make a game is really short, so it's an intensive work, but the best way to learn how to find the best solutions for problems in a short period of time.
         </p>
-        <p>- lesson3
+        <p>- Last one was to learn how to find a good balancing for some kind of asymetric duo gameplay as this one, it was fun to learn and a lot of playtesting, fix, modify and retry until it feels good to play.
         </p>
         </div>
     </div>
@@ -129,14 +136,13 @@
         <h2 style="font-size: 2rem; color: #007bff; margin-bottom: 4rem;">⚡ Quick infos</h2>
         <div style="margin-left: 3.5rem;">
         <p style="margin-bottom: 2rem;">
-            quickinfo1
+            Project made in 3 days on Unity
         </p>
-        <p style="margin-bottom: 2rem;">quickinfo2</p>
         <p style="margin-bottom: 1rem;">The team :</p>
-        <p style="margin-bottom: -1rem;">team1</p>
-        <p style="margin-bottom: -1rem;">team2</p>
-        <p style="margin-bottom: 2rem;">team</p>
-        <p style="margin-bottom: 2rem;">published?</p>
+        <p style="margin-bottom: 0rem;">- Programmers : Victor Lacombe, Gabriel Le Mer</p>
+        <p style="margin-bottom: 0rem;">- Designer : Myself</p>
+        <p style="margin-bottom: 0rem;">- Artists : Thaumas & Richwitch</p>
+        <p style="margin-bottom: 2rem;">The game is playable from it's page Itch available below, feel free to test!</p>
         </div>
     </div>
 </div>
