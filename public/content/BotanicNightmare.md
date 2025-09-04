@@ -26,18 +26,20 @@
             <i style="color: #007bff; font-size: 1.5rem;">Botanic Nightmare </i>  is a little survival defense game where you have to explore an abandonned factory, using seeds to create mutant plants and defeat .
         </p>
         <p style="margin-bottom: 2rem;">
-            Plot Twist: One of you is a brave hamster rolling in a plastic ball, and the other wields a shampoo bottle as your weapon of choice. Together, you must stay within the protective radius of a life buoy while overcoming relentless obstacles and enemies.
+            a
         </p>
         <p style="margin-bottom: 1.2rem;">
-            The Challenges:
+            a
         </p>
         <p>
-            - The Wave: Timing is everything! Jump over the towering waves to keep your hamster ball afloat and safe from the stormy waters.
+            a
         </p>
         <p>
-            - The Fishnet: Aim true and fire away! Destroy the fishnet pillars to clear your path and protect your furry friend.</p>
-            <p>
-            - The Fan: The clock is ticking! Shoot the three buttons to turn off the fan before it blows you out of the buoy's safety zone.</p>
+            a
+        </p>
+        <p>
+            a
+        </p>
     </div>
 </div>
 
@@ -46,16 +48,16 @@
     <div style="color: #fff; text-align: justify; line-height: 1.6;">
         <h2 style="font-size: 2rem; color: #007bff; margin-bottom: 1.5rem;">👾 Gameplay</h2>
         <p style="margin-bottom: 1.2rem;">
-            With only three shared health points, there's no room for mistakes. Every heartbeat counts as you and your partner navigate the treacherous ocean, relying on sharp reflexes and seamless teamwork.
+            a
         </p>
         <p style="margin-bottom: 1.2rem;">
-            The player 1 that is in the bubble will move it to dodge some moving obstacles and dangers.
+            a
         </p>
         <p>
-            While the player 2 that is above will have to shoot some incoming objects to prevent any collision or damages too.
+            a
         </p>
         <p>
-            The objective of the game is to stay alive as long as possible by dodging everything that threaten our littles hamster lifes.
+            a
         </p>
         <h2 id="task" style="font-size: 2rem; color: #007bff;">📃 Tasks Realized</h2>
     </div>
@@ -72,12 +74,12 @@
         <ul style="font-size: 120%;">
             <li style="padding-bottom: 15px;">
                 <div style="display: flex; flex-direction: column; gap: 20px;">
-                    <span style="color:rgb(164, 208, 255); font-weight: bold; font-size: 120%">Concept of the game</span>
+                    <span style="color:rgb(164, 208, 255); font-weight: bold; font-size: 120%">z</span>
                     <p style="margin-bottom: 1.2rem;">
-                        We needed a real quick and short game to make, so we decided to plan a little endless game. With low amount of mechanics to create and more polishing it was the right scope for a 3 days long Game Jam.
+                        a
                     </p>
                     <p style="margin-bottom: 2rem;">
-                        Starting by deciding how much players, that it'll be a local coop, and what will the players play, our little hamsters !
+                        a
                     </p>
                 </div>
             </li>
@@ -93,18 +95,18 @@
         <ul style="font-size: 120%;">
             <li style="padding-bottom: 15px;">
                 <div style="display: flex; flex-direction: column; gap: 20px;">
-                    <span style="color:rgb(164, 208, 255); font-weight: bold; font-size: 120%; margin-top:3rem;">Designing the obstacles</span>
+                    <span style="color:rgb(164, 208, 255); font-weight: bold; font-size: 120%; margin-top:3rem;">z</span>
                     <p style="margin-bottom: 1.2rem;">
-                        We took the register of a swimming pool or beach activities, reason why we took floaters, slides and net as exemples for the obstacles, and some good looking fresh water with a sunny view for the game in general, to make it feel like beach time.
+                        a
                     </p>
                     <p style="margin-bottom: 2rem;">
-                        - Wave : This obstacle is as simple as it's name, it's a huge wave that will be passing through the map, the bubble player will have to move out of the way to dodge the wave.
+                        a
                     </p>
                     <p>
-                        - Net : Like a beachvolley net, between two pillars is a big net that will damage the players on collision, the top player has to shot the pillars to destroy them and make the net disapear before it has the chance to touch the players since it cover the entire size of the map.
+                        a
                     </p>
                     <p>
-                        - Fan : A fan placed on one side of the floater, it'll blow wind on the player and push him more and more until it touches the floater and get damaged. The top player has to shot an activation button on another side of the floater to turn it off and make it dissapear.
+                        a
                     </p>
                 </div>
             </li>
@@ -121,11 +123,11 @@
     <div style="color: fff; text-align: justify; line-height: 1.6;">
         <h2 style="font-size: 2rem; color: #007bff; margin-bottom: 4rem;">📌 Lessons Learned</h2>
         <div style="margin-left: 3.5rem;"><p>
-            - I learnt once again that a really short game scope isn't bad at all, sometimes it means we will have more time polishing the game and making nice effects or fixing bugs.
+            - a
         </p>
-        <p>- I've done the Global Game Jam last year too, and once again 3 days to make a game is really short, so it's an intensive work, but the best way to learn how to find the best solutions for problems in a short period of time.
+        <p>- a
         </p>
-        <p>- Last one was to learn how to find a good balancing for some kind of asymetric duo gameplay as this one, it was fun to learn and a lot of playtesting, fix, modify and retry until it feels good to play.
+        <p>- a
         </p>
         </div>
     </div>
