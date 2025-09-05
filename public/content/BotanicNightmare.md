@@ -23,22 +23,7 @@
          style="max-width: 500px; width: 100%; height: auto; border-radius: 8px; object-fit: cover; align-self: center;">
     <div style="flex: 1; padding: 0 15px; color: #fff; text-align: justify; line-height: 1.6; max-width: 600px;">
         <p style="margin-bottom: 0rem;">
-            <i style="color: #007bff; font-size: 1.5rem;">Botanic Nightmare </i>  is a little survival defense game where you have to explore an abandonned factory, using seeds to create mutant plants and defeat .
-        </p>
-        <p style="margin-bottom: 2rem;">
-            a
-        </p>
-        <p style="margin-bottom: 1.2rem;">
-            a
-        </p>
-        <p>
-            a
-        </p>
-        <p>
-            a
-        </p>
-        <p>
-            a
+            <i style="color: #007bff; font-size: 1.5rem;">Botanic Nightmare </i>  is a little solo survival defense game where you have to explore an abandonned factory, using seeds to create mutant plants and defeat the agressive robots that will chase and attack you.
         </p>
     </div>
 </div>
@@ -48,16 +33,16 @@
     <div style="color: #fff; text-align: justify; line-height: 1.6;">
         <h2 style="font-size: 2rem; color: #007bff; margin-bottom: 1.5rem;">👾 Gameplay</h2>
         <p style="margin-bottom: 1.2rem;">
-            a
+            You start in a safe room, and as soon as you leave it you will find a seed, a watering can and a little pad of soil.. You'll have to pickup the seed and place it on the soil, then pickup the watering can and water your seed.. 
         </p>
         <p style="margin-bottom: 1.2rem;">
-            a
+            After a few seconds it'll grow into a little plant that you can pickup and throw, it'll reach a little distance then create a plant.
         </p>
         <p>
-            a
+            There are different seeds, each ones has a different utilisation and plant once grown up, use them wisely.. Some open doors, others slow enemies and some attack ennemies !
         </p>
         <p>
-            a
+            Your final objective is to use the Key Seeds to grow up keys and open doors, unlock more areas, kill the robots and reach the exit of the factory to finally escape.
         </p>
         <h2 id="task" style="font-size: 2rem; color: #007bff;">📃 Tasks Realized</h2>
     </div>
@@ -74,13 +59,11 @@
         <ul style="font-size: 120%;">
             <li style="padding-bottom: 15px;">
                 <div style="display: flex; flex-direction: column; gap: 20px;">
-                    <span style="color:rgb(164, 208, 255); font-weight: bold; font-size: 120%">z</span>
+                    <span style="color:rgb(164, 208, 255); font-weight: bold; font-size: 120%">The overall system</span>
                     <p style="margin-bottom: 1.2rem;">
-                        a
+                        I wanted to create a kind of tower defense but more mobile and dynamic. So in the game by opening new areas, new spawners and monster will arrive and chase you. You're so placing plants to defend you and attack the robots.
                     </p>
-                    <p style="margin-bottom: 2rem;">
-                        a
-                    </p>
+                    <p style="margin-bottom: 0.8rem;">Killing robots will drop their battery on the ground, pickup thoses and throw them in distributors to get new random seeds, or throw them in the Robot spawners to make them explode and drop a new Key Seed, letting you grow a key and unlock new areas</p>
                 </div>
             </li>
         </ul>
@@ -95,19 +78,26 @@
         <ul style="font-size: 120%;">
             <li style="padding-bottom: 15px;">
                 <div style="display: flex; flex-direction: column; gap: 20px;">
-                    <span style="color:rgb(164, 208, 255); font-weight: bold; font-size: 120%; margin-top:3rem;">z</span>
+                    <span style="color:rgb(164, 208, 255); font-weight: bold; font-size: 120%; margin-top:3rem;">Different Robots & Seeds</span>
                     <p style="margin-bottom: 1.2rem;">
-                        a
+                        There are 3 different type of Robots: 
                     </p>
-                    <p style="margin-bottom: 2rem;">
-                        a
+                    <p style="margin-bottom: -1rem;">
+                        - The Scalper: The most basic robot, it'll go toward you with a regular speed and try to hit you. You outrun it so the only menace is getting outnumbered or getting in a deadend.
                     </p>
-                    <p>
-                        a
+                    <p style="margin-bottom: -1rem;">
+                        - The ball: Will roll toward your direction, once in range it'll load for a few seconds and then roll ultra quick toward your position. Move quick, as soon as it start rolling to you to dodge!</p>
+                    <p style="margin-bottom: -1rem;">
+                        - Finally, the boss: A bigger robot that will roll toward you with a high speed for a set period of time, the farest you are from it the best are your chances to dodge this attack. And will also shot chainsaw blades at you when static. Hide or dodge the blades and defeat it!</p>
+                    <p style="margin-top: 3rem;margin-bottom:2rem;">
+                        There are 3 kind of seeds:
                     </p>
-                    <p>
-                        a
+                    <p style="margin-bottom: -1rem;">
+                        - Bitter Seed: A black looking seed that once grown up, picked up and thrown will create a open jaw of plant, when an Robot walks between the jaws, the plant will stun the Robot by closing it's jaw on it and damage it highly.. It can damage only a single enemy at once.
                     </p>
+                    <p style="margin-bottom: -1rem;">- Spicy Seed: A orangish looking seed, once grown up, picked and thrown it'll create an area of toxic vines.. the vines will slow the enemies walking on it and damage them over time, so better turn around so the enemies stay as long as possible in it. </p>
+                    <p style="margin-bottom: -1rem;">
+                        - Golden Seed: A gold seed that once planted and watered, will create a key. The player can pickup the key and throw it at a locked door to open it. It's simple, the golden seeds are placed in the level already so find and use them to continue your exploration in the factory.</p>
                 </div>
             </li>
         </ul>
