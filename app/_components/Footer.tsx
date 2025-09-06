@@ -22,13 +22,13 @@ const Footer = () => {
           </h1>
           <div className="grid gap-x-8 gap-y-4 grid-cols-3">
             <ShinyButton>
-              <Link href="https://www.linkedin.com/in/alexandrefoussat/">Linkedin</Link>
+              <Link href="https://www.linkedin.com/in/alexandrefoussat/" target="_blank">Linkedin</Link>
             </ShinyButton>
             <ShinyButton>
-              <Link href="https://iikarma.itch.io">Itch</Link>
+              <Link href="https://iikarma.itch.io" target="_blank">Itch</Link>
             </ShinyButton>
             <ShinyButton>
-              <Link href="https://github.com/IEasyMov">GitHub</Link>
+              <Link href="https://github.com/IEasyMov" target="_blank">GitHub</Link>
             </ShinyButton>
           </div>
         </div>
@@ -78,7 +78,7 @@ const Footer = () => {
                 </Link>
               </li>
               <li className="text-dark-200/60 hover:text-dark-200 dark:text-white/50 dark:hover:text-white">
-                <Link href="https://iikarma.itch.io">Itch</Link>
+                <Link href="https://iikarma.itch.io"  target="_blank">Itch</Link>
               </li>
             </ul>
             
