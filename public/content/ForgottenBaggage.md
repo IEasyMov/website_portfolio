@@ -75,7 +75,7 @@
 <div id="visuals" style="margin: 2rem auto; max-width: 900px; padding: 0 1rem;">
     <div style="color: #fff; text-align: justify; line-height: 1.6;">
     <div style="border-top: 1px solid #5f656d;height: 1px;margin: 40px 0;margin-left:20rem;margin-right:20rem;"></div>
-        <h2 style="font-size: 2rem; color: #007bff; margin-bottom:4rem;margin-left:39%;">📸 Visuals</h2>
+        <h2 style="font-size: 2rem; color: #007bff; margin-bottom:4rem;margin-left:40%;">📸 Visuals</h2>
         <div style="display: flex; gap: 1rem; justify-content: center;margin: 2rem 0;">
             <img 
                 src="\imgs\projects\Forgotten\F2.png" 
@@ -102,19 +102,19 @@
         <h2 style="font-size: 2rem; color: #007bff; margin-bottom:4rem;margin-left:31%;">🛠️ My Contribution</h2>
         <div style="margin-left:6%">
         <p style="margin-bottom: 1.2rem;">
-            - Game Design (Inspiration from Paper Please, the Theme leading to an airport "lost & found" scenario, what are to find and how, etc..)
+            - <b>Game Design</b> (Inspiration from Paper Please, the Theme leading to an airport "lost & found" scenario, what are to find and how, etc..)
         </p>
         <p>
-            - UX/UI (Placement of the NPC askings, the baggage trail, the timer and the open baggage area)
+            - <b>UX/UI</b> (Placement of the NPC askings, the baggage trail, the timer and the open baggage area)
         </p>
         <p>
-            - Sound Design (free to use sounds)
+            - <b>Sound Design</b> (free to use sounds)
         </p>
         <p>
-            - Programmation (C# code in VisualStudio from A to Z in the project)
+            - <b>Programmation</b> (C# code in VisualStudio from A to Z in the project)
         </p>
         <p>
-            - Visuels of the map, characters and objects (Photoshop and Paint3D)
+            - <b>Art</b> (Visuels of the map, characters and objects (Photoshop and Paint3D))
         </p>
         </div>
     </div>
@@ -139,4 +139,5 @@
             The game is playable from the Itch.io link <a href="https://iikarma.itch.io/forgotten-baggage" style="color: #007bff;" target="_blank">here</a>!
         </p>
     </div>
+    <div style="border-top: 1px solid #5f656d;height: 1px;margin: 40px 0;margin-left:25rem;margin-right:25rem;margin-top:4rem;"></div>
 </div>

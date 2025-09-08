@@ -734,6 +734,35 @@ export const portfolioGameJam: ProjectProps[] = [
     contentPath: "/content/CagaShopper.md",
   },
   {
+    id: "jollyforge",
+    heading: "The JollyGift Forge",
+    subheading: "",
+    imageUrl: "/imgs/projects/JollyGift/Jolly1.png",
+    techStack: [
+      ""
+    ],
+    techStackEngine: [
+      "Unity", 
+      "Itch.io Published"
+    ],
+    techStackAbout: [
+      "Christmas - Theme",
+      "Short Game",
+      "Action Game"
+    ],
+    techStackSize: [
+      "Made in 10 days",
+      "Team of 14"
+    ],
+    techStackAward: [
+      ""
+    ],
+    liveDemoUrl: "",
+    videoUrl: "",
+    videoGameplayUrl: "",
+    contentPath: "/content/JollyForge.md",
+  },
+  {
     id: "spooktoons",
     heading: "SpookToons",
     subheading: "",

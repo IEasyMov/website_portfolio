@@ -87,7 +87,7 @@
 <div id="visuals" style="margin: 2rem auto;padding: 0 1rem;">
     <div style="color: #fff; text-align: justify; line-height: 1.6;">
     <div style="border-top: 1px solid #5f656d;height: 1px;margin: 40px 0;margin-left:20rem;margin-right:20rem;"></div>
-        <h2 style="font-size: 2rem; color: #007bff; margin-bottom:4rem;margin-left:39%;">📸 Visuals</h2>
+        <h2 style="font-size: 2rem; color: #007bff; margin-bottom:4rem;margin-left:42%;">📸 Visuals</h2>
         <div style="display: flex; gap: 1rem; justify-content: center;margin: 2rem 0;">
             <img 
                 src="\imgs\projects\Impossible\Imp2.png" 
@@ -109,16 +109,16 @@
         <h2 style="font-size: 2rem; color: #007bff; margin-bottom:4rem;margin-left:31%;">🛠️ My Contribution</h2>
         <div>
         <p style="margin-bottom: 1.2rem;">
-            - Game Design (Infinite sliding game, how the driving and zombies works, different weapons, score, money and upgrades)
+            - <b>Game Design</b> (Infinite sliding game, how the driving and zombies works, different weapons, score, money and upgrades)
         </p>
         <p>
-            - Sound Design (free to use sounds)
+            - <b>Sound Design</b> (free to use sounds)
         </p>
         <p>
-            - Organization (Asset list for Prog and Art, planning the steps for the short developpement of the game)
+            - <b>Organization</b> (Asset list for Prog and Art, planning the steps for the short developpement of the game)
         </p>
         <p>
-            - QA Testing (Playtesting for each prog update, tweaking the damage and health numbers to make it fun and satisfying to play)
+            - <b>QA Testing</b> (Playtesting for each prog update, tweaking the damage and health numbers to make it fun and satisfying to play)
         </p>
         </div>
     </div>
@@ -146,4 +146,5 @@
             The game is playable from the Itch.io link <a href="https://victor9955.itch.io/the-impossible-delivery" style="color: #007bff;" target="_blank">here</a>!
         </p>
     </div>
+    <div style="border-top: 1px solid #5f656d;height: 1px;margin: 40px 0;margin-left:25rem;margin-right:25rem;margin-top:4rem;"></div>
 </div>
