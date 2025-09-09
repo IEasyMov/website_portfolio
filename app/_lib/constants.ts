@@ -55,7 +55,7 @@ export const portfolioProjects: ProjectProps[] = [
       id: "onezero",
       heading: "One&Zero",
       subheading: "",
-      imageUrl: "https://i.imgur.com/qnO1jWb.png",
+      imageUrl: "/imgs/projects/OneAndZero/OAZ1.png",
       techStack: [
         ""
       ],
@@ -173,7 +173,7 @@ export const portfolioProjects: ProjectProps[] = [
       id: "goinghome",
       heading: "Going Home",
       subheading: "",
-      imageUrl: "https://i.imgur.com/qnO1jWb.png",
+      imageUrl: "/imgs/projects/Microids.png",
       techStack: [
         "",
       ],
