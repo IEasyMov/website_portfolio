@@ -49,7 +49,7 @@
             <b>Team Size: </b>13 Persons
         </p>
         <span style="color:rgb(164, 208, 255); font-weight: bold;  font-size: 120%;margin-left:7%;font-size: 1.75rem;">The Team</span>
-        <div style="margin-left:-18rem;">
+        <div style="margin-left:-20rem;">
         <p style="margin-top: 3rem;">
             <b>Programmer: </b><b>Team1:</b> Tom Segaux & Antoine Hanna; <b>Team2:</b> Myself; <b>Team3:</b> Jérémy Lombard & Ema Ouardi
         </p>
