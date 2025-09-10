@@ -1,379 +1,125 @@
 <!-- Summary Section with Navigation -->
 
 <div style="background:rgb(26, 26, 26); padding: 1.5rem; margin-bottom: 2rem; border-radius: 4px; text-align: center;">
-<a href="#pitch" style="color: #007bff; text-decoration: none; margin: 0 10px;">💎 Pitch</a>
-<a href="#introduction" style="color: #007bff; text-decoration: none; margin: 0 10px;">🌟 Introduction</a>
-<a href="#game" style="color: #007bff; text-decoration: none; margin: 0 10px;">👾 Gameplay </a>
-<a href="#task" style="color: #007bff; text-decoration: none; margin: 0 10px;">📃 Tasks Realized</a>
-<a href="#lesson" style="color: #007bff; text-decoration: none; margin: 0 10px;">📌 Lessons Learned</a>
-<a href="#infos" style="color: #007bff; text-decoration: none; margin: 0 10px;">⚡ Quick infos</a>
-
+<a href="#pitch" style="color: #007bff; text-decoration: none; margin: 0 10px;">🧠 Pitch</a>
+<a href="#gameplay" style="color: #007bff; text-decoration: none; margin: 0 10px;">🕹️ Gameplay Snapshot</a>
+<a href="#visuals" style="color: #007bff; text-decoration: none; margin: 0 10px;">📸 Visuals</a>
+<a href="#contribution" style="color: #007bff; text-decoration: none; margin: 0 10px;">🛠️ My Contribution</a>
+<a href="#lesson" style="color: #007bff; text-decoration: none; margin: 0 10px;">💡 Lesson Learned</a>
+<a href="#link" style="color: #007bff; text-decoration: none; margin: 0 10px;">🔗 Play Link</a>
 </div>
-<div style="margin-left: 3.5rem;"><h2 id="pitch" style="font-size: 2rem; color: #007bff; margin-bottom: 1.5rem;">💎 Pitch</h2>
-        <p style="margin-bottom: 2rem;">
-            In a galaxy not that far away, trying to reach the end of this endless space, destroy asteroids, dodge lasers and defeat thoses space creatures to reach your destiny.
-        </p></div>
 
 <!-- Main Content with Anchor -->
-<div id="introduction" style="display: flex; align-items: flex-start; gap: 2rem; margin: 2rem 0; max-width: 1200px; margin-left: auto; margin-right: auto;">
-    <div style="flex: 1; padding: 0 15px; color: #fff; text-align: justify; line-height: 1.6; max-width: 600px;">
-        <h2 style="font-size: 2rem; color: #007bff; margin-bottom: 4rem;">🌟 Introduction</h2>
-        <p style="margin-bottom: 4rem;">
-            <i>Asteroid Blast</i> is a small game I wanted to create as "test" project. Since I had free time at school I wanted to use thoses moments while I was super motivated to learn and try new things, to create games with types of gameplay I would have low chance to learn in school.
-        </p>
-        <p>
-            My Objectives for this little project were to create a space invader like, try using some 3D assets on Unity as well as endless shooter game.
-        </p>
-    </div>
-    <img src="https://i.imgur.com/oTH2nLd.png" 
-         alt="Featured Concept Art" 
-         style="max-width: 500px; width: 100%; height: auto; border-radius: 8px; object-fit: cover; align-self: center; margin-top: 10rem;">
+<div>
+    <h2 style="font-size: 2rem; color: #007bff; margin-bottom:3rem;margin-left:44%;">🧠 Pitch</h2>
 </div>
-
-
-<div id="game" style="margin: 4rem auto; max-width: 1200px; padding: 0 1rem;">
-    <div style="color: #fff; text-align: justify; line-height: 1.6;">
-        <h2 style="font-size: 2rem; color: #007bff; margin-bottom: 1.5rem;">👾 Gameplay</h2>
-        <p style="margin-bottom: 1.2rem;">
-            Gameplay1
-        </p>
-        <p style="margin-bottom: 1.2rem;">
-            Gameplay2
-        </p>
-        <p>
-            Gameplay3
-        </p>
-        <h2 id="task" style="font-size: 2rem; color: #007bff;">👨‍💻 What I've realized on the project</h2>
-    </div>
-</div>
-
-<div style="display: flex; align-items: flex-start; gap: 2rem; margin: 2rem auto; max-width: 1200px;">
-    <!-- Image Column (Left) -->
-    <div style="flex: 1; min-width: 0; margin-top: 4rem;">
-        <img src="https://i.imgur.com/HBqNJ7X.png" 
-             alt="Featured Concept Art" 
-             style="width: 100%; max-width: 500px; height: auto; border-radius: 8px; object-fit: cover;">
-    </div>
-<div style="flex: 1; padding: 0 15px; color: #fff; text-align: justify; line-height: 1.6;">
-        <ul style="font-size: 120%;">
-            <li style="padding-bottom: 15px;">
-                <div style="display: flex; flex-direction: column; gap: 20px;">
-                    <span style="color:rgb(164, 208, 255); font-weight: bold; font-size: 120%">task1</span>
-                    <p style="margin-bottom: 1.2rem;">
-                        explanation1
-                    </p>
-                    <p style="margin-bottom: 2rem;">
-                        explanation2
-                    </p>
-                </div>
-            </li>
-        </ul>
-    </div>
-</div>
-
-<details style="margin: 10px 0; border: 1px solid #3d4450; border-radius: 4px;">
-    <summary style="cursor: pointer; padding: 8px; background-color: #2a2f3a; color: #fff; font-family: monospace;">
-        Info1
-    </summary>
-    <div style="background-color: #1a1a1a; border-radius: 0 0 4px 4px;">
-    <div>
-
-    Info1Text
-</div>
-        </details>
-            </li>
-        </ul>
-    </div>
-</div>
-<div style="display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap; margin: 2rem 0;">
-    <img 
-        src="https://i.imgur.com/BUv9WnH.png" 
-        alt="Image 1" 
-        style="width: 200px; height: 400px; object-fit: cover; border-radius: 8px;"
-    >
-    <img 
-        src="https://i.imgur.com/d4Drc4y.png" 
-        alt="Image 2" 
-        style="width: 200px; height: 400px; object-fit: cover; border-radius: 8px;"
-    >
-    <img 
-        src="https://i.imgur.com/Zn4iVPx.png" 
-        alt="Image 3" 
-        style="width: 200px; height: 400px; object-fit: cover; border-radius: 8px;"
-    >
-    <img 
-        src="https://i.imgur.com/K98jPEV.png" 
-        alt="Image 3" 
-        style="width: 200px; height: 400px; object-fit: cover; border-radius: 8px;"
-    >
-    <img 
-        src="https://i.imgur.com/GLOq4Ed.png" 
-        alt="Image 3" 
-        style="width: 200px; height: 400px; object-fit: cover; border-radius: 8px;"
-    >
-</div>
-
-<div style="display: flex; align-items: flex-start; gap: 2rem; margin: 2rem auto; max-width: 1200px;">
-    <!-- Image Column (Left) -->
-<div style="flex: 1; padding: 0 15px; color: #fff; text-align: justify; line-height: 1.6;">
-        <ul style="font-size: 120%;">
-            <li style="padding-bottom: 15px;">
-                <div style="display: flex; flex-direction: column; gap: 20px;">
-                    <span style="color:rgb(164, 208, 255); font-weight: bold; font-size: 120%">task2</span>
-                    <p style="margin-bottom: -2rem; color:rgb(164, 208, 255);">
-                        task2 title1
-                    </p>
-                    <p style="margin-bottom: -1rem;">
-                        task2 text1
-                    </p>
-                    <p style="margin-bottom: 1.2rem;">
-                        task2 text2
-                    </p>
-                    <p style="margin-bottom: -2rem; color:rgb(164, 208, 255);">
-                        task2 title2
-                    </p>
-                    <p style="margin-bottom: -1rem;">
-                        task2 text3
-                    </p>
-                    <p style="margin-bottom: -1rem;">
-                        task2 text4
-                    </p>
-                    <p style="margin-bottom: 3rem;">
-                        task2 text5
-                    </p>
-                    <p style="margin-bottom: -2rem; color:rgb(164, 208, 255);">
-                        task2 title3
-                    </p>
-                    <p style="margin-bottom: 1.2rem;">
-                        task2 text6
-                    </p>
-                </div>
-            </li>
-        </ul>
-    </div>
-    <div style="flex: 1; min-width: 0; margin-top: 4rem;">
-        <img src="\imgs\projects\Alz\AlzVid1.Gif" alt="this slowpoke moves"  style="width: 100%; max-width: 500px; height: auto; border-radius: 8px; object-fit: cover;margin-top: 4rem;"/>
-        <img src="\imgs\projects\Alz\AlzVid2.Gif" alt="this slowpoke moves"  style="width: 100%; max-width: 500px; height: auto; border-radius: 8px; object-fit: cover;margin-top: 14rem;"/>
-        <img src="https://i.imgur.com/k21f489.png" alt="Featured Concept Art" style="width: 100%; max-width: 500px; height: auto; border-radius: 8px; object-fit: cover;margin-top: 10rem;"/>
-    </div>
-</div>  
-
-<div id="lesson" style="display: flex; align-items: flex-start; gap: 2rem; margin: 2rem 0; max-width: 1200px; margin-left: auto; margin-right: auto;">
-    <div style="color: fff; text-align: justify; line-height: 1.6;">
-        <h2 style="font-size: 2rem; color: #007bff; margin-bottom: 4rem;">📌 Lessons Learned</h2>
-        <div style="margin-left: 3.5rem;"><p>
-            - lesson1
-        </p>
-        <p>- lesson2</p>
-        <p>- lesson3</p></div>
-    </div>
-</div>
-
-<div id="infos" style="display: flex; align-items: flex-start; gap: 2rem; margin: 2rem 0; max-width: 1200px; margin-left: auto; margin-right: auto;">
-    <div style="color: fff; text-align: justify; line-height: 1.6;">
-        <h2 style="font-size: 2rem; color: #007bff; margin-bottom: 4rem;">⚡ Quick infos</h2>
-        <div style="margin-left: 3.5rem;">
+<div id="pitch" style="display: flex; align-items: flex-start; gap: 2rem; margin: 2rem 0; max-width: 1200px; margin-left: auto; margin-right: auto;">
+    <div style="flex: 1; padding: 0 15px; color: #fff; text-align: justify; line-height: 1.6;">
+        <div style="text-align: center;">
         <p style="margin-bottom: 2rem;">
-            quickinfo1
+            "Pilot 227.. Non Identified objects on your way.. Careful, you are also entering an Asteroid field.."
         </p>
-        <p style="margin-bottom: 2rem;">quickinfo2</p>
-        <p style="margin-bottom: 1rem;">The team :</p>
-        <p style="margin-bottom: -1rem;">team1</p>
-        <p style="margin-bottom: -1rem;">team2</p>
-        <p style="margin-bottom: 2rem;">team</p>
-        <p style="margin-bottom: 2rem;">published?</p>
+        <div style="border-top: 1px solid #5f656d;height: 1px;margin: 40px 0;margin-left:30rem;margin-right:30rem;"></div>
+        <p style="margin-bottom: 4rem;">
+            As an spaceship pilot, you must destroy Asteroids and enemy ships, as well as dodging some deadly lasers.. It's an endless scroller shooter where the more you stay alive and destroy obstacles or enemies, the more points you get. Things get faster as long as the game continues and that's it, it was a quick project made in 10 days just to try making that kind of game.
+        </p>
+        <img src="\imgs\projects\Asteroid\A2.png" alt="Network Diagram" 
+             style="width: 600px; max-width: 150%; border: 1px solid #3d4450; border-radius: 4px;margin-top:3rem;margin-bottom:2rem;margin-left:25%;">
         </div>
     </div>
-</div><!-- Summary Section with Navigation -->
-
-<div style="background:rgb(26, 26, 26); padding: 1.5rem; margin-bottom: 2rem; border-radius: 4px; text-align: center;">
-<a href="#pitch" style="color: #007bff; text-decoration: none; margin: 0 10px;">💎 Pitch</a>
-<a href="#introduction" style="color: #007bff; text-decoration: none; margin: 0 10px;">🌟 Introduction</a>
-<a href="#game" style="color: #007bff; text-decoration: none; margin: 0 10px;">👾 Gameplay </a>
-<a href="#task" style="color: #007bff; text-decoration: none; margin: 0 10px;">📃 Tasks Realized</a>
-<a href="#lesson" style="color: #007bff; text-decoration: none; margin: 0 10px;">📌 Lessons Learned</a>
-<a href="#infos" style="color: #007bff; text-decoration: none; margin: 0 10px;">⚡ Quick infos</a>
-
-</div>
-<div style="margin-left: 3.5rem;"><h2 id="pitch" style="font-size: 2rem; color: #007bff; margin-bottom: 1.5rem;">💎 Pitch</h2>
-        <p style="margin-bottom: -1rem;">
-            Pitch1
-        </p>
-        <p style="margin-bottom: 2rem;">
-            Pitch2
-        </p></div>
-
-<!-- Main Content with Anchor -->
-<div id="introduction" style="display: flex; align-items: flex-start; gap: 2rem; margin: 2rem 0; max-width: 1200px; margin-left: auto; margin-right: auto;">
-    <div style="flex: 1; padding: 0 15px; color: #fff; text-align: justify; line-height: 1.6; max-width: 600px;">
-        <h2 style="font-size: 2rem; color: #007bff; margin-bottom: 4rem;">🌟 Introduction</h2>
-        <p style="margin-bottom: 4rem;">
-            <i>GameName</i> Introduction of the game
-        </p>
-        <p style="margin-bottom: 1.2rem;">
-            Context of the game, why we made it
-        </p>
-        <p>
-            My Objectives for the project
-        </p>
-    </div>
-    <img src="https://i.imgur.com/oTH2nLd.png" 
-         alt="Featured Concept Art" 
-         style="max-width: 500px; width: 100%; height: auto; border-radius: 8px; object-fit: cover; align-self: center; margin-top: 10rem;">
 </div>
 
 
-<div id="game" style="margin: 4rem auto; max-width: 1200px; padding: 0 1rem;">
+<div id="details" style="margin: 4rem auto; max-width: 1200px; padding: 0 1rem;margin-bottom:-1rem;">
     <div style="color: #fff; text-align: justify; line-height: 1.6;">
-        <h2 style="font-size: 2rem; color: #007bff; margin-bottom: 1.5rem;">👾 Gameplay</h2>
-        <p style="margin-bottom: 1.2rem;">
-            Gameplay1
-        </p>
-        <p style="margin-bottom: 1.2rem;">
-            Gameplay2
-        </p>
-        <p>
-            Gameplay3
-        </p>
-        <h2 id="task" style="font-size: 2rem; color: #007bff;">👨‍💻 What I've realized on the project</h2>
-    </div>
-</div>
-
-<div style="display: flex; align-items: flex-start; gap: 2rem; margin: 2rem auto; max-width: 1200px;">
-    <!-- Image Column (Left) -->
-    <div style="flex: 1; min-width: 0; margin-top: 4rem;">
-        <img src="https://i.imgur.com/HBqNJ7X.png" 
-             alt="Featured Concept Art" 
-             style="width: 100%; max-width: 500px; height: auto; border-radius: 8px; object-fit: cover;">
-    </div>
-<div style="flex: 1; padding: 0 15px; color: #fff; text-align: justify; line-height: 1.6;">
+    <div style="border-top: 1px solid #5f656d;height: 1px;margin: 40px 0;margin-left:25rem;margin-right:25rem;"></div>
+        <h2 style="font-size: 2rem; color: #007bff; margin-bottom:3rem;margin-left:33%;">🕹️ Gameplay Snapshot</h2>
         <ul style="font-size: 120%;">
-            <li style="padding-bottom: 15px;">
-                <div style="display: flex; flex-direction: column; gap: 20px;">
-                    <span style="color:rgb(164, 208, 255); font-weight: bold; font-size: 120%">task1</span>
-                    <p style="margin-bottom: 1.2rem;">
-                        explanation1
-                    </p>
-                    <p style="margin-bottom: 2rem;">
-                        explanation2
-                    </p>
+        <div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 20px;">
+    <div style="flex: 1; min-width: 0;">
+        <span style="color:rgb(164, 208, 255); font-weight: bold;  font-size: 120%;margin-left:41%;font-size: 1.75rem;">Pilot & Shoot</span>
+                <p style="margin-bottom: 1.2rem;text-align: center;margin-top:2rem;">
+                    The game is really simple, you can move on each sides with your ship. The game will go further automaticly so you can just move to dodge or aim better things. You have 5 health points, once reached 0 you lose the game and your score will be shown on the screen.
+                </p>
+                <p style="text-align: center;">
+                    There are 3 types of enemies you will have to go against: 
+                </p>
+                <p style="text-align: center;">
+                    - Asteroids: The basic one, spawn every few seconds and will just gravitate from the top to the bottom of your screen. they can spawn on 3 different sizes, for each size when you shot them they will decrease an set amount of times and then explode once. Touching them will damage your ship. 
+                </p>
+                <p style="text-align: center;">
+                    - Lasers: A set pattern of laser will spawn on each sides of the screen.. for some seconds they will just shot a slight line to show you the pattern, then you have to place yourself depending of the lasers to not take damages, then they will shot for some seconds.. You can't damage them and can only wait for the to shoot and dissapear.
+                </p>
+                <p style="text-align: center;">
+                    - Ennemy Ship: The last kind of ennemy, it's an set amount of ship that will spawn on the top of the screen and shot downward in your direction, once they shot they will replace themselves. You can damage them by shooting, and touching them 3 times will result in them exploding and dissapearing.
+                </p>
                 </div>
-            </li>
+            </div>
         </ul>
     </div>
 </div>
 
-<details style="margin: 10px 0; border: 1px solid #3d4450; border-radius: 4px;">
-    <summary style="cursor: pointer; padding: 8px; background-color: #2a2f3a; color: #fff; font-family: monospace;">
-        Info1
-    </summary>
-    <div style="background-color: #1a1a1a; border-radius: 0 0 4px 4px;">
-    <div>
-
-    Info1Text
-</div>
-        </details>
-            </li>
-        </ul>
-    </div>
-</div>
-<div style="display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap; margin: 2rem 0;">
-    <img 
-        src="https://i.imgur.com/BUv9WnH.png" 
-        alt="Image 1" 
-        style="width: 200px; height: 400px; object-fit: cover; border-radius: 8px;"
-    >
-    <img 
-        src="https://i.imgur.com/d4Drc4y.png" 
-        alt="Image 2" 
-        style="width: 200px; height: 400px; object-fit: cover; border-radius: 8px;"
-    >
-    <img 
-        src="https://i.imgur.com/Zn4iVPx.png" 
-        alt="Image 3" 
-        style="width: 200px; height: 400px; object-fit: cover; border-radius: 8px;"
-    >
-    <img 
-        src="https://i.imgur.com/K98jPEV.png" 
-        alt="Image 3" 
-        style="width: 200px; height: 400px; object-fit: cover; border-radius: 8px;"
-    >
-    <img 
-        src="https://i.imgur.com/GLOq4Ed.png" 
-        alt="Image 3" 
-        style="width: 200px; height: 400px; object-fit: cover; border-radius: 8px;"
-    >
-</div>
-
-<div style="display: flex; align-items: flex-start; gap: 2rem; margin: 2rem auto; max-width: 1200px;">
-    <!-- Image Column (Left) -->
-<div style="flex: 1; padding: 0 15px; color: #fff; text-align: justify; line-height: 1.6;">
-        <ul style="font-size: 120%;">
-            <li style="padding-bottom: 15px;">
-                <div style="display: flex; flex-direction: column; gap: 20px;">
-                    <span style="color:rgb(164, 208, 255); font-weight: bold; font-size: 120%">task2</span>
-                    <p style="margin-bottom: -2rem; color:rgb(164, 208, 255);">
-                        task2 title1
-                    </p>
-                    <p style="margin-bottom: -1rem;">
-                        task2 text1
-                    </p>
-                    <p style="margin-bottom: 1.2rem;">
-                        task2 text2
-                    </p>
-                    <p style="margin-bottom: -2rem; color:rgb(164, 208, 255);">
-                        task2 title2
-                    </p>
-                    <p style="margin-bottom: -1rem;">
-                        task2 text3
-                    </p>
-                    <p style="margin-bottom: -1rem;">
-                        task2 text4
-                    </p>
-                    <p style="margin-bottom: 3rem;">
-                        task2 text5
-                    </p>
-                    <p style="margin-bottom: -2rem; color:rgb(164, 208, 255);">
-                        task2 title3
-                    </p>
-                    <p style="margin-bottom: 1.2rem;">
-                        task2 text6
-                    </p>
-                </div>
-            </li>
-        </ul>
-    </div>
-    <div style="flex: 1; min-width: 0; margin-top: 4rem;">
-        <img src="\imgs\projects\Alz\AlzVid1.Gif" alt="this slowpoke moves"  style="width: 100%; max-width: 500px; height: auto; border-radius: 8px; object-fit: cover;margin-top: 4rem;"/>
-        <img src="\imgs\projects\Alz\AlzVid2.Gif" alt="this slowpoke moves"  style="width: 100%; max-width: 500px; height: auto; border-radius: 8px; object-fit: cover;margin-top: 14rem;"/>
-        <img src="https://i.imgur.com/k21f489.png" alt="Featured Concept Art" style="width: 100%; max-width: 500px; height: auto; border-radius: 8px; object-fit: cover;margin-top: 10rem;"/>
-    </div>
-</div>  
-
-<div id="lesson" style="display: flex; align-items: flex-start; gap: 2rem; margin: 2rem 0; max-width: 1200px; margin-left: auto; margin-right: auto;">
-    <div style="color: fff; text-align: justify; line-height: 1.6;">
-        <h2 style="font-size: 2rem; color: #007bff; margin-bottom: 4rem;">📌 Lessons Learned</h2>
-        <div style="margin-left: 3.5rem;"><p>
-            - lesson1
-        </p>
-        <p>- lesson2</p>
-        <p>- lesson3</p></div>
-    </div>
-</div>
-
-<div id="infos" style="display: flex; align-items: flex-start; gap: 2rem; margin: 2rem 0; max-width: 1200px; margin-left: auto; margin-right: auto;">
-    <div style="color: fff; text-align: justify; line-height: 1.6;">
-        <h2 style="font-size: 2rem; color: #007bff; margin-bottom: 4rem;">⚡ Quick infos</h2>
-        <div style="margin-left: 3.5rem;">
-        <p style="margin-bottom: 2rem;">
-            quickinfo1
-        </p>
-        <p style="margin-bottom: 2rem;">quickinfo2</p>
-        <p style="margin-bottom: 1rem;">The team :</p>
-        <p style="margin-bottom: -1rem;">team1</p>
-        <p style="margin-bottom: -1rem;">team2</p>
-        <p style="margin-bottom: 2rem;">team</p>
-        <p style="margin-bottom: 2rem;">published?</p>
+<div id="visuals" style="margin: 2rem auto; max-width: 1800px; padding: 0 1rem;">
+    <div style="color: #fff; text-align: justify; line-height: 1.6;">
+    <div style="border-top: 1px solid #5f656d;height: 1px;margin: 40px 0;margin-left:20rem;margin-right:20rem;"></div>
+        <h2 style="font-size: 2rem; color: #007bff; margin-bottom:4rem;margin-left:40%;">📸 Visuals</h2>
+        <div style="display: flex; gap: 1rem; justify-content: center;margin: 2rem 0;">
+            <img 
+                src="\imgs\projects\Asteroid\A3.png" 
+                alt="Image 1" 
+                style="width: 600px; height: 350px; object-fit: cover; border-radius: 8px;"
+            >
+            <img 
+                src="\imgs\projects\Asteroid\A4.png" 
+                alt="Image 1" 
+                style="width: 600px; height: 350px; object-fit: cover; border-radius: 8px;"
+            >
         </div>
     </div>
+</div>
+
+<div id="contribution" style="margin: 2rem auto; max-width: 900px; padding: 0 1rem;">
+    <div style="color: #fff; text-align: justify; line-height: 1.6;">
+    <div style="border-top: 1px solid #5f656d;height: 1px;margin: 40px 0;margin-left:20rem;margin-right:20rem;"></div>
+        <h2 style="font-size: 2rem; color: #007bff; margin-bottom:4rem;margin-left:31%;">🛠️ My Contribution</h2>
+        <div style="margin-left:3%">
+        <p style="margin-bottom: 1.2rem;">
+            - <b>Game Design</b> (Inspiration from a kind of Space Invader, what are the enemies, how you move and shoot, how to win and lose, etc..)
+        </p>
+        <p>
+            - <b>UX/UI</b> (Basic Main Menu and Pause Menu)
+        </p>
+        <p>
+            - <b>Sound Design</b> (free to use sounds)
+        </p>
+        <p>
+            - <b>Programmation</b> (C# code in VisualStudio from A to Z in the project)
+        </p>
+        <p>
+            - <b>Art</b> (Use of the SyntyStore 3D Assets)
+        </p>
+        </div>
+    </div>
+</div>
+
+<div id="contribution" style="margin: 4rem auto; max-width: 1200px; padding: 0 1rem;">
+    <div style="color: #fff; text-align: justify; line-height: 1.6;">
+    <div style="border-top: 1px solid #5f656d;height: 1px;margin: 40px 0;margin-left:25rem;margin-right:25rem;"></div>
+        <h2 style="font-size: 2rem; color: #007bff; margin-bottom:3.5rem;margin-top:4rem;margin-left:37%;">💡 Lesson Learned</h2>
+        <p style="max-width: 800px;text-align: center;margin-left:16%;">
+            It was during summer vacations and I wanted to make a real shot project to try the design of other kind of games that I maybe wouldn't have the chance to try. I made it short to be able to finish it fully, even tho I would have liked adding a lot of things to make the game more unique, satisfying and juicy, but I prefered to keep it simple. 
+        </p>
+    </div>
+</div>
+
+
+<div id="link" style="margin: 4rem auto; max-width: 1200px; padding: 0 1rem;">
+    <div style="color: #fff; text-align: justify; line-height: 1.6;">
+    <div style="border-top: 1px solid #5f656d;height: 1px;margin: 40px 0;margin-left:25rem;margin-right:25rem;"></div>
+        <h2 style="font-size: 2rem; color: #007bff; margin-bottom:3.5rem;margin-left:41%;">🔗 Play Link</h2>
+        <p style="text-align: center;margin-left:1rem;">
+            During this Game Jam, we made an Escape Game.. We had a theme around the light, and we played on that to make a maximum of light using enigmas and puzzles inside of the room to make it as much interesting as possible.
+        </p>
+    </div>
+    <div style="border-top: 1px solid #5f656d;height: 1px;margin: 40px 0;margin-left:25rem;margin-right:25rem;margin-top:4rem;"></div>
 </div>

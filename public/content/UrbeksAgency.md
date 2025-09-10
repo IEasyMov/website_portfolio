@@ -36,7 +36,7 @@
     <div style="color: #fff; text-align: justify; line-height: 1.6;">
     <div style="border-top: 1px solid #5f656d;height: 1px;margin: 40px 0;margin-left:25rem;margin-right:25rem;"></div>
         <h2 style="font-size: 2rem; color: #007bff; margin-bottom:3rem;margin-left:40%;">⏱️ Jam Details</h2>
-        <div style="margin-bottom: 1.2rem;margin-top:2rem;margin-left:41%;">
+        <div style="margin-bottom: 1.2rem;margin-top:2rem;margin-left:34%;">
         <p style="margin-bottom: 1.2rem;">
             <b>Jam name: </b>Godfather 2024
         </p>
@@ -49,7 +49,7 @@
         <p style="margin-bottom:3.5rem;">
             <b>Team Size: </b>8 Persons
         </p>
-        <span style="color:rgb(164, 208, 255); font-weight: bold;  font-size: 120%;margin-left:7%;font-size: 1.75rem;">The Team</span>
+        <span style="color:rgb(164, 208, 255); font-weight: bold;  font-size: 120%;margin-left:15%;font-size: 1.75rem;">The Team</span>
         <div>
         <p style="margin-top: 3rem;">
             <b>Programmer: </b>Kevin Verhaeghe & Dorian Guillon
@@ -74,7 +74,7 @@
         <ul style="font-size: 120%;">
         <div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 20px;">
     <div style="flex: 1; max-width: 900px;margin-left:6rem;">
-        <span style="color:rgb(164, 208, 255); font-weight: bold;  font-size: 120%;margin-left:41%;font-size: 1.75rem;">May the duo communicate</span>
+        <span style="color:rgb(164, 208, 255); font-weight: bold;  font-size: 120%;margin-left:31%;font-size: 1.75rem;">May the duo communicate</span>
                 <p style="margin-bottom: 1.2rem;text-align: center;margin-top:2rem;">
                     The concept of the Escape Game is simple, two players, The Intruder player, with a blindfold, a body cam and a light. The other one sitting outside, The Operator player, with two pc, one with the camera of the Intruder's bodycam and the room surveillance cameras, and on the other pc a map of the room with different enigmas and hints.
                 </p>
@@ -82,16 +82,16 @@
                     The Operator will have to guide through the cameras the Intruder player since he's blind, and togethers they will have to complete different tasks.
                 </p>
                 <p style="text-align: center; margin-top: 2rem;">
-                    - Task 1: There is a box with two holes on front, the Operator has to help the Intruder putting his light inside of the holes that will create a shadow on the wall with soe cuts that we made in the back of the box.. And the Shadow will show a number that the Operator has to enter in his pc.
+                    - <b>Task 1:</b> There is a box with two holes on front, the Operator has to help the Intruder putting his light inside of the holes that will create a shadow on the wall with soe cuts that we made in the back of the box.. And the Shadow will show a number that the Operator has to enter in his pc.
                 </p>
                 <p style="text-align: center; margin-top: 2rem;">
-                    - Task 2: On a whiteboard in the room, there are a lot of letters written with different colors and the Operator has to help the Intruder use his light and switch colors on it, to slowly see only certains letters that will be visible with colors (complementary colors), it will create a message and lead the Operator to somewhere else in the room.
+                    - <b>Task 2:</b> On a whiteboard in the room, there are a lot of letters written with different colors and the Operator has to help the Intruder use his light and switch colors on it, to slowly see only certains letters that will be visible with colors (complementary colors), it will create a message and lead the Operator to somewhere else in the room.
                 </p>
                 <p style="text-align: center; margin-top: 2rem;">
-                    - Task 3: This one is way simpler, the Operator has to lead the Intruder to a given location in the room and look for a little ballon on the wall, the Intruder has to explode it with a little pin, it'll drop a key to open a box.
+                    - <b>Task 3:</b> This one is way simpler, the Operator has to lead the Intruder to a given location in the room and look for a little ballon on the wall, the Intruder has to explode it with a little pin, it'll drop a key to open a box.
                 </p>
                 <p style="text-align: center; margin-top: 2rem;">
-                    - Task 4: Last one, once the key found, the Intruder has to reach another point of the room and look for the box somewhere in a touchy place (The Operator can't see where the Intruder's hands are so it's an alone work), but once the box found, the Intruder can open with the key.
+                    - <b>Task 4:</b> Last one, once the key found, the Intruder has to reach another point of the room and look for the box somewhere in a touchy place (The Operator can't see where the Intruder's hands are so it's an alone work), but once the box found, the Intruder can open with the key.
                 </p>
                 <p style="text-align: center; margin-top: 2rem;">
                     Finally, with the pen found in the box the Intruder can open the generator that will unlock the door and allow him to leave the Escape Room!
@@ -125,7 +125,7 @@
 <div id="contribution" style="margin: 2rem auto; max-width: 900px; padding: 0 1rem;">
     <div style="color: #fff; text-align: justify; line-height: 1.6;">
     <div style="border-top: 1px solid #5f656d;height: 1px;margin: 40px 0;margin-left:20rem;margin-right:20rem;"></div>
-        <h2 style="font-size: 2rem; color: #007bff; margin-bottom:4rem;margin-left:31%;">🛠️ My Contribution</h2>
+        <h2 style="font-size: 2rem; color: #007bff; margin-bottom:4rem;margin-left:32%;">🛠️ My Contribution</h2>
         <div style="margin-left:4rem;">
         <p style="margin-bottom: 1.2rem;">
             - <b>Game Design</b> (The Universe and gameplay, all the obstacles and ennemies, currency system)
@@ -146,7 +146,7 @@
 <div id="contribution" style="margin: 4rem auto; max-width: 1200px; padding: 0 1rem;">
     <div style="color: #fff; text-align: justify; line-height: 1.6;">
     <div style="border-top: 1px solid #5f656d;height: 1px;margin: 40px 0;margin-left:25rem;margin-right:25rem;"></div>
-        <h2 style="font-size: 2rem; color: #007bff; margin-bottom:3.5rem;margin-top:4rem;margin-left:37%;">💡 Lesson Learned</h2>
+        <h2 style="font-size: 2rem; color: #007bff; margin-bottom:3.5rem;margin-top:4rem;margin-left:38%;">💡 Lesson Learned</h2>
         <div style="max-width: 800px;text-align: center;margin-left:16%;">
         <p>
             For an Endless Runner, I saw the importance of balancing, juiciness and gamefeels for the game to be satisfying and fully enjoyable to play. 

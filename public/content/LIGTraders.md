@@ -1,190 +1,161 @@
+
 <!-- Summary Section with Navigation -->
 
 <div style="background:rgb(26, 26, 26); padding: 1.5rem; margin-bottom: 2rem; border-radius: 4px; text-align: center;">
-<a href="#pitch" style="color: #007bff; text-decoration: none; margin: 0 10px;">💎 Pitch</a>
-<a href="#introduction" style="color: #007bff; text-decoration: none; margin: 0 10px;">🌟 Introduction</a>
-<a href="#game" style="color: #007bff; text-decoration: none; margin: 0 10px;">👾 Gameplay </a>
-<a href="#task" style="color: #007bff; text-decoration: none; margin: 0 10px;">📃 Tasks Realized</a>
-<a href="#lesson" style="color: #007bff; text-decoration: none; margin: 0 10px;">📌 Lessons Learned</a>
-<a href="#infos" style="color: #007bff; text-decoration: none; margin: 0 10px;">⚡ Quick infos</a>
-
+<a href="#pitch" style="color: #007bff; text-decoration: none; margin: 0 10px;">🧠 Pitch</a>
+<a href="#details" style="color: #007bff; text-decoration: none; margin: 0 10px;">⏱️ Jam Details</a>
+<a href="#gameplay" style="color: #007bff; text-decoration: none; margin: 0 10px;">🕹️ Gameplay Snapshot</a>
+<a href="#visuals" style="color: #007bff; text-decoration: none; margin: 0 10px;">📸 Visuals</a>
+<a href="#contribution" style="color: #007bff; text-decoration: none; margin: 0 10px;">🛠️ My Contribution</a>
+<a href="#lesson" style="color: #007bff; text-decoration: none; margin: 0 10px;">💡 Lesson Learned</a>
+<a href="#link" style="color: #007bff; text-decoration: none; margin: 0 10px;">🔗 Play Link</a>
 </div>
-<div style="margin-left: 3.5rem;"><h2 id="pitch" style="font-size: 2rem; color: #007bff; margin-bottom: 1.5rem;">💎 Pitch</h2>
-        <p style="margin-bottom: -1rem;">
-            Come and buy! Come and trade! Buy and trade!
-        </p></div>
 
 <!-- Main Content with Anchor -->
-<div id="introduction" style="display: flex; align-items: flex-start; gap: 2rem; margin: 2rem 0; max-width: 1200px; margin-left: auto; margin-right: auto;">
-    <div style="flex: 1; padding: 0 15px; color: #fff; text-align: justify; line-height: 1.6; max-width: 600px;">
-        <h2 style="font-size: 2rem; color: #007bff; margin-bottom: 4rem;">🌟 Introduction</h2>
-        <p style="margin-bottom: 4rem;">
-            <i>LIG Traders</i> is a cooperative game played by four players in two teams of two. The goal? To make as much money as possible!
+<div>
+    <h2 style="font-size: 2rem; color: #007bff; margin-bottom:3rem;margin-left:44%;">🧠 Pitch</h2>
+</div>
+<div id="pitch" style="display: flex; align-items: flex-start; gap: 2rem; margin: 2rem 0; max-width: 1200px; margin-left: auto; margin-right: auto;">
+    <div style="flex: 1; padding: 0 15px; color: #fff; text-align: justify; line-height: 1.6;">
+        <div style="text-align: center;">
+        <p style="margin-bottom: 2rem;">
+            "Come and buy! Come and trade! Buy and trade!"
+        </p>
+        <div style="border-top: 1px solid #5f656d;height: 1px;margin: 40px 0;margin-left:30rem;margin-right:30rem;"></div>
+        <p style="margin-bottom: 4rem; max-width:800px;margin-left:12rem;">
+            Lig Trader is a cooperative game played by four players in two teams of two. The goal? To make as much money as possible!
             To do this, players will have to trade together for different food cards.
         </p>
-        <p style="margin-bottom: 1.2rem;">
-            Context of the game, we made it for a little event of our association (Leo Indie Game), everyone in the asso had to participate making little arcade games to play as duo or more like this one, so during the event players by team could compete against each others and earn points for rewards.
-        </p>
-        <p>
-            The objective for this project was to make a fun and quick little arcade game that could be the most original possible, with a bit of competition that could be agremented with bluff and scams to spice a bit the game between the players.
-        </p>
-    </div>
-    <img src="https://i.imgur.com/oTH2nLd.png" 
-         alt="Featured Concept Art" 
-         style="max-width: 500px; width: 100%; height: auto; border-radius: 8px; object-fit: cover; align-self: center; margin-top: 10rem;">
-</div>
-
-
-<div id="game" style="margin: 4rem auto; max-width: 1200px; padding: 0 1rem;">
-    <div style="color: #fff; text-align: justify; line-height: 1.6;">
-        <h2 style="font-size: 2rem; color: #007bff; margin-bottom: 1.5rem;">👾 Gameplay</h2>
-        <p style="margin-bottom: 1.2rem;">
-            Gameplay1
-        </p>
-        <p style="margin-bottom: 1.2rem;">
-            Gameplay2
-        </p>
-        <p>
-            Gameplay3
-        </p>
-        <h2 id="task" style="font-size: 2rem; color: #007bff;">👨‍💻 What I've realized on the project</h2>
-    </div>
-</div>
-
-<div style="display: flex; align-items: flex-start; gap: 2rem; margin: 2rem auto; max-width: 1200px;">
-    <!-- Image Column (Left) -->
-    <div style="flex: 1; min-width: 0; margin-top: 4rem;">
-        <img src="https://i.imgur.com/HBqNJ7X.png" 
-             alt="Featured Concept Art" 
-             style="width: 100%; max-width: 500px; height: auto; border-radius: 8px; object-fit: cover;">
-    </div>
-<div style="flex: 1; padding: 0 15px; color: #fff; text-align: justify; line-height: 1.6;">
-        <ul style="font-size: 120%;">
-            <li style="padding-bottom: 15px;">
-                <div style="display: flex; flex-direction: column; gap: 20px;">
-                    <span style="color:rgb(164, 208, 255); font-weight: bold; font-size: 120%">task1</span>
-                    <p style="margin-bottom: 1.2rem;">
-                        explanation1
-                    </p>
-                    <p style="margin-bottom: 2rem;">
-                        explanation2
-                    </p>
-                </div>
-            </li>
-        </ul>
-    </div>
-</div>
-
-<details style="margin: 10px 0; border: 1px solid #3d4450; border-radius: 4px;">
-    <summary style="cursor: pointer; padding: 8px; background-color: #2a2f3a; color: #fff; font-family: monospace;">
-        Info1
-    </summary>
-    <div style="background-color: #1a1a1a; border-radius: 0 0 4px 4px;">
-    <div>
-
-    Info1Text
-</div>
-        </details>
-            </li>
-        </ul>
-    </div>
-</div>
-<div style="display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap; margin: 2rem 0;">
-    <img 
-        src="https://i.imgur.com/BUv9WnH.png" 
-        alt="Image 1" 
-        style="width: 200px; height: 400px; object-fit: cover; border-radius: 8px;"
-    >
-    <img 
-        src="https://i.imgur.com/d4Drc4y.png" 
-        alt="Image 2" 
-        style="width: 200px; height: 400px; object-fit: cover; border-radius: 8px;"
-    >
-    <img 
-        src="https://i.imgur.com/Zn4iVPx.png" 
-        alt="Image 3" 
-        style="width: 200px; height: 400px; object-fit: cover; border-radius: 8px;"
-    >
-    <img 
-        src="https://i.imgur.com/K98jPEV.png" 
-        alt="Image 3" 
-        style="width: 200px; height: 400px; object-fit: cover; border-radius: 8px;"
-    >
-    <img 
-        src="https://i.imgur.com/GLOq4Ed.png" 
-        alt="Image 3" 
-        style="width: 200px; height: 400px; object-fit: cover; border-radius: 8px;"
-    >
-</div>
-
-<div style="display: flex; align-items: flex-start; gap: 2rem; margin: 2rem auto; max-width: 1200px;">
-    <!-- Image Column (Left) -->
-<div style="flex: 1; padding: 0 15px; color: #fff; text-align: justify; line-height: 1.6;">
-        <ul style="font-size: 120%;">
-            <li style="padding-bottom: 15px;">
-                <div style="display: flex; flex-direction: column; gap: 20px;">
-                    <span style="color:rgb(164, 208, 255); font-weight: bold; font-size: 120%">task2</span>
-                    <p style="margin-bottom: -2rem; color:rgb(164, 208, 255);">
-                        task2 title1
-                    </p>
-                    <p style="margin-bottom: -1rem;">
-                        task2 text1
-                    </p>
-                    <p style="margin-bottom: 1.2rem;">
-                        task2 text2
-                    </p>
-                    <p style="margin-bottom: -2rem; color:rgb(164, 208, 255);">
-                        task2 title2
-                    </p>
-                    <p style="margin-bottom: -1rem;">
-                        task2 text3
-                    </p>
-                    <p style="margin-bottom: -1rem;">
-                        task2 text4
-                    </p>
-                    <p style="margin-bottom: 3rem;">
-                        task2 text5
-                    </p>
-                    <p style="margin-bottom: -2rem; color:rgb(164, 208, 255);">
-                        task2 title3
-                    </p>
-                    <p style="margin-bottom: 1.2rem;">
-                        task2 text6
-                    </p>
-                </div>
-            </li>
-        </ul>
-    </div>
-    <div style="flex: 1; min-width: 0; margin-top: 4rem;">
-        <img src="\imgs\projects\Alz\AlzVid1.Gif" alt="this slowpoke moves"  style="width: 100%; max-width: 500px; height: auto; border-radius: 8px; object-fit: cover;margin-top: 4rem;"/>
-        <img src="\imgs\projects\Alz\AlzVid2.Gif" alt="this slowpoke moves"  style="width: 100%; max-width: 500px; height: auto; border-radius: 8px; object-fit: cover;margin-top: 14rem;"/>
-        <img src="https://i.imgur.com/k21f489.png" alt="Featured Concept Art" style="width: 100%; max-width: 500px; height: auto; border-radius: 8px; object-fit: cover;margin-top: 10rem;"/>
-    </div>
-</div>  
-
-<div id="lesson" style="display: flex; align-items: flex-start; gap: 2rem; margin: 2rem 0; max-width: 1200px; margin-left: auto; margin-right: auto;">
-    <div style="color: fff; text-align: justify; line-height: 1.6;">
-        <h2 style="font-size: 2rem; color: #007bff; margin-bottom: 4rem;">📌 Lessons Learned</h2>
-        <div style="margin-left: 3.5rem;"><p>
-            - lesson1
-        </p>
-        <p>- lesson2</p>
-        <p>- lesson3</p></div>
-    </div>
-</div>
-
-<div id="infos" style="display: flex; align-items: flex-start; gap: 2rem; margin: 2rem 0; max-width: 1200px; margin-left: auto; margin-right: auto;">
-    <div style="color: fff; text-align: justify; line-height: 1.6;">
-        <h2 style="font-size: 2rem; color: #007bff; margin-bottom: 4rem;">⚡ Quick infos</h2>
-        <div style="margin-left: 3.5rem;">
-        <p style="margin-bottom: 2rem;">
-            Project made in 1 month on Unity
-        </p>
-        <p style="margin-bottom: 1rem;">The team :</p>
-        <p style="margin-bottom: 0rem;">- Programmers : Jules Krabal, Maxens Thiam and Tom Segaux</p>
-        <p style="margin-bottom: 0rem;">- Designers : Nicolas Couillais and me</p>
-        <p style="margin-bottom: 0rem;">- Artists : Yann Gigez</p>
-        <p style="margin-bottom: 2rem;">The game is playble from the Itch.io page below!</p>
+        <img src="\imgs\projects\Lig\L1.png" alt="Network Diagram" 
+             style="width: 600px; max-width: 150%; border: 1px solid #3d4450; border-radius: 4px;margin-top:1rem;margin-bottom:2rem;margin-left:25%;">
         </div>
     </div>
+</div>
+
+
+
+<div id="details" style="margin: 4rem auto; max-width: 1200px; padding: 0 1rem;">
+    <div style="color: #fff; text-align: justify; line-height: 1.6;">
+    <div style="border-top: 1px solid #5f656d;height: 1px;margin: 40px 0;margin-left:25rem;margin-right:25rem;"></div>
+        <h2 style="font-size: 2rem; color: #007bff; margin-bottom:3rem;margin-left:40%;">⏱️ Jam Details</h2>
+        <div style="margin-bottom: 1.2rem;margin-top:2rem;margin-left:32%;">
+        <p style="margin-bottom: 1.2rem;">
+            <b>Jam name: </b>LIG Tournament 2024
+        </p>
+        <p>
+            <b>Theme: </b>"Trading"
+        </p>
+        <p>
+            <b>Duration: </b>2 Weeks
+        </p>
+        <p style="margin-bottom:3.5rem;">
+            <b>Team Size: </b>6 Persons
+        </p>
+        <span style="color:rgb(164, 208, 255); font-weight: bold;  font-size: 120%;margin-left:20%;font-size: 1.75rem;">The Team</span>
+        <div>
+        <p style="margin-top: 3rem;">
+            <b>Programmer: </b>Jules Krabal, Maxens Thiam & Tom Segaux
+        </p>
+        <p>
+            <b>Artist: </b>Yann Gigez
+        </p>
+        <p>
+            <b>Designer: </b>Nicolas Couillais & Myself
+        </p>
+        </div>
+        </div>
+    </div>
+</div>
+<div id="details" style="margin: 4rem auto; max-width: 1200px; padding: 0 1rem;margin-bottom:-1rem;">
+    <div style="color: #fff; text-align: justify; line-height: 1.6;">
+    <div style="border-top: 1px solid #5f656d;height: 1px;margin: 40px 0;margin-left:25rem;margin-right:25rem;"></div>
+        <h2 style="font-size: 2rem; color: #007bff; margin-bottom:3rem;margin-left:34%;">🕹️ Gameplay Snapshot</h2>
+        <ul style="font-size: 120%;">
+        <div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 20px;">
+    <div style="flex: 1; max-width: 900px;margin-left:6rem;">
+        <span style="color:rgb(164, 208, 255); font-weight: bold;  font-size: 120%;margin-left:37%;font-size: 1.75rem;">Buy, trade and sell</span>
+                <p style="margin-bottom: 1.2rem;text-align: center;margin-top:2rem;">
+                    This game is a versus game where two players on the same pc with a split screen has to go against each others and get the biggest amount of money to win at the end of the timer.
+                </p>
+                <p style="text-align: center;">
+                    The players can buy in 4 different card packages (each with a higher price for 4 tiers), they'll drop cards of different symbols, rarity and family.
+                </p>
+                <p style="text-align: center;">
+                    On top of the screen they will have Buy Orders from NPC's, if they have the right cards they can sell it, or trade with the opposite player.
+                </p>
+                <p style="text-align: center;">
+                    Some orders are really quick, buy and sell like a trading market, buy new and more expensive cards to sell for a higher price.
+                </p>
+                <p style="text-align: center;">
+                    You can even create your own buy order for your enemy, for a cheap price, if you know that you can sell the card for a higher price, so buy cheap and sell high.
+                </p>
+                </div>
+            </div>
+        </ul>
+    </div>
+</div>
+
+
+<div id="visuals" style="margin: 2rem auto;padding: 0 1rem;">
+    <div style="color: #fff; text-align: justify; line-height: 1.6;">
+    <div style="border-top: 1px solid #5f656d;height: 1px;margin: 40px 0;margin-left:20rem;margin-right:20rem;"></div>
+        <h2 style="font-size: 2rem; color: #007bff; margin-bottom:4rem;margin-left:42%;">📸 Visuals</h2>
+        <div style="display: flex; gap: 1rem; justify-content: center;margin: 2rem 0;">
+            <img 
+                src="\imgs\projects\Lig\L2.png" 
+                alt="Image 1" 
+                style="width: 600px; height: 300px; object-fit: cover; border-radius: 8px;"
+            >
+            <img 
+                src="\imgs\projects\Lig\L3.png" 
+                alt="Image 1" 
+                style="width: 600px; height: 300px; object-fit: cover; border-radius: 8px;"
+            >
+        </div>
+    </div>
+</div>
+
+<div id="contribution" style="margin: 2rem auto; max-width: 900px; padding: 0 1rem;">
+    <div style="color: #fff; text-align: justify; line-height: 1.6;">
+    <div style="border-top: 1px solid #5f656d;height: 1px;margin: 40px 0;margin-left:20rem;margin-right:20rem;"></div>
+        <h2 style="font-size: 2rem; color: #007bff; margin-bottom:4rem;margin-left:32%;">🛠️ My Contribution</h2>
+        <div style="margin-left:2rem;">
+        <p style="margin-bottom: 1.2rem;">
+            - <b>Game Design</b> (What to do with the cards, how to buy and sell, the trading part and 4 tiers of buying decks)
+        </p>
+        <p style="margin-bottom: 1.2rem;">
+            - <b>UX/UI</b> (Players table and double interface split)
+        </p>
+        <p style="margin-bottom: 1.2rem;">
+            - <b>QAtesting</b> (Playtesting and tweaking the values for the game to be fair and satisfying to play with a pressure with the timer)
+        </p>
+        </div>
+    </div>
+</div>
+
+<div id="contribution" style="margin: 4rem auto; max-width: 1200px; padding: 0 1rem;">
+    <div style="color: #fff; text-align: justify; line-height: 1.6;">
+    <div style="border-top: 1px solid #5f656d;height: 1px;margin: 40px 0;margin-left:25rem;margin-right:25rem;"></div>
+        <h2 style="font-size: 2rem; color: #007bff; margin-bottom:3.5rem;margin-top:4rem;margin-left:38%;">💡 Lesson Learned</h2>
+        <div style="max-width: 800px;text-align: center;margin-left:16%;">
+        <p>
+            Making a versus game with split screen on the SAME PC, but knowing each players shouldn't be able to see other's screen, so we just added a cardbox on top of the screen and made it nicely so it fits.
+        </p>
+        <p>
+            It was for a little competition game, so we had to fit a currency in our game, balance it nicely so it's fun to play and nice for the competition.
+        </p>
+        </div>
+    </div>
+</div>
+
+
+<div id="link" style="margin: 4rem auto; max-width: 1200px; padding: 0 1rem;">
+    <div style="color: #fff; text-align: justify; line-height: 1.6;">
+    <div style="border-top: 1px solid #5f656d;height: 1px;margin: 40px 0;margin-left:25rem;margin-right:25rem;"></div>
+        <h2 style="font-size: 2rem; color: #007bff; margin-bottom:3.5rem;margin-left:41%;">🔗 Play Link</h2>
+        <p style="text-align: center;">
+            The game is playable from the Itch.io link <a href="https://nic0intheradio.itch.io/lig-traders" style="color: #007bff;" target="_blank">here</a>!
+        </p>
+    </div>
+    <div style="border-top: 1px solid #5f656d;height: 1px;margin: 40px 0;margin-left:25rem;margin-right:25rem;margin-top:4rem;"></div>
 </div>

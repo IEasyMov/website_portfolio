@@ -139,6 +139,34 @@ export const portfolioProjects: ProjectProps[] = [
       contentPath: "/content/PacosAnatomy.md",
     },
     {
+      id: "quantictactoe",
+      heading: "QuanticTacToe",
+      subheading: "",
+      imageUrl: "https://i.imgur.com/7NQ9qRK.png",
+      techStack: [
+        ""
+      ],
+      techStackEngine: [
+        "Unity"
+      ],
+      techStackAbout: [
+        "Online Multiplayer",
+        "Reflexion Game",
+        "Duo Versus"
+      ],
+      techStackSize: [
+        "Made in 1 Month",
+        "Team of 2"
+      ],
+      techStackAward: [
+        ""
+      ],
+      liveDemoUrl: "",
+      videoUrl: "",
+      videoGameplayUrl: "",
+      contentPath: "/content/Quantictctoe.md",
+    },
+    {
       id: "workhorse",
       heading: "Workhorse",
       subheading: "",
@@ -445,10 +473,10 @@ export const portfolioProjects: ProjectProps[] = [
 
 export const portfolioGameJam: ProjectProps[] = [
   {
-      id: "quantictactoe",
-      heading: "QuanticTacToe",
+      id: "budapest",
+      heading: "Echoes of Budapest",
       subheading: "",
-      imageUrl: "https://i.imgur.com/7NQ9qRK.png",
+      imageUrl: "/imgs/projects/Budapest/B1.png",
       techStack: [
         ""
       ],
@@ -456,13 +484,14 @@ export const portfolioGameJam: ProjectProps[] = [
         "Unity"
       ],
       techStackAbout: [
-        "Online Multiplayer",
-        "Reflexion Game",
-        "Duo Versus"
+        "Short Game",
+        "Hotel Simulator",
+        "Inspired by movie",
+        "Wes Anderson - Theme"
       ],
       techStackSize: [
-        "Made in 1 Month",
-        "Team of 2"
+        "Made in 15 Days",
+        "Solo"
       ],
       techStackAward: [
         ""
@@ -470,7 +499,38 @@ export const portfolioGameJam: ProjectProps[] = [
       liveDemoUrl: "",
       videoUrl: "",
       videoGameplayUrl: "",
-      contentPath: "/content/Quantictctoe.md",
+      contentPath: "/content/Budapest.md",
+    },
+    {
+      id: "harpoon",
+      heading: "Harpoon them all!",
+      subheading: "",
+      imageUrl: "/imgs/projects/Harpoon/H1.png",
+      techStack: [
+        ""
+      ],
+      techStackEngine: [
+        "Unity",
+        "Itch.io Published"
+      ],
+      techStackAbout: [
+        "2 Players",
+        "Versus Game",
+        "2D",
+        "Spacecraft",
+        "Harpoon - Theme"
+      ],
+      techStackSize: [
+        "Made in 4 Days",
+        "Team of 8"
+      ],
+      techStackAward: [
+        ""
+      ],
+      liveDemoUrl: "",
+      videoUrl: "",
+      videoGameplayUrl: "",
+      contentPath: "/content/Harpoon.md",
     },
   {
     id: "boba",
@@ -558,8 +618,7 @@ export const portfolioGameJam: ProjectProps[] = [
       liveDemoUrl: "",
       videoUrl: "",
       videoGameplayUrl: "",
-      // contentPath: "/content/LIGTraders.md",
-      contentPath: "/content/WorkInProgress.md",
+      contentPath: "/content/LIGTraders.md",
     },
     {
       id: "serenadefortwohearts",
@@ -587,8 +646,7 @@ export const portfolioGameJam: ProjectProps[] = [
       liveDemoUrl: "",
       videoUrl: "",
       videoGameplayUrl: "",
-      // contentPath: "/content/SerenadeForTwoHearts.md",
-      contentPath: "/content/WorkInProgress.md",
+      contentPath: "/content/SerenadeForTwoHearts.md",
     },
   {
     id: "urbeksagency",
@@ -623,7 +681,7 @@ export const portfolioGameJam: ProjectProps[] = [
       id: "asteroidblast",
       heading: "AsteroidBlast",
       subheading: "",
-      imageUrl: "https://i.imgur.com/qnO1jWb.png",
+      imageUrl: "/imgs/projects/Asteroid/A1.png",
       techStack: [
         "",
       ],
@@ -644,8 +702,7 @@ export const portfolioGameJam: ProjectProps[] = [
       liveDemoUrl: "",
       videoUrl: "",
       videoGameplayUrl: "",
-      // contentPath: "/content/AsteroidBlast.md",
-      contentPath: "/content/WorkInProgress.md",
+      contentPath: "/content/AsteroidBlast.md",
     },
   {
     id: "deeperdungeon",
