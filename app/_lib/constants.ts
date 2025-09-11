@@ -681,7 +681,7 @@ export const portfolioGameJam: ProjectProps[] = [
       id: "asteroidblast",
       heading: "AsteroidBlast",
       subheading: "",
-      imageUrl: "/imgs/projects/A1.png",
+      imageUrl: "/imgs/projects/Asteroid/AsteroidPP.png",
       techStack: [
         "",
       ],
