@@ -38,9 +38,11 @@ const ProjectCard = ({ project }: { project: ProjectProps }) => {
         className="rounded-lg overflow-hidden block relative group"
       >
         {/* Fallback image */}
-        <div className="aspect-square w-full overflow-hidden">
-          <img src={imageUrl} alt={heading} className="w-full h-full object-cover" />
+        <div className="aspect-square w-full flex items-center justify-center overflow-hidden">
+          <img src={imageUrl} alt={heading} className="object-contain h-full w-full"/>
         </div>
+
+
       </Link>
       <div>
         <h3 className="text-2xl sm:text-3xl font-semibold text-center">{heading}</h3>

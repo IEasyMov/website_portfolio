@@ -83,33 +83,6 @@ export const portfolioProjects: ProjectProps[] = [
       contentPath: "/content/WorkInProgress.md",
     },
     {
-      id: "alzmemory",
-      heading: "AlzMemory?",
-      subheading: "",
-      imageUrl: "https://i.imgur.com/oTH2nLd.png",
-      techStack: [
-        "",
-      ],
-      techStackEngine: [
-        "Unity"
-      ],
-      techStackAbout: [
-        "Narrative Game",
-        "Short experience"
-      ],
-      techStackSize: [
-        "Made in 3 Weeks",
-        "Team of 5"
-      ],
-      techStackAward: [
-        "Hauts-de-Seine Festival Nominee"
-      ],
-      liveDemoUrl: "",
-      videoUrl: "",
-      videoGameplayUrl: "",
-      contentPath: "/content/AlzMemory.md",
-    },
-    {
       id: "pacosanatomy",
       heading: "Paco's Anatomy",
       subheading: "",
@@ -137,96 +110,6 @@ export const portfolioProjects: ProjectProps[] = [
       videoUrl: "",
       videoGameplayUrl: "",
       contentPath: "/content/PacosAnatomy.md",
-    },
-    {
-      id: "quantictactoe",
-      heading: "QuanticTacToe",
-      subheading: "",
-      imageUrl: "https://i.imgur.com/7NQ9qRK.png",
-      techStack: [
-        ""
-      ],
-      techStackEngine: [
-        "Unity"
-      ],
-      techStackAbout: [
-        "Online Multiplayer",
-        "Reflexion Game",
-        "Duo Versus"
-      ],
-      techStackSize: [
-        "Made in 1 Month",
-        "Team of 2"
-      ],
-      techStackAward: [
-        ""
-      ],
-      liveDemoUrl: "",
-      videoUrl: "",
-      videoGameplayUrl: "",
-      contentPath: "/content/Quantictctoe.md",
-    },
-    {
-      id: "workhorse",
-      heading: "Workhorse",
-      subheading: "",
-      imageUrl: "https://i.imgur.com/yluUW6v.png",
-      techStack: [
-        "",
-        
-        
-      ],
-      techStackEngine: [
-        "Unreal Engine 5",
-        "Itch.io Published"
-      ],
-      techStackAbout: [
-        "VR Game",
-        "Feelings and Emotions",
-        "Oppressive Experience"
-      ],
-      techStackSize: [
-        "Made in 2 Weeks",
-        "Team of 11"
-      ],
-      techStackAward: [
-        ""
-      ],
-      liveDemoUrl: "",
-      videoUrl: "",
-      videoGameplayUrl: "",
-      contentPath: "/content/Workhorse.md",
-    },
-    {
-      id: "goinghome",
-      heading: "Going Home",
-      subheading: "",
-      imageUrl: "/imgs/projects/Microids.png",
-      techStack: [
-        "",
-      ],
-      techStackEngine: [
-        "Unity",
-        "Not Published Yet"
-      ],
-      techStackAbout: [
-        "Adventure",
-        "Action",
-        "Narrative"
-      ],
-      techStackSize: [
-        "Big Project",
-        "Participated for 4 Months",
-        "During Internship"
-      ],
-      techStackAward: [
-        ""
-      ],
-      liveDemoUrl: "",
-      videoUrl: "",
-      videoGameplayUrl: "",
-      // contentPath: "/content/GoingHome.md",
-      contentPath: "/content/WorkInProgress.md",
     },
     {
       id: "amerzone",
@@ -287,34 +170,6 @@ export const portfolioProjects: ProjectProps[] = [
       videoUrl: "",
       videoGameplayUrl: "",
       contentPath: "/content/Flashback2.md",
-    },
-    {
-      id: "helloworld",
-      heading: "Hello World",
-      subheading: "",
-      imageUrl: "https://i.imgur.com/bifCBzW.png",
-      techStack: [
-        "",
-      ],
-      techStackEngine: [
-        "Unity",
-        "Itch.io Published"
-      ],
-      techStackAbout: [
-        "Narrative Game",
-        "Short Experience"
-      ],
-      techStackSize: [
-        "Made in 1 Month",
-        "Team of 4"
-      ],
-      techStackAward: [
-        "Hauts-de-Seine Festival Winner",
-      ],
-      liveDemoUrl: "",
-      videoUrl: "",
-      videoGameplayUrl: "",
-      contentPath: "/content/HelloWorld.md",
     },
     {
       id: "twiceuponatime",
@@ -378,6 +233,151 @@ export const portfolioProjects: ProjectProps[] = [
       videoGameplayUrl: "",
       contentPath: "/content/Rokkatensei.md",
       // contentPath: "/content/WorkInProgress.md",
+    },
+    {
+      id: "helloworld",
+      heading: "Hello World",
+      subheading: "",
+      imageUrl: "https://i.imgur.com/bifCBzW.png",
+      techStack: [
+        "",
+      ],
+      techStackEngine: [
+        "Unity",
+        "Itch.io Published"
+      ],
+      techStackAbout: [
+        "Narrative Game",
+        "Short Experience"
+      ],
+      techStackSize: [
+        "Made in 1 Month",
+        "Team of 4"
+      ],
+      techStackAward: [
+        "Hauts-de-Seine Festival Winner",
+      ],
+      liveDemoUrl: "",
+      videoUrl: "",
+      videoGameplayUrl: "",
+      contentPath: "/content/HelloWorld.md",
+    },
+    {
+      id: "goinghome",
+      heading: "Going Home",
+      subheading: "",
+      imageUrl: "/imgs/projects/Microids.png",
+      techStack: [
+        "",
+      ],
+      techStackEngine: [
+        "Unity",
+        "Not Published Yet"
+      ],
+      techStackAbout: [
+        "Adventure",
+        "Action",
+        "Narrative"
+      ],
+      techStackSize: [
+        "Big Project",
+        "Participated for 4 Months",
+        "During Internship"
+      ],
+      techStackAward: [
+        ""
+      ],
+      liveDemoUrl: "",
+      videoUrl: "",
+      videoGameplayUrl: "",
+      // contentPath: "/content/GoingHome.md",
+      contentPath: "/content/WorkInProgress.md",
+    },
+    {
+      id: "quantictactoe",
+      heading: "QuanticTacToe",
+      subheading: "",
+      imageUrl: "https://i.imgur.com/7NQ9qRK.png",
+      techStack: [
+        ""
+      ],
+      techStackEngine: [
+        "Unity"
+      ],
+      techStackAbout: [
+        "Online Multiplayer",
+        "Reflexion Game",
+        "Duo Versus"
+      ],
+      techStackSize: [
+        "Made in 1 Month",
+        "Team of 2"
+      ],
+      techStackAward: [
+        ""
+      ],
+      liveDemoUrl: "",
+      videoUrl: "",
+      videoGameplayUrl: "",
+      contentPath: "/content/Quantictctoe.md",
+    },
+    {
+      id: "workhorse",
+      heading: "Workhorse",
+      subheading: "",
+      imageUrl: "https://i.imgur.com/yluUW6v.png",
+      techStack: [
+        "",
+        
+        
+      ],
+      techStackEngine: [
+        "Unreal Engine 5",
+        "Itch.io Published"
+      ],
+      techStackAbout: [
+        "VR Game",
+        "Feelings and Emotions",
+        "Oppressive Experience"
+      ],
+      techStackSize: [
+        "Made in 2 Weeks",
+        "Team of 11"
+      ],
+      techStackAward: [
+        ""
+      ],
+      liveDemoUrl: "",
+      videoUrl: "",
+      videoGameplayUrl: "",
+      contentPath: "/content/Workhorse.md",
+    },
+    {
+      id: "alzmemory",
+      heading: "AlzMemory?",
+      subheading: "",
+      imageUrl: "https://i.imgur.com/oTH2nLd.png",
+      techStack: [
+        "",
+      ],
+      techStackEngine: [
+        "Unity"
+      ],
+      techStackAbout: [
+        "Narrative Game",
+        "Short experience"
+      ],
+      techStackSize: [
+        "Made in 3 Weeks",
+        "Team of 5"
+      ],
+      techStackAward: [
+        "Hauts-de-Seine Festival Nominee"
+      ],
+      liveDemoUrl: "",
+      videoUrl: "",
+      videoGameplayUrl: "",
+      contentPath: "/content/AlzMemory.md",
     },
     {
       id: "tcmc",
@@ -681,7 +681,7 @@ export const portfolioGameJam: ProjectProps[] = [
       id: "asteroidblast",
       heading: "AsteroidBlast",
       subheading: "",
-      imageUrl: "/imgs/projects/Asteroid/A1.png",
+      imageUrl: "/imgs/projects/A1.png",
       techStack: [
         "",
       ],
