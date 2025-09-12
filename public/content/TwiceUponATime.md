@@ -10,23 +10,26 @@
 
 </div>
 <div style="margin-left: 3.5rem;"><h2 id="pitch" style="font-size: 2rem; color: #007bff; margin-bottom: 1.5rem;">💎 Pitch</h2>
-        <p style="margin-bottom: 2rem;">
+        <p style="margin-bottom: 1.2rem;">
             In a broken family, a brother and sister find shelter in a book for children to flee from the turmoil of their parents. Explore with them a story shaped by their imagination and fantasies. Will they be able to escape the harsh reality or will they be caught back in it ?
+        </p>
+        <p style="margin-bottom: 2rem;">
+            Explore with them a story shaped by their imagination and fantasies. Will they manage to escape harsh reality, or will it catch up with them?
         </p></div>
-
+<div style="border-top: 1px solid #5f656d;height: 1px;margin: 40px 0;margin-bottom:-1rem;margin-top:3rem;"></div>
 <!-- Main Content with Anchor -->
 <div id="introduction" style="display: flex; align-items: flex-start; gap: 2rem; margin: 2rem 0; max-width: 1200px; margin-left: auto; margin-right: auto;">
     <div style="flex: 1; padding: 0 15px; color: #fff; text-align: justify; line-height: 1.6; max-width: 600px;">
         <h2 style="font-size: 2rem; color: #007bff; margin-bottom: 4rem;">🌟 Introduction</h2>
         <p style="margin-bottom: 4rem;">
-            <i>Twice Upon a Time</i> is a chill and cooperative two-player narrative platformer game bringing you back to a nostalgic world filled with all kinds of sweets and a gripping story.
+            <i>Twice Upon a Time</i> is a chill and cooperative two-player narrative platformer that brings you back to a nostalgic world filled with sweets and a gripping story.
         </p>
         <p style="margin-bottom: 2rem;">
-            During 3 months of work for a big school project we had to make a Couch Game type game, we decided to make one around a nice sibling story and competition.
+            Over 3 months of work for a major school project, we had to create a Couch Game. We decided to build one around a heartfelt sibling story with a touch of competition.
         </p>
-        <p style="margin-bottom: 2rem;">Merging platforming, narrative, competition, taunt and fun into the same game.</p>
+        <p style="margin-bottom: 2rem;">We merged platforming, narrative, rivalry, taunting and fun into one game.</p>
         <p>
-            Since playing books were a big part of my childhood, I really wanted the game to create a nostalgia for the players like me. I wanted the dialogues, funny or taunting quotes of the siblings to be authentic and realistic, making a kind of attachement for them through their story.
+            Since playing books were a big part of my childhood, I really wanted the game to spark nostalgia for players like me. I wanted the dialogues and the funny or teasing quotes between the siblings to feel authentic and realistic, creating a sense of attachment to their story.
         </p>
     </div>
     <img src="\imgs\projects\TUAT\TUAT2.png" 
@@ -34,18 +37,18 @@
          style="max-width: 500px; width: 100%; height: auto; border-radius: 8px; object-fit: cover; align-self: center; margin-top: 2rem;">
 </div>
 
-
+<div style="border-top: 1px solid #5f656d;height: 1px;margin: 40px 0;margin-bottom:-1rem;margin-top:3rem;"></div>
 <div id="game" style="margin: 4rem auto; max-width: 1200px; padding: 0 1rem;">
     <div style="color: #fff; text-align: justify; line-height: 1.6;">
         <h2 style="font-size: 2rem; color: #007bff; margin-bottom: 1.5rem;">👾 Gameplay</h2>
         <p style="margin-bottom: 1.2rem;">
-            Twice Upon A Time is a platformer 2D, so the gameplay is pretty simple, it's all about jumping, pushing, pulling and grabbing things !
+            Twice Upon a Time is a 2D platformer, so the gameplay is pretty simple — it's all about jumping, pushing, pulling and grabbing things.
         </p>
         <p style="margin-bottom: 1.2rem;">
-            Since it was supposed to be a vertical slice, we wanted to create multiple worlds with different themes and universes to play with, for the one and one only present in the slice we decided to go for a "Sweets & Candy" themed world.
+            Since it was meant to be a vertical slice, we planned multiple themed worlds. For the one and only world present in the slice, we chose a "Sweets & Candy" theme.
         </p>
         <p>
-            Since it's a duo game, two players will have some asymetric gameplay from times to times, mixing cooperation and competition sometimes for a little bit of spice, taunt and sibling fights.
+            As a duo game, two players experience asymmetric gameplay from time to time, mixing cooperation and competition for a bit of spice, teasing and sibling rivalry.
         </p>
         <details style="margin: 10px 0; border: 1px solid #3d4450; border-radius: 4px;">
     <summary style="cursor: pointer; padding: 8px; background-color: #2a2f3a; color: #fff; font-family: monospace;">
@@ -66,7 +69,7 @@
         </div>
     </div>
         </details>  
-        <h2 id="task" style="font-size: 2rem; color: #007bff;">👨‍💻 What I've realized on the project</h2>
+        <h2 id="task" style="font-size: 2rem; color: #007bff;">📃 What I've realized on the project</h2>
     </div>
 </div>
 
@@ -83,10 +86,10 @@
                 <div style="display: flex; flex-direction: column; gap: 20px;">
                     <span style="color:rgb(164, 208, 255); font-weight: bold; font-size: 120%">Conceiving the obstacles</span>
                     <p style="margin-bottom: 1.2rem;">
-                        It was a really fun task, since we were in a "Sweet & Candy" world we wanted to use candies and sweet food as obstacles, so we made a nice list with all the candies we used to eat when we were younger.
+                        This was a really fun task. Since we were in a "Sweets & Candy" world, we wanted to use candies and sweet treats as obstacles. We made a list of all the candies we used to eat when we were younger.
                     </p>
                     <p style="margin-bottom: 2rem;">
-                        Once the list of candy was done, we tried creating 2-3 ideas PER candy to explore a multitude of different exemple of how to use them in a platformer. (Ex: The Marshmallow being a bouncer or trampoline, the CandyCane could be some hooks or levers, etc..)
+                        Once the list was done, we came up with 2 or 3 ideas per candy to explore different ways to use them in a platformer. For example, marshmallows could act as trampolines or bouncers, and candy canes could be used as hooks or levers.
                     </p>
                 </div>
             </li>
@@ -117,16 +120,16 @@
                 <div style="display: flex; flex-direction: column; gap: 20px;">
                     <span style="color:rgb(164, 208, 255); font-weight: bold; font-size: 120%">Level Design</span>
                     <p style="margin-bottom: -2rem;">
-                        My 2nd task on the project was all about Level Design, with my 3 mates we were slowly creating some little compounds with single or double ingredients maximum.
+                        My second task was all about level design. With my three teammates, we slowly created small compounds using one or two ingredients at most.
                     </p>
                     <p style="margin-bottom: 2rem;">
-                        That idea was to make sure we could see the full potential of what we could do with every single one of them, making a multitude of little puzzles and platformers just to be able later to combine them.
+                        The idea was to explore the full potential of each candy, building a variety of puzzles and platforming sections that we could later combine.
                     </p>
                     <p style="margin-bottom: 1.2rem;">
-                        My task was to select the puzzles with the best potential (knowing that we could only set a certain amount of them).
+                        My role was to select the puzzles with the best potential, knowing we could only include a limited number.
                     </p>
                     <p style="margin-bottom: -2rem;">
-                        So basicly drawing on the whiteboard or paper some sketchs or 1st try of the levels we wanted to show in the game, placing some sections for dialogues, others for competitives & cooperation gameplay.
+                        So I sketched out early versions of the levels on paper or the whiteboard, placing sections for dialogue, and others for competitive or cooperative gameplay.
                     </p>
                 </div>
             </li>
@@ -138,32 +141,32 @@
         <img src="\imgs\projects\TUAT\TUAT11.png" alt="this slowpoke moves"  style="width: 100%; max-width: 500px; height: auto; border-radius: 8px; object-fit: cover;margin-top: 0rem;"/>
     </div>
 </div>  
-
+<div style="border-top: 1px solid #5f656d;height: 1px;margin: 40px 0;margin-bottom:-2rem;margin-top:3rem;"></div>
 <div id="lesson" style="display: flex; align-items: flex-start; gap: 2rem; margin: 2rem 0; max-width: 1200px; margin-left: auto; margin-right: auto;">
     <div style="color: fff; text-align: justify; line-height: 1.6;">
         <h2 style="font-size: 2rem; color: #007bff; margin-bottom: 4rem;">📌 Lessons Learned</h2>
         <div style="margin-left: 3.5rem;"><p>
-            - We had an enormous amount of problems during the production, between issues when deciding for the Art Direction, choosing which mechanics to keep or to cut, being late on Level Design and Art, the project was really harsh to work on.
+            - We faced a huge number of challenges during production, from deciding on the art direction, choosing which mechanics to keep or cut, to delays in level design and art. It was a tough project to work on.
         </p>
-        <p>- All thoses problems helped me learn a lot about how a great organisation is the key for a great project (at least for the management part), how communicating between each corps help a lot, to ensure having the same vision of things and not having to erase, restart or repeat things.</p>
-        <p>- Being Lead Game Designer on the project made me learn how to proprely make the different cores of the group communicate, transmitting informations left and right, organising little meetings when high decision were taken to ensure the approval or understandement of everyone. It was really an amazing project to make.</p></div>
+        <p>- All those problems taught me a lot about how good organization is key to a successful project, especially in terms of management. Communicating between departments helps ensure everyone shares the same vision, avoiding the need to redo or restart work.</p>
+        <p>- Being Lead Game Designer on the project taught me how to properly connect the different parts of the team, share information clearly, and organize small meetings when major decisions were made to ensure everyone understood and agreed. It was an amazing project to work on.</p></div>
     </div>
 </div>
-
+<div style="border-top: 1px solid #5f656d;height: 1px;margin: 40px 0;margin-bottom:-2rem;margin-top:3rem;"></div>
 <div id="infos" style="display: flex; align-items: flex-start; gap: 2rem; margin: 2rem 0; max-width: 1200px; margin-left: auto; margin-right: auto;">
     <div style="color: fff; text-align: justify; line-height: 1.6;">
         <h2 style="font-size: 2rem; color: #007bff; margin-bottom: 4rem;">⚡ Quick infos</h2>
         <div style="margin-left: 3.5rem;">
         <p style="margin-bottom: 2rem;">
-            Project made during 3 months as a Couch Game section of our school cursus.
+            Project made over 3 months as part of the Couch Game section of our school curriculum.
         </p>
-        <p style="margin-bottom: 1rem;">The team :</p>
-        <p style="margin-bottom: -1rem;">Designers : Michael Bao, Rayan Kayne, Noé Henriot and myself</p>
-        <p style="margin-bottom: -1rem;">Artists : Flora Denis, Marion Puigcerver and Aurore Martin</p>
-        <p style="margin-bottom: -1rem;">Programmers : Victor Lacombe, Leo LeLann and Santino Romero</p>
-        <p style="margin-bottom: -1rem;">Sound Designers : Yassine Boudlal and Alexandre Cardot</p>
-        <p style="margin-bottom: 2rem;">Producers : Tom Crochet and Thomas Boeglin</p>
-        <p style="margin-bottom: 2rem;">Yes! It's playable on Itch.io!</p>
+        <p style="margin-bottom: 1rem;"><b>The team :</b></p>
+        <p style="margin-bottom: -1rem;"><b>Designers :</b> Michael Bao, Rayan Kayne, Noé Henriot and myself</p>
+        <p style="margin-bottom: -1rem;"><b>Artists :</b> Flora Denis, Marion Puigcerver and Aurore Martin</p>
+        <p style="margin-bottom: -1rem;"><b>Programmers :</b> Victor Lacombe, Leo LeLann and Santino Romero</p>
+        <p style="margin-bottom: -1rem;"><b>Sound Designers :</b> Yassine Boudlal and Alexandre Cardot</p>
+        <p style="margin-bottom: 2rem;"><b>Producers :</b> Tom Crochet and Thomas Boeglin</p>
+        <p style="margin-bottom: 2rem;">Yes! It's playable on Itch.io on this link <a href="https://thomasboeglin.itch.io/twice-upon-a-time" style="color: #007bff;" target="_blank">here</a>!</p>
         </div>
     </div>
 </div>

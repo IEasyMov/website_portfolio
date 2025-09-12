@@ -76,19 +76,19 @@
     <div style="flex: 1; max-width: 900px;margin-left:6rem;">
         <span style="color:rgb(164, 208, 255); font-weight: bold;  font-size: 120%;margin-left:41%;font-size: 1.75rem;">Save your pc</span>
                 <p style="margin-bottom: 1.2rem;text-align: center;margin-top:2rem;">
-                    MakeMeLaugh_Exe is a game where you're on an old windows interface, you have multiple folders on your desktop and can roam among them, somes locked, some accessibles.
+                    MakeMeLaugh_Exe is a game set on an old Windows-style interface. You have multiple folders on your desktop and can explore them — some are locked, others accessible.
                 </p>
                 <p style="text-align: center;">
-                    You will quickly meet the clown, a Virus that is taking over your pc, you've got to satisfy his requests to safe your windows32 file.
+                    You’ll quickly meet the clown, a virus taking over your system. To protect your Windows32 file, you’ll need to satisfy his requests.
                 </p>
                 <p style="text-align: center; margin-top: 2rem;">
-                    You will look in the folders, open pictures to find numbers, enter codes, drag&drop files and folders to complete all the requests.
+                    You’ll search through folders, open images to find numbers, enter codes, and drag and drop files to complete each task.
                 </p>
                 <p style="text-align: center; margin-top: 2rem;">
-                    It's a narrative scripted game, so you can lose if ever you don't complete the tasks quickly enough.
+                    It’s a narrative scripted game, and you can lose if you don’t complete the tasks quickly enough.
                 </p>
                 <p style="text-align: center; margin-top: 2rem;">
-                    Loosing will means restarting the game to continue further.
+                    Losing means restarting the game to continue further.
                 </p>
                 </div>
             </div>
@@ -122,10 +122,10 @@
         <h2 style="font-size: 2rem; color: #007bff; margin-bottom:4rem;margin-left:31%;">🛠️ My Contribution</h2>
         <div style="margin-left:2rem;">
         <p style="margin-bottom: 1.2rem;">
-            - <b>Game Design</b> (The narrative script of the game, what is the clown saying and objectives, the different requests that he'll make, how to lose and win the game)
+            - <b>Game Design</b> (Wrote the narrative script, defined the clown’s dialogue and objectives, designed the different requests, and set up win/lose conditions)
         </p>
         <p>
-            - <b>Art</b> (Mostly if not all the assets of the game on Paint3D)
+            - <b>Art</b> (Created most (if not all) of the game’s assets using Paint3D)
         </p>
         </div>
     </div>
@@ -136,7 +136,7 @@
     <div style="border-top: 1px solid #5f656d;height: 1px;margin: 40px 0;margin-left:25rem;margin-right:25rem;"></div>
         <h2 style="font-size: 2rem; color: #007bff; margin-bottom:3.5rem;margin-top:4rem;margin-left:37%;">💡 Lesson Learned</h2>
         <p style="max-width: 800px;text-align: center;margin-left:16%;">
-            I learnt how to make a quick narrative script game with win and lose conditions, how to multitask between Designer, Artist and even implementing the sounds in the game, so it was really short for a 48h project, a lot of intensity but quite happy of the lesson learnt.
+            I learned how to build a quick narrative-driven game with win and lose conditions. I also learned how to multitask between design, art, and even sound implementation. It was a short but intense 48-hour project, and I’m really happy with the lessons I took from it.
         </p>
     </div>
 </div>

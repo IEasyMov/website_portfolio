@@ -11,9 +11,9 @@
 </div>
 <div style="margin-left: 3.5rem;"><h2 id="pitch" style="font-size: 2rem; color: #007bff; margin-bottom: 1.5rem;">💎 Pitch</h2>
         <p style="margin-bottom: 2rem;">
-            Immerse yourself in an action-packed cyberpunk universe where the fate of humanity itself hangs in the balance. The Morphs are preparing their final attack, determined to enslave every civilization in the Solar System — and it's your mission to fight back!
+            Immerse yourself in an action-packed cyberpunk universe where the fate of humanity hangs in the balance. The Morphs are preparing their final attack, determined to enslave every civilization in the Solar System, and it's your mission to fight back.
         </p></div>
-
+<div style="border-top: 1px solid #5f656d;height: 1px;margin: 40px 0;margin-bottom:-3rem;margin-top:3rem;"></div>
 <!-- Main Content with Anchor -->
 <div id="introduction" style="display: flex; align-items: flex-start; gap: 2rem; margin: 2rem 0; max-width: 1200px; margin-left: auto; margin-right: auto;">
     <div style="flex: 1; padding: 0 15px; color: #fff; text-align: justify; line-height: 1.6; max-width: 600px;">
@@ -22,15 +22,14 @@
             In 1992, Flashback revolutionized action gaming and gained legendary status, ranking among the 100 best video games in history.
         </p>
         <p style="margin-bottom: -1rem;">
-            Today, Paul Cuisset, the creator of the original game, invites you to play again as Conrad B. Hart, the young agent of the GBI (Galactic Bureau of Investigation).
-            In the 22nd century, the peace of the United Worlds extends throughout the Solar System — but this tranquility is threatened by the Morph invasion led by the fearsome General Lazarus.
-            In search of his lifelong friend, Ian, and with the help of his few allies — including A.I.S.H.A., his iconic AI-powered weapon — Conrad, once again, dives into a heart-pounding adventure full of twists, turns and revelations!
+            Today, Paul Cuisset, the creator of the original game, invites you to play again as Conrad B. Hart, a young agent of the GBI (Galactic Bureau of Investigation). In the 22nd century, peace across the United Worlds extends throughout the Solar System, but this tranquility is threatened by the Morph invasion led by the fearsome General Lazarus.
+            In search of his lifelong friend Ian, and with the help of a few allies including A.I.S.H.A., his iconic AI-powered weapon, Conrad dives into a heart-pounding adventure full of twists, turns and revelations.
         </p>
         <p style="margin-bottom: 3rem;">
-            A gripping, fluid and intricate platform shooter, including exploration, puzzle solving and, of course, adventure!
+            A gripping, fluid and intricate platform shooter, with exploration, puzzle solving and, of course, adventure.
         </p>
         <p>
-            I had the chance to participate on the production of the Patch-3 of the game after his lunch on steam, the patch was looking like a big rework of the game, fixing a lot of issues, bigs and features causing obstacle to the good fun of the game.
+            I had the chance to participate in the production of Patch 3 after the game's launch on Steam. The patch was a major rework, fixing many issues, bugs and features that were blocking the fun of the game.
         </p>
     </div>
     <img src="\imgs\projects\Flashback2\FB1.png" 
@@ -38,20 +37,21 @@
          style="max-width: 500px; width: 100%; height: auto; border-radius: 8px; object-fit: cover; align-self: center; margin-top: 10rem;">
 </div>
 
-
+<div style="border-top: 1px solid #5f656d;height: 1px;margin: 40px 0;margin-bottom:-1rem;margin-top:3rem;"></div>
 <div id="game" style="margin: 4rem auto; max-width: 1200px; padding: 0 1rem;">
     <div style="color: #fff; text-align: justify; line-height: 1.6;">
         <h2 style="font-size: 2rem; color: #007bff; margin-bottom: 1.5rem;">👾 Gameplay</h2>
         <p style="margin-bottom: 1.2rem;">
-            Flashback 2 is mostly a shooter and platformer game, the player will have to explore different areas, buildings or regions. Collect some story keys objects, and of course kill enemies to advance further.
+            Flashback 2 is mostly a shooter and platformer. The player explores different areas, buildings and regions, collects key story objects, and of course fights enemies to progress.
         </p>
         <p style="margin-bottom: 1.2rem;">
-            Different kind of exotic gameplay are added on top of that, there are mecha fights, driving bike, even finding some electrical circuits to hack. They were added to make more gameplay mechanics in the game, and give a little bit of more things to learn for the player, creating challenge + satisfaction understanding new mechanics.
+            Several exotic gameplay elements were added, like mecha fights, bike driving and electrical circuit hacking. These were designed to introduce new mechanics and give players more to learn, creating challenge and satisfaction through discovery.
         </p>
         <p>
-            Also a lot of narrative parts, cutscenes and dialogues, creating the lore and some storyline through the game with lot of different characters..
+            There are also many narrative elements, cutscenes and dialogues that build the lore and storyline, with a wide range of characters.
         </p>
-        <h2 id="task" style="font-size: 2rem; color: #007bff;">👨‍💻 What I've realized on the project</h2>
+        <div style="border-top: 1px solid #5f656d;height: 1px;margin: 40px 0;margin-bottom:-1rem;margin-top:3rem;margin-left:-3rem;margin-right:-3rem;"></div>
+        <h2 id="task" style="font-size: 2rem; color: #007bff;">📃 What I've realized on the project</h2>
     </div>
 </div>
 
@@ -74,22 +74,22 @@
                 <div style="display: flex; flex-direction: column; gap: 20px;">
                     <span style="color:rgb(164, 208, 255); font-weight: bold; font-size: 120%">Playing the game</span>
                     <p style="margin-bottom: 1.2rem;">
-                        Maybe the earlier and easier, when I joined the project my first and main task was to play the game, the Lead Game Designer wanted me to play it, with a fresh look and complete unknowing of the story, universe and gameplay.
+                        This was probably the first and easiest task. When I joined the project, my main mission was to play the game with a fresh perspective, knowing nothing about the story, universe or gameplay.
                     </p>
                     <p style="margin-bottom: 1rem;">
-                        He wanted me to write a little essay, explaining all the things I understood of the game, story and chatacters. The things I liked and disliked, understood and misunderstood, and mostly the things that were too much or lacking for me.  
+                        The Lead Game Designer asked me to write a short essay explaining what I understood about the game, its story and characters. I had to describe what I liked and disliked, what I understood and misunderstood, and what felt too much or was missing.  
                     </p>
                     <p style="margin-bottom: -2rem;">
-                        The things I liked the most were kinda easy, the new universe, learning the game with new mechanics and features, the different characters and lore of this world.
+                        The things I liked were easy to identify — the new universe, learning new mechanics and features, and discovering the characters and lore.
                     </p>
                     <p style="margin-bottom: -2rem;">
-                        And for the dislike or misunderstood part it was more like.. Some of the characters are starting some relationships togethers, but it's not used the way I would use it, or go more into that (exemple Conrad and Helen having a romance, but only during like 3 mins on the whole game, I was a bit dissapointed).
+                        As for the things I disliked or didn’t fully understand, it was more about how some character relationships were introduced but not developed. For example, Conrad and Helen have a romance, but it only lasts about 3 minutes in the whole game, which felt disappointing.
                     </p>
                     <p style="margin-bottom: 1.2rem;">
-                        On the other hand, I was also dissapointed by some mechanics being used only once in the game, could have been a really great use if used multiple times, like the mecha fights or some hackings in the early early game (limit tutorial city).
+                        I was also let down by some mechanics being used only once. They could have been great if reused, like the mecha fights or hacking sequences in the early game (almost just in the tutorial city).
                     </p>
                     <p style="margin-bottom: 1.2rem;">
-                        In the end my Lead was really happy and surprised about my essay, saying the he had forgotten the use and meaning of some of the parts I spoke about. Sadly we didn't had the time to use more of thoses mechanics and place them elsewhere, but at least the essay was done.
+                        In the end, my Lead was really happy and surprised by my essay. He even said he had forgotten the meaning of some parts I mentioned. Sadly, we didn’t have time to reuse those mechanics elsewhere, but at least the essay was done.
                     </p>
                 </div>
             </li>
@@ -141,16 +141,16 @@
                 <div style="display: flex; flex-direction: column; gap: 20px;">
                     <span style="color:rgb(164, 208, 255); font-weight: bold; font-size: 120%">Redaction of the dev log</span>
                     <p style="margin-bottom: -2rem;">
-                        My 2nd task was more straight forward, once i've finished played I had to watch some footage and gameplay of the old version of the game (The one that was published at the time, not the reworked version we were working on).
+                        My second task was more straightforward. After finishing the game, I watched footage and gameplay from the old version (the one published before the rework).
                     </p>
                     <p style="margin-bottom: -1rem;">
-                        Inside a big google doc, I firstly had to create a recap of all the new features or modifications between the actual version and the one we were working on. Including the pros and cons of the actual version, and comparing them to the new one (That had of course only advantages compared to the actual).
+                        In a big Google Doc, I created a recap of all the new features and changes between the released version and the one we were working on. I included pros and cons of the current version and compared them to the new one, which of course had only improvements.
                     </p>
                     <p style="margin-bottom: 1.2rem;">
-                        Once that full recap finished I had then to create a powerpoint destined to the publishers and the marketing team, showcasing them all the new features, advancement, modifications and fixes we did during the upcoming Patch.3 (the version we were working on).
+                        Once the recap was done, I created a PowerPoint presentation for the publishers and marketing team, showcasing all the new features, progress, changes and fixes included in Patch 3.
                     </p>
                     <p style="margin-bottom: 1.2rem;">
-                        This one was also very interesting to make, for the first time I had to make documents that were going to be seen by high persons in the studio.
+                        This was also a very interesting task, as it was the first time I had to make documents that would be seen by senior people in the studio.
                     </p>
                 </div>
             </li>
@@ -161,27 +161,30 @@
         <img src="\imgs\projects\Flashback2\FB3.png" alt="this slowpoke moves"  style="width: 100%; max-width: 500px; height: auto; border-radius: 8px; object-fit: cover;margin-top: 4rem;"/>
     </div>
 </div>  
-
+<div style="border-top: 1px solid #5f656d;height: 1px;margin: 40px 0;margin-bottom:-1rem;margin-top:3rem;"></div>
 <div id="lesson" style="display: flex; align-items: flex-start; gap: 2rem; margin: 2rem 0; max-width: 1200px; margin-left: auto; margin-right: auto;">
     <div style="color: fff; text-align: justify; line-height: 1.6;">
         <h2 style="font-size: 2rem; color: #007bff; margin-bottom: 4rem;">📌 Lessons Learned</h2>
         <div style="margin-left: 3.5rem;"><p>
-            I learnt so much on this project, even more since it was my first ever professional project.
+            I learned so much from this project, especially since it was my first professional experience.
         </p>
-        <p>From organizing tasks proprely with Slack and ClickUp, creating and managing task tickets for my own work, to redact professional documents for the marketing team of the studio, it was a truely awesome experience.</p>
-        <p>I also learnt of course the importance of users's feedbacks, since the entire Patch.3 was based on thoses, modifying features or fixing some bugs.</p>
-        <p>It was truely an amazing first experience and I could have never dreamt of a better first step in the video game industry than this one.</p></div>
+        <p>From organizing tasks properly using Slack and ClickUp, creating and managing task tickets, to writing professional documents for the studio’s marketing team, it was a truly awesome experience.
+        </p>
+        <p>I also learned the importance of user feedback, since Patch 3 was entirely based on it, modifying features and fixing bugs.
+        </p>
+        <p>It was an amazing first step into the video game industry, and I couldn’t have dreamed of a better start.
+        </p></div>
     </div>
 </div>
-
+<div style="border-top: 1px solid #5f656d;height: 1px;margin: 40px 0;margin-bottom:-1rem;margin-top:3rem;"></div>
 <div id="infos" style="display: flex; align-items: flex-start; gap: 2rem; margin: 2rem 0; max-width: 1200px; margin-left: auto; margin-right: auto;">
     <div style="color: fff; text-align: justify; line-height: 1.6;">
         <h2 style="font-size: 2rem; color: #007bff; margin-bottom: 4rem;">⚡ Quick infos</h2>
         <div style="margin-left: 3.5rem;">
         <p style="margin-bottom: 2rem;">
-            Project made on Unity, I had the chance of working on it for 2 months
+            Project made in Unity. I had the chance to work on it for 2 months.
         </p>
-        <p style="margin-bottom: 2rem;">The game is playable from the Steam Page below!</p>
+        <p style="margin-bottom: 2rem;">The game is playable from the Steam Page <a href="https://store.steampowered.com/app/2008420/Flashback_2/" style="color: #007bff;" target="_blank">here</a>!</p>
         </div>
     </div>
 </div>

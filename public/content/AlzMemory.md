@@ -11,25 +11,24 @@
 </div>
 <div style="margin-left: 3.5rem;"><h2 id="pitch" style="font-size: 2rem; color: #007bff; margin-bottom: 1.5rem;">💎 Pitch</h2>
         <p style="margin-bottom: -1rem;">
-            Hey you.. Please help my father, he seems.. Lost in his thoughs.. He's really sick you know
+            Hey you... Please help my father. He seems lost in his thoughts. He's really sick, you know.
         </p>
         <p style="margin-bottom: 6rem;">
-            Lend him a hand for us, his lovely family
+            Lend him a hand, for us, his loving family.
         </p></div>
-
+<div style="border-top: 1px solid #5f656d;height: 1px;margin: 40px 0;margin-bottom:-3rem;margin-top:-2rem;"></div>
 <!-- Main Content with Anchor -->
 <div id="introduction" style="display: flex; align-items: flex-start; gap: 2rem; margin: 2rem 0; max-width: 1200px; margin-left: auto; margin-right: auto;">
     <div style="flex: 1; padding: 0 15px; color: #fff; text-align: justify; line-height: 1.6; max-width: 600px;">
         <h2 style="font-size: 2rem; color: #007bff; margin-bottom: 4rem;">🌟 Introduction</h2>
         <p style="margin-bottom: 4rem;">
-            <i>AlzMemory?</i> is a short narrative game that immerses players in the fragmented mind of a father battling Alzheimer's. Through intimate vignettes, the game explores his struggles with fading memories and the emotional weight of past regrets, as his children, grandmother, and subconscious bring buried feelings to the surface.
+            <i>AlzMemory?</i> is a short narrative game that immerses players in the fragmented mind of a father battling Alzheimer’s. Through intimate vignettes, the game explores his struggles with fading memories and the emotional weight of past regrets, as his children, grandmother, and subconscious bring buried feelings to the surface.
         </p>
         <p style="margin-bottom: 1.2rem;">
-            This is a short project we created for the Haut-de-Seine Festival, we had to make a game around the theme <i>Courage</i>.
+            We created this project for the Hauts-de-Seine Festival, where the theme was Courage. My goal during this project was to guide players into feeling and thinking through a character with his own story and background.
         </p>
         <p>
-            My objectives during this project was to try orienting and making the players feel and think through a created character with his own story and background.
-            For this particular story and narrative context we tried doing something around ALzheimer, I had to documentate myself and tried to create something interacting like mini-games through the dialogues to make the players interact directly with the illness and it's impact on people.
+            For this particular narrative, we chose to focus on Alzheimer’s. I had to research the illness and design interactive mini-games within the dialogue to help players engage directly with its impact on people’s lives.
         </p>
     </div>
     <img src="https://i.imgur.com/oTH2nLd.png" 
@@ -37,20 +36,21 @@
          style="max-width: 500px; width: 100%; height: auto; border-radius: 8px; object-fit: cover; align-self: center; margin-top: 10rem;">
 </div>
 
-
+<div style="border-top: 1px solid #5f656d;height: 1px;margin: 40px 0;margin-bottom:-1rem;margin-top:0rem;"></div>
 <div id="game" style="margin: 4rem auto; max-width: 1200px; padding: 0 1rem;">
     <div style="color: #fff; text-align: justify; line-height: 1.6;">
         <h2 style="font-size: 2rem; color: #007bff; margin-bottom: 1.5rem;">👾 Gameplay</h2>
         <p style="margin-bottom: 1.2rem;">
-            Basicly the game is really simple, the players only have to click to pass the dialogues and play the little mini games with their mouses.
+            The game is very simple. Players click to progress through the dialogue and play small mini-games using their mouse.
         </p>
         <p style="margin-bottom: 1.2rem;">
-            Since it's a really short and linear game, the dialogues will follow each others and the players just have to click. When a mini game occurs, the players will be able to interact and complete them easily.
+            Since it’s short and linear, the dialogue flows naturally, and players just need to click to follow the story. When a mini-game appears, players can interact and complete it easily.
         </p>
         <p>
-            The objective of the game was to make a driven narrative story with some mini games to create more interactions and comprehension of the illness and impact of it on the daily life of thoses persons.
+            The goal was to create a narrative-driven experience with interactive moments that help players understand the illness and its effects on daily life.
         </p>
-        <h2 id="task" style="font-size: 2rem; color: #007bff;">👨‍💻 What I've realized on the project</h2>
+        <div style="border-top: 1px solid #5f656d;height: 1px;margin: 40px 0;margin-bottom:-1rem;margin-top:3rem;margin-left:-3rem;margin-right:-3rem;"></div>
+        <h2 id="task" style="font-size: 2rem; color: #007bff;">📃 What I've realized on the project</h2>
     </div>
 </div>
 
@@ -67,10 +67,10 @@
                 <div style="display: flex; flex-direction: column; gap: 20px;">
                     <span style="color:rgb(164, 208, 255); font-weight: bold; font-size: 120%">Dialogues</span>
                     <p style="margin-bottom: 1.2rem;">
-                        With Yann, the 2nd Game Artist of the game, him and me wrote the dialogues lines and character and place of each characters of the game.
+                        Together with Yann, the second Game Artist, we wrote the dialogue lines and defined the roles and placement of each character in the game.
                     </p>
                     <p style="margin-bottom: 2rem;">
-                        I wanted to create a smooth story where the players can easily understand what is happening, how they are impacting the story and what are the objective from each characters.
+                        I wanted to create a smooth story that players could easily follow, understand their impact on the narrative, and grasp each character’s intentions.
                     </p>
                 </div>
             </li>
@@ -144,28 +144,28 @@
                         The Smoke
                     </p>
                     <p style="margin-bottom: -1rem;">
-                        The first mini game start when the grandma speak about a spider that the twins should go dig down in the garden. This interaction has for objective to make the father understand what she is saying with his thoughs completly confused in his head.
+                        The first mini-game begins when the grandmother talks about a spider the twins should dig up in the garden. The goal is to help the father understand what she’s saying, despite his confused thoughts.
                     </p>
                     <p style="margin-bottom: 1.2rem;">
-                        A chatbox appears full of smoke clouds and the player has to make them dissapear with the mouse cursor, once all the clouds are gone the text can finally appear.
+                        A chatbox appears filled with smoke clouds. The player must clear them with the mouse cursor. Once all the clouds are gone, the text finally appears.
                     </p>
                     <p style="margin-bottom: -2rem; color:rgb(164, 208, 255);">
                         The Rain
                     </p>
                     <p style="margin-bottom: -1rem;">
-                        All about a sad and emotional event, this one occurs when, lost in his head, the father feel like seeing and speaking to his passed father, they speak about how kind he has to be when an animal or living creature die. Digging a grave and saying few words from the heart.
+                        This one is tied to a sad and emotional moment. Lost in his mind, the father imagines speaking to his late father. They talk about kindness and how to honor the death of a living creature, digging a grave and saying a few heartfelt words.
                     </p>
                     <p style="margin-bottom: -1rem;">
-                        Once again a chatbox appear, with invisible words on it, a little fuse start to burn, there is rain in the chatbox and the mouse cursor is this time an umbrella. The player has to cover the burning fuse from the rain to make the whole word appear (when the fuse burn, the word start appearing letters by letters behind it). Once an entire word is discovered, a new fuse / new word start to burn so the player has to move the mouse quickly to cover it from the rain too.
+                        A chatbox appears with invisible words. A fuse begins to burn, and rain falls inside the box. The mouse cursor becomes an umbrella. The player must shield the burning fuse from the rain to reveal the word, letter by letter. Once a word is complete, a new fuse starts burning, and the player must quickly move the umbrella to protect it.
                     </p>
                     <p style="margin-bottom: 3rem;">
-                        If the rain touch the fuse, the word reset and the player has to come back on the beginning of the burning to fuse again.
+                        If the rain touches the fuse, the word resets and the player must start that fuse again.
                     </p>
                     <p style="margin-bottom: -2rem; color:rgb(164, 208, 255);">
                         (Punishements?)
                     </p>
                     <p style="margin-bottom: 1.2rem;">
-                        Since it's supposed to be a narrative oriented game, I didn't want to player to lose in anyway, having to restart dialogues that does not change can be a lot of frustrations for the players, so instead it was just quick reset as punishement for fails, but not big deal.
+                        Since it’s a narrative-focused game, I didn’t want players to lose or restart unchanged dialogue, that would be frustrating. Instead, mistakes just trigger a quick reset, nothing major.
                     </p>
                 </div>
             </li>
@@ -177,31 +177,31 @@
         <img src="https://i.imgur.com/k21f489.png" alt="Featured Concept Art" style="width: 100%; max-width: 500px; height: auto; border-radius: 8px; object-fit: cover;margin-top: 10rem;"/>
     </div>
 </div>  
-
+<div style="border-top: 1px solid #5f656d;height: 1px;margin: 40px 0;margin-bottom:-3rem;margin-top:-2rem;"></div>
 <div id="lesson" style="display: flex; align-items: flex-start; gap: 2rem; margin: 2rem 0; max-width: 1200px; margin-left: auto; margin-right: auto;">
     <div style="color: fff; text-align: justify; line-height: 1.6;">
         <h2 style="font-size: 2rem; color: #007bff; margin-bottom: 4rem;">📌 Lessons Learned</h2>
         <div style="margin-left: 3.5rem;"><p>
-            - I've learn that it's way harder for a little project like this one to be able the characters really impactant for the players, as well as the story.
+            - I learned how hard it is in a small project like this to make characters truly impactful for players, along with the story itself.
         </p>
-        <p>- I feel like the game is lacking of interaction, mini games and dialogue possibility to make less of an "skip the dialogue simulator".</p>
-        <p>- I still liked the project in term of art and design of the universe, would have definitly loved to make the narration a bit less deep and more entraining for the players, so they catch up with the father instantly and have more fun or understanding playing and interacting with the different family members.</p></div>
+        <p>- I feel the game lacked interaction, mini-games, and dialogue options, it leaned too much toward a “click-through” experience.</p>
+        <p>- Still, I loved the project’s art and universe design. I would’ve liked to make the narration a bit lighter and more engaging, so players could connect with the father more easily and enjoy interacting with the family.</p></div>
     </div>
 </div>
-
+<div style="border-top: 1px solid #5f656d;height: 1px;margin: 40px 0;margin-bottom:-3rem;margin-top:2rem;"></div>
 <div id="infos" style="display: flex; align-items: flex-start; gap: 2rem; margin: 2rem 0; max-width: 1200px; margin-left: auto; margin-right: auto;">
     <div style="color: fff; text-align: justify; line-height: 1.6;">
         <h2 style="font-size: 2rem; color: #007bff; margin-bottom: 4rem;">⚡ Quick infos</h2>
         <div style="margin-left: 3.5rem;">
         <p style="margin-bottom: 2rem;">
-            Project made in 3 Weeks (Only during free time)
+            Project made in 3 weeks (only during free time).
         </p>
-        <p style="margin-bottom: 2rem;">The game got nominated at the Hauts-de-Seine Festival along with the others game from the 18+y category</p>
-        <p style="margin-bottom: 1rem;">The team :</p>
-        <p style="margin-bottom: -1rem;">- Game Artists : Lucio Mazza & Yann Gigez</p>
-        <p style="margin-bottom: -1rem;">- Programmers : Victor Lacombe & Gabriel Le Mer</p>
-        <p style="margin-bottom: 2rem;">- Designer : Me</p>
-        <p style="margin-bottom: 2rem;">The game is not playable, we decided to not publish it since it's a short project and we would have wish to have more time to work on it to fully show the story and experience</p>
+        <p style="margin-bottom: 2rem;">The game was nominated at the Hauts-de-Seine Festival in the 18+ category.</p>
+        <p style="margin-bottom: 1rem;"><b>The team:</b></p>
+        <p style="margin-bottom: -1rem;">- <b>Game Artists:</b> Lucio Mazza & Yann Gigez</p>
+        <p style="margin-bottom: -1rem;">- <b>Programmers:</b> Victor Lacombe & Gabriel Le Mer</p>
+        <p style="margin-bottom: 2rem;">- <b>Designer:</b> Myself</p>
+        <p style="margin-bottom: 2rem;">The game is not playable. We chose not to publish it since it was a short project, and we would’ve liked more time to fully develop the story and experience.</p>
         </div>
     </div>
 </div>

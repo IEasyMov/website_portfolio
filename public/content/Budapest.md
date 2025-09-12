@@ -12,7 +12,7 @@
 
 <!-- Main Content with Anchor -->
 <div>
-    <h2 style="font-size: 2rem; color: #007bff; margin-bottom:3rem;margin-left:44%;">🧠 Pitch</h2>
+    <h2 style="font-size: 2rem; color: #007bff; margin-bottom:3rem;margin-left:4%;">🧠 Pitch</h2>
 </div>
 <div id="pitch" style="display: flex; align-items: flex-start; gap: 2rem; margin: 2rem 0; max-width: 1200px; margin-left: auto; margin-right: auto;">
     <div style="flex: 1; padding: 0 15px; color: #fff; text-align: justify; line-height: 1.6;">
@@ -71,13 +71,13 @@ Warmest regards, M. Gustave H. Concierge of The Grand Budapest"
     <div style="flex: 1; max-width: 900px;margin-left:6rem;">
         <span style="color:rgb(164, 208, 255); font-weight: bold;  font-size: 120%;margin-left:41%;font-size: 1.75rem;">Welcome sir</span>
                 <p style="margin-bottom: 1.2rem;text-align: center;margin-top:2rem;">
-                    You play the little Lobby boy of the Grand Budapest Hostel, on your office/desk you will be given post-it of all the tasks you have to complete for the day.
+                    You play as the young lobby boy of the Grand Budapest Hotel. At your desk, you’ll receive post-its listing all the tasks you need to complete for the day.
                 </p>
                 <p style="text-align: center;">
-                    Tasks can be as easy as opening and closing the door morning and evening, cleaning the floor with the mop, or even delivering letters and cardboxes to the right rooms.
+                    Tasks range from simple ones like opening and closing the doors in the morning and evening, mopping the floors, or delivering letters and packages to the correct rooms.
                 </p>
                 <p style="text-align: center; margin-top: 2rem;">
-                    It's a little endless management game, I wanted to create way more and implement an experience mechanic with an xp bar, new levels and mechanics to unlock but by lack of time it wasn't possible.
+                    It’s a small endless management game. I had planned to add an experience system with an XP bar, new levels, and unlockable mechanics, but due to time constraints, it wasn’t possible.
                 </p>
                 </div>
             </div>
@@ -106,16 +106,16 @@ Warmest regards, M. Gustave H. Concierge of The Grand Budapest"
         <h2 style="font-size: 2rem; color: #007bff; margin-bottom:4rem;margin-left:31%;">🛠️ My Contribution</h2>
         <div style="margin-left:2rem;">
         <p style="margin-bottom: 1.2rem;">
-            - <b>Game Design</b> (The tasks, what to do in the hotel and how, daily tasks and the different clients)
+            - <b>Game Design</b> (Defined the tasks, how they work, daily routines, and the different types of clients)
         </p>
         <p>
-            - <b>Art</b> (I used half Paint3D Arts, and AI Generated Image to recreate the characters from the movie)
+            - <b>Art</b> (Used a mix of Paint3D assets and AI-generated images to recreate characters from the movie)
         </p>
         <p>
-            - <b>Sound Design</b> (free to use sounds)
+            - <b>Sound Design</b> (Selected free-to-use sound effects)
         </p>
         <p>
-            - <b>Programmation</b> (Post-it mechanic, deplacement of the player and customers, daily tasks, elevator and doors)
+            - <b>Programmation</b> (Built the post-it task system, player and customer movement, daily task logic, elevator and door mechanics)
         </p>
         </div>
     </div>
@@ -126,13 +126,13 @@ Warmest regards, M. Gustave H. Concierge of The Grand Budapest"
     <div style="border-top: 1px solid #5f656d;height: 1px;margin: 40px 0;margin-left:25rem;margin-right:25rem;"></div>
         <h2 style="font-size: 2rem; color: #007bff; margin-bottom:3.5rem;margin-top:4rem;margin-left:37%;">💡 Lesson Learned</h2>
         <p style="max-width: 800px;text-align: center;margin-left:16%;">
-            Mixing some narrative into management game is a bit hard, needs to have the right balance.
+            Mixing narrative into a management game is tricky, it needs the right balance to work well
         </p>
         <p style="max-width: 800px;text-align: center;margin-left:16%;">
-            Also lacking of time for a too big scope is really impacting, I really learnt a lot for that during this project.
+            A big scope with limited time can really impact the final result. I learned a lot about setting realistic goals
         </p>
         <p style="max-width: 800px;text-align: center;margin-left:16%;">
-            I wanted to add way more than what is actually in the game.
+            I had so many ideas I wanted to implement, but time didn’t allow it. Still, it was a great learning experience
         </p>
     </div>
 </div>

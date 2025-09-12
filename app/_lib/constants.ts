@@ -79,8 +79,7 @@ export const portfolioProjects: ProjectProps[] = [
       liveDemoUrl: "",
       videoUrl: "",
       videoGameplayUrl: "",
-      // contentPath: "/content/OneZero.md",
-      contentPath: "/content/WorkInProgress.md",
+      contentPath: "/content/OneZero.md"
     },
     {
       id: "pacosanatomy",
@@ -201,7 +200,6 @@ export const portfolioProjects: ProjectProps[] = [
       videoUrl: "",
       videoGameplayUrl: "",
       contentPath: "/content/TwiceUponATime.md",
-      // contentPath: "/content/WorkInProgress.md",
     },
     {
       id: "rokkatensei",
@@ -232,7 +230,6 @@ export const portfolioProjects: ProjectProps[] = [
       videoUrl: "",
       videoGameplayUrl: "",
       contentPath: "/content/Rokkatensei.md",
-      // contentPath: "/content/WorkInProgress.md",
     },
     {
       id: "helloworld",
@@ -290,8 +287,7 @@ export const portfolioProjects: ProjectProps[] = [
       liveDemoUrl: "",
       videoUrl: "",
       videoGameplayUrl: "",
-      // contentPath: "/content/GoingHome.md",
-      contentPath: "/content/WorkInProgress.md",
+      contentPath: "/content/GoingHome.md"
     },
     {
       id: "quantictactoe",

@@ -11,24 +11,21 @@
 </div>
 <div style="margin-left: 3.5rem;"><h2 id="pitch" style="font-size: 2rem; color: #007bff; margin-bottom: 1.5rem;">💎 Pitch</h2>
         <p style="margin-bottom: -1rem;">
-            More challenge, more choices, more strategies.. Would you fight against me ?
+            More challenge, more choices, more strategies... Would you fight against me?
         </p></div>
-
+<div style="border-top: 1px solid #5f656d;height: 1px;margin: 40px 0;margin-bottom:-3rem;margin-top:4rem;"></div>
 <!-- Main Content with Anchor -->
 <div id="introduction" style="display: flex; align-items: flex-start; gap: 2rem; margin: 2rem 0; max-width: 1200px; margin-left: auto; margin-right: auto;">
     <div style="flex: 1; padding: 0 15px; color: #fff; text-align: justify; line-height: 1.6; max-width: 600px;">
-        <h2 style="font-size: 2rem; color: #007bff; margin-bottom: 4rem;">🌟 Introduction</h2>
-        <p style="margin-bottom: 4rem;">
-            <i>Quantictactoe</i> Ultimate tic-tac-toe (also known as Ultimate tic-tac-toe) is a board game composed of nine tic-tac-toe boards arranged in a 3 × 3 grid. 
-            Players take turns playing on the smaller tic-tac-toe cases until one of them wins on the larger board. 
-            Compared to traditional tic-tac-toe, strategy in this game is different.
-            Players can send their opponent to play in the quantic case they want.
+        <h2 style="font-size: 2rem; color: #007bff; margin-bottom: 3rem;">🌟 Introduction</h2>
+        <p style="margin-bottom: 3rem;">
+            <i>Quantictactoe</i> (also known as Ultimate Tic-Tac-Toe) is a board game made up of nine tic-tac-toe boards arranged in a 3×3 grid. Players take turns placing symbols on the smaller tic-tac-toe boards until one of them wins on the larger grid. Compared to traditional tic-tac-toe, the strategy here is different, players can send their opponent to play in the specific grid they choose.
         </p>
         <p style="margin-bottom: 1.2rem;">
-            We made this little game at two, trying to find new mechanics to implement into the regular Ultimate Tic-tac-toe
+            We made this little game as a duo, trying to find new mechanics to add to the regular Ultimate Tic-Tac-Toe.
         </p>
         <p>
-            My Objectives were simple, I wanted to find some tweaks to add to the game we all know. Also we wanted to try some things like customization of symbols, special mechanics, maybe quests, etc...
+            My goal was simple: find some fun tweaks to refresh the game we all know. We also wanted to experiment with things like symbol customization, special mechanics, maybe even quests.
         </p>
     </div>
     <img src="https://i.imgur.com/LLuFo61.png" 
@@ -36,27 +33,27 @@
          style="max-width: 500px; width: 100%; height: auto; border-radius: 8px; object-fit: cover; align-self: center; margin-top: 10rem;">
 </div>
 
-
+<div style="border-top: 1px solid #5f656d;height: 1px;margin: 40px 0;margin-bottom:-1rem;margin-top:3rem;"></div>
 <div id="game" style="margin: 4rem auto; max-width: 1200px; padding: 0 1rem;">
     <div style="color: #fff; text-align: justify; line-height: 1.6;">
         <h2 style="font-size: 2rem; color: #007bff; margin-bottom: 1.5rem;">👾 Gameplay</h2>
         <p style="margin-bottom: 1.2rem;">
-            The gameplay is really easy to understand while playing, basicly it's a Tic-tac-toe but times 3 with a little twist.
+            The gameplay is easy to understand once you start playing. Basically, it’s tic-tac-toe times three, with a twist.
         </p>
         <p style="margin-bottom: -1rem;">
-            2 players will play turn by turn  and will place a symbol on a little case (that we call the Tic-tac-toe cases).
+            Two players take turns placing their symbol on a small square (which we call the tic-tac-toe cases).
         </p>
         <p style="margin-bottom: 1.2rem;">
-            The little trick is that, in this game there are 9 cases of the regular tic-tac-toe game we know, so when a player plays on the middle left tic-tac-toe case, and put his symbol in the middle, he will "send" the next player in the middle tic-tac-toe case.
+            Here’s the trick: the game has 9 tic-tac-toe grids. So if Player 1 plays in the middle-left grid and places their symbol in the center square, Player 2 is then sent to play in the center grid.
         </p>
         <p style="margin-bottom: -1rem;">
-            Basicly, the micro objective is to complete a line of 3 symbol on a tic-tac-toe case. Once that done, the player getting the symbol obtain his symbol "completing a case" on the Quantic-tac-toe grid.
+            The micro-objective is to complete a line of 3 symbols in a small grid. Once that’s done, the player earns a symbol on the larger Quantictactoe grid.
         </p>
         <p style="margin-bottom: -1rem;">
-            Twist being that, while you can send the enemy player kinda in the tic-tac-toe grid you want by playing in a strategic case, you have to be careful, because if you send him in a grid that is already completed (Either by you or him), he will be able to play wherever he wants on the Quantic-tac-toe grid.
+            The twist is that you can send your opponent to a specific grid by choosing where you play, but if you send them to a grid that’s already completed (by either player), they’re free to play anywhere on the board.
         </p>
         <p>
-            It's a good balance of strategy and kinda previsualization of what moves the enemy could do, how you can prevent sending him in certain grid that you want to win, or on the opposite sending him on strategic grid that you don't need at all.
+            It’s a smart balance of strategy and anticipation. You have to think ahead, avoid sending your opponent to grids you want to win, or deliberately send them to ones you don’t care about.
         </p>
         <details style="margin: 10px 0; border: 1px solid #3d4450; border-radius: 4px;">
     <summary style="cursor: pointer; padding: 8px; background-color: #2a2f3a; color: #fff; font-family: monospace;">
@@ -88,12 +85,13 @@
     <img src="https://i.imgur.com/vbVwjQs.png" 
              alt="Featured Concept Art" 
              style="width: 1300px; height: auto; border-radius: 8px;margin-top: 3rem;margin-left: 25rem;margin-bottom: 7rem;transform: scale(1.5);">
-    <h2 id="task" style="font-size: 2rem; color: #007bff;margin-left: 4rem;">👨‍💻 What I've realized on the project</h2>
+             <div style="border-top: 1px solid #5f656d;height: 1px;margin: 40px 0;margin-bottom:-1rem;margin-top:1rem;"></div>
+    <h2 id="task" style="font-size: 2rem; color: #007bff;margin-left: 4rem;">📃 What I've realized on the project</h2>
 </div>
 
 <div style="display: flex; align-items: flex-start; gap: 2rem; margin: 2rem auto; max-width: 1200px;">
     <!-- Image Column (Left) -->
-    <div style="flex: 1; min-width: 0; margin-top: 4rem;">
+    <div style="flex: 1; min-width: 0; margin-top: -1rem;">
         <img src="https://i.imgur.com/RWmLaNd.png" 
              alt="Featured Concept Art" 
              style="width: 100%; max-width: 700px; height: auto; border-radius: 8px; object-fit: cover;margin-top: 5rem;">
@@ -101,16 +99,16 @@
 <div style="flex: 1; padding: 0 15px; color: #fff; text-align: justify; line-height: 1.6;">
         <ul style="font-size: 120%;">
             <li style="padding-bottom: 15px;">
-                <div style="display: flex; flex-direction: column; gap: 20px;">
+                <div style="display: flex; flex-direction: column; gap: 0px;">
                     <span style="color:rgb(164, 208, 255); font-weight: bold; font-size: 120%">The twist</span>
                     <p style="margin-bottom: 1.2rem;">
-                        Quantictactoe aka Ultimate Tic-tac-toe being a game that already existed, we firstly wanted to try making a game with the steam API and making a hosting multiplayer game, but we ended wanting to add our little grain of salt in the game.
+                        Since Ultimate Tic-Tac-Toe already existed, our first idea was to build a multiplayer version using the Steam API.
                     </p>
                     <p style="margin-bottom: 1.2rem;">
-                        So we added the Quantic twist, which is as explaned above, sending the enemy player in the Quantic-tac-toe grid you want by playing in a certain tic-tac-toe case.
+                        But we ended up wanting to add our own twist, the “Quantic” mechanic, where you send your opponent to a specific grid based on your move.
                     </p>
                     <p style="margin-bottom: 2rem;">
-                        (Exemple with the image on the left, Player 1 played in the middle case in the top-right tic-tac-toe grid, so Player 2 has to play in the middle Tic-Tac-Toe grid)
+                        (Example: if Player 1 plays in the center square of the top-right grid, Player 2 must play in the center grid.)
                     </p>
                 </div>
             </li>
@@ -124,54 +122,54 @@
 <div style="flex: 1; padding: 0 15px; color: #fff; text-align: justify; line-height: 1.6;">
         <ul style="font-size: 120%;">
             <li style="padding-bottom: 15px;">
-                <div style="display: flex; flex-direction: column; gap: 20px;">
+                <div style="display: flex; flex-direction: column; gap: 0px;">
                     <span style="color:rgb(164, 208, 255); font-weight: bold; font-size: 120%">UI of the lobby</span>
                     <p style="margin-bottom: 1rem;">
-                        We wanted to have an UI for the main menu that would be juicy and really understandable
+                        We wanted the main menu UI to be juicy and easy to understand.
                     </p>
                     <p style="margin-bottom: -2rem;">
-                        For that, we splitted the screen in two, one side for each players, the picture of the player and his name are linked on his steam account so it's automatic.
+                        We split the screen in two, one side for each player. Their profile picture and name are automatically linked to their Steam account.
                     </p>
                     <p style="margin-bottom: 0rem;">
-                        The button "Ready" being in the middle of the screen to override the splitting line, when Player 1 will click on it, his side will get a nice color and visual effect, same for the Player 2 for his side.
+                        The “Ready” button sits in the center, crossing the dividing line. When Player 1 clicks it, their side lights up with color and effects. Same for Player 2.
                     </p>
                     <p style="margin-bottom: 0rem;">
-                        Once both Players are ready, a little timer of 3 seconds start before the game actually lunch, then an animation with a flipcoin giving the first turn to a player randomly will begin.
+                        Once both players are ready, a 3-second countdown starts before the game launches. Then a coin flip animation randomly decides who plays first.
                     </p>
                     <p style="margin-bottom: 2rem;">
-                        Players can click again on the ready button even once the timer has started, to cancel it if they're finally not ready.
+                        Players can still click the “Ready” button during the countdown to cancel if they change their mind.
                     </p>
                 </div>
             </li>
         </ul>
     </div>
-    <div style="flex: 1; min-width: 0; margin-top: 12rem;">
+    <div style="flex: 1; min-width: 0; margin-top: 6rem;">
         <img src="\imgs\projects\Quantic\QTT_LobbyMenu.Gif" alt="this slowpoke moves"  style="width: 100%; max-width: 500px; height: auto; border-radius: 8px; object-fit: cover;margin-top: 4rem;"/>
     </div>
 </div>
-
+<div style="border-top: 1px solid #5f656d;height: 1px;margin: 40px 0;margin-bottom:-3rem;margin-top:-2rem;"></div>
 <div id="lesson" style="display: flex; align-items: flex-start; gap: 2rem; margin: 2rem 0; max-width: 1200px; margin-left: auto; margin-right: auto;">
     <div style="color: fff; text-align: justify; line-height: 1.6;">
         <h2 style="font-size: 2rem; color: #007bff; margin-bottom: 4rem;">📌 Lessons Learned</h2>
         <div style="margin-left: 3.5rem;"><p>
-            - By asking to some friends multiple times if the game was understandable without real tutorial (Since Tic-Tac-Toe is a known game, we wanted to test the utilisation of our twist mostly). I learnt the importance of feedbacks and iteration loop over some game details to make them more accurate and pleasant.
+            - By asking friends if the game was understandable without a tutorial (since tic-tac-toe is familiar), I learned the importance of feedback and iteration to refine game details and make them more intuitive.
         </p>
-        <p>- During the brainstorming of our twist, we discovered the fact that players could block the game if they choose a case already won by a player, that's why we decided to add the "All cases choice", if a player choose a won case. The lesson here was mostly to think of all the different possibilities, by testing ourselves the game and stress testing the mechanics.</p>
+        <p>- During brainstorming, we realized players could block the game by choosing a grid that was already won. That’s why we added the “All Cases Choice” rule, if a player is sent to a completed grid, they can play anywhere. The lesson here was to think through all possible scenarios by testing and stress-testing the mechanics ourselves.</p>
         </div>
     </div>
 </div>
-
+<div style="border-top: 1px solid #5f656d;height: 1px;margin: 40px 0;margin-bottom:-3rem;margin-top:0rem;"></div>
 <div id="infos" style="display: flex; align-items: flex-start; gap: 2rem; margin: 2rem 0; max-width: 1200px; margin-left: auto; margin-right: auto;">
     <div style="color: fff; text-align: justify; line-height: 1.6;">
         <h2 style="font-size: 2rem; color: #007bff; margin-bottom: 4rem;">⚡ Quick infos</h2>
         <div style="margin-left: 3.5rem;">
         <p style="margin-bottom: 2rem;">
-            Project made in 1 Month on Unity
+            Project made in 1 month using Unity.
         </p>
-        <p style="margin-bottom: 1rem;">The team :</p>
-        <p style="margin-bottom: 0rem;">- Programmers : Victor Lacombe</p>
-        <p style="margin-bottom: 3rem;">- Designer : Me (we made the little tweaks and ideas togethers with Victor)</p>
-        <p style="margin-bottom: 2rem;">The game is playable by downloading the files, adding it on Steam as a Non-Steam game, and then you can invite your friends through the Steam Contact List</p>
+        <p style="margin-bottom: 1rem;"><b>The team:</b></p>
+        <p style="margin-bottom: 0rem;">- <b>Programmers:</b> Victor Lacombe</p>
+        <p style="margin-bottom: 3rem;">- <b>Designer:</b> Myself (we came up with the tweaks and ideas together)</p>
+        <p style="margin-bottom: 2rem;">The game is playable by downloading the files, adding it to Steam as a Non-Steam game, and inviting friends through the Steam contact list.</p>
         </div>
     </div>
 </div>

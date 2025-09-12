@@ -23,21 +23,21 @@
          style="max-width: 500px; width: 100%; height: auto; border-radius: 8px; object-fit: cover; align-self: center;">
     <div style="flex: 1; padding: 0 15px; color: #fff; text-align: justify; line-height: 1.6; max-width: 600px;">
         <p style="margin-bottom: 0rem;">
-            <i style="color: #007bff; font-size: 1.5rem;">Boba </i>  is a two-player co-op arcade game will keep you on the edge of your seat as you team up with a friend to survive the open ocean.
+            <i style="color: #007bff; font-size: 1.5rem;">Boba </i>  is a two-player co-op arcade game that keeps you on the edge of your seat as you team up with a friend to survive the open ocean.
         </p>
         <p style="margin-bottom: 2rem;">
-            Plot Twist: One of you is a brave hamster rolling in a plastic ball, and the other wields a shampoo bottle as your weapon of choice. Together, you must stay within the protective radius of a life buoy while overcoming relentless obstacles and enemies.
+            <b>Plot twist:</b> One of you plays a brave hamster rolling in a plastic ball, while the other wields a shampoo bottle as your weapon of choice. Together, you must stay within the protective radius of a life buoy while overcoming relentless obstacles and enemies.
         </p>
         <p style="margin-bottom: 1.2rem;">
-            The Challenges:
+            <b>The Challenges:</b>
         </p>
         <p>
-            - The Wave: Timing is everything! Jump over the towering waves to keep your hamster ball afloat and safe from the stormy waters.
+            - <b>The Wave:</b> Timing is everything. Jump over towering waves to keep your hamster ball afloat and safe from the stormy waters.
         </p>
         <p>
-            - The Fishnet: Aim true and fire away! Destroy the fishnet pillars to clear your path and protect your furry friend.</p>
+            - <b>The Fishnet:</b> Aim true and fire away. Destroy the fishnet pillars to clear your path and protect your furry friend.</p>
             <p>
-            - The Fan: The clock is ticking! Shoot the three buttons to turn off the fan before it blows you out of the buoy's safety zone.</p>
+            - <b>The Fan:</b> The clock is ticking. Shoot the three buttons to turn off the fan before it blows you out of the buoy’s safety zone.</p>
     </div>
 </div>
 
@@ -46,16 +46,16 @@
     <div style="color: #fff; text-align: justify; line-height: 1.6;">
         <h2 style="font-size: 2rem; color: #007bff; margin-bottom: 1.5rem;">👾 Gameplay</h2>
         <p style="margin-bottom: 1.2rem;">
-            With only three shared health points, there's no room for mistakes. Every heartbeat counts as you and your partner navigate the treacherous ocean, relying on sharp reflexes and seamless teamwork.
+            With only three shared health points, there’s no room for mistakes. Every heartbeat counts as you and your partner navigate the treacherous ocean, relying on sharp reflexes and seamless teamwork.
         </p>
         <p style="margin-bottom: 1.2rem;">
-            The player 1 that is in the bubble will move it to dodge some moving obstacles and dangers.
+            <b>Player 1</b> (the hamster in the bubble) moves to dodge incoming obstacles and dangers.
         </p>
         <p>
-            While the player 2 that is above will have to shoot some incoming objects to prevent any collision or damages too.
+            <b>Player 2</b> (above the bubble) shoots at incoming threats to prevent collisions and damage.
         </p>
         <p>
-            The objective of the game is to stay alive as long as possible by dodging everything that threaten our littles hamster lifes.
+            The objective is to stay alive as long as possible by dodging everything that threatens your little hamster lives.
         </p>
         <h2 id="task" style="font-size: 2rem; color: #007bff;">📃 Tasks Realized</h2>
     </div>
@@ -74,10 +74,10 @@
                 <div style="display: flex; flex-direction: column; gap: 20px;">
                     <span style="color:rgb(164, 208, 255); font-weight: bold; font-size: 120%">Concept of the game</span>
                     <p style="margin-bottom: 1.2rem;">
-                        We needed a real quick and short game to make, so we decided to plan a little endless game. With low amount of mechanics to create and more polishing it was the right scope for a 3 days long Game Jam.
+                        We needed a quick and simple game to make, so we decided to create a small endless game. With fewer mechanics to build and more time for polish, it was the perfect scope for a 3-day Game Jam.
                     </p>
                     <p style="margin-bottom: 2rem;">
-                        Starting by deciding how much players, that it'll be a local coop, and what will the players play, our little hamsters !
+                        We started by deciding on the number of players, a local co-op, and what they would play as: our little hamsters.
                     </p>
                 </div>
             </li>
@@ -92,25 +92,25 @@
 <div style="flex: 1; padding: 0 15px; color: #fff; text-align: justify; line-height: 1.6;">
         <ul style="font-size: 120%;">
             <li style="padding-bottom: 15px;">
-                <div style="display: flex; flex-direction: column; gap: 20px;">
+                <div style="display: flex; flex-direction: column; gap: 0px;">
                     <span style="color:rgb(164, 208, 255); font-weight: bold; font-size: 120%; margin-top:3rem;">Designing the obstacles</span>
                     <p style="margin-bottom: 1.2rem;">
-                        We took the register of a swimming pool or beach activities, reason why we took floaters, slides and net as exemples for the obstacles, and some good looking fresh water with a sunny view for the game in general, to make it feel like beach time.
+                        We drew inspiration from swimming pool and beach activities, which is why we used floaters, slides, and nets as obstacle references. We also chose a sunny, fresh-water setting to give the game a fun, beach-time vibe.
                     </p>
                     <p style="margin-bottom: 2rem;">
-                        - Wave : This obstacle is as simple as it's name, it's a huge wave that will be passing through the map, the bubble player will have to move out of the way to dodge the wave.
+                        - <b>Wave:</b> A huge wave passes through the map. The bubble player must move out of the way to dodge it.
                     </p>
                     <p>
-                        - Net : Like a beachvolley net, between two pillars is a big net that will damage the players on collision, the top player has to shot the pillars to destroy them and make the net disapear before it has the chance to touch the players since it cover the entire size of the map.
+                        - <b>Net:</b> Like a beach volleyball net, it stretches between two pillars and damages players on contact. The top player must shoot the pillars to destroy the net before it reaches the players.
                     </p>
                     <p>
-                        - Fan : A fan placed on one side of the floater, it'll blow wind on the player and push him more and more until it touches the floater and get damaged. The top player has to shot an activation button on another side of the floater to turn it off and make it dissapear.
+                        - <b>Fan:</b> Placed on one side of the buoy, it blows wind toward the player, pushing them closer to danger. The top player must shoot an activation button on the opposite side to turn it off and remove the threat.
                     </p>
                 </div>
             </li>
         </ul>
     </div>
-    <div style="flex: 1; min-width: 0; margin-top: 5.5rem;">
+    <div style="flex: 1; min-width: 0; margin-top: 20rem;">
         <img src="\imgs\projects\Boba\Boba3.png" 
              alt="Featured Concept Art" 
              style="width: 100%; max-width: 500px; height: auto; border-radius: 8px; object-fit: cover;margin-top:-2rem;">
@@ -121,11 +121,11 @@
     <div style="color: fff; text-align: justify; line-height: 1.6;">
         <h2 style="font-size: 2rem; color: #007bff; margin-bottom: 4rem;">📌 Lessons Learned</h2>
         <div style="margin-left: 3.5rem;"><p>
-            - I learnt once again that a really short game scope isn't bad at all, sometimes it means we will have more time polishing the game and making nice effects or fixing bugs.
+            - I learned that a small game scope isn’t a bad thing, it gives you more time to polish visuals, fix bugs, and refine gameplay.
         </p>
-        <p>- I've done the Global Game Jam last year too, and once again 3 days to make a game is really short, so it's an intensive work, but the best way to learn how to find the best solutions for problems in a short period of time.
+        <p>- Having done the Global Game Jam last year, I was reminded again how intense a 3-day jam can be. It’s the best way to learn how to solve problems quickly and efficiently.
         </p>
-        <p>- Last one was to learn how to find a good balancing for some kind of asymetric duo gameplay as this one, it was fun to learn and a lot of playtesting, fix, modify and retry until it feels good to play.
+        <p>- I also learned how to balance asymmetric co-op gameplay. It took a lot of playtesting, tweaking, and retrying until it felt just right.
         </p>
         </div>
     </div>
