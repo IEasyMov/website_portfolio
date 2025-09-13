@@ -49,7 +49,7 @@
         <p>
             Gameplay3
         </p>
-        <h2 id="task" style="font-size: 2rem; color: #007bff;">👨‍💻 What I've realized on the project</h2>
+        <h2 id="task" style="font-size: 2rem; color: #007bff;">📃 What I've realized on the project</h2>
     </div>
 </div>
 

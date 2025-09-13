@@ -98,7 +98,7 @@
                 </p>
     </div>
     <div style="flex-shrink: 0;">
-        <img src="\imgs\projects\Paco\Paco1.png" alt="Main page of presentation" 
+        <img src="\imgs\projects\Paco\PacoImg.jpg" alt="Main page of presentation" 
              style="width: 600px; max-width: 150%; border: 1px solid #3d4450; border-radius: 4px; margin-top: 13rem;">
              <p>
             <i>Main page of the powerpoint presentation</i>
