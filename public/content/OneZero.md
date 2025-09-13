@@ -97,27 +97,27 @@
 <p style="margin-left:42.5%"><b>Emotions of the Robot</b></p>
 <div style="display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap; margin: 2rem 0;">
     <img 
-        src="\imgs\projects\OneAndZero\O1.png" 
+        src="\imgs\projects\OneAndZero\Emo1.png" 
         alt="Image 1" 
         style="width: 200px; height: 200px; object-fit: cover; border-radius: 8px;"
     >
     <img 
-        src="\imgs\projects\OneAndZero\O2.png" 
+        src="\imgs\projects\OneAndZero\Emo2.png" 
         alt="Image 2" 
         style="width: 200px; height: 200px; object-fit: cover; border-radius: 8px;"
     >
     <img 
-        src="\imgs\projects\OneAndZero\O3.png" 
+        src="\imgs\projects\OneAndZero\Emo3.png" 
         alt="Image 3" 
         style="width: 200px; height: 200px; object-fit: cover; border-radius: 8px;"
     >
     <img 
-        src="\imgs\projects\OneAndZero\O4.png" 
+        src="\imgs\projects\OneAndZero\Emo4.png" 
         alt="Image 3" 
         style="width: 200px; height: 200px; object-fit: cover; border-radius: 8px;"
     >
     <img 
-        src="\imgs\projects\OneAndZero\O5.png" 
+        src="\imgs\projects\OneAndZero\Emo5.png" 
         alt="Image 3" 
         style="width: 200px; height: 200px; object-fit: cover; border-radius: 8px;"
     >
