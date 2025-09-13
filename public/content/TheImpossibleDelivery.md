@@ -90,12 +90,12 @@
         <h2 style="font-size: 2rem; color: #007bff; margin-bottom:4rem;margin-left:42%;">📸 Visuals</h2>
         <div style="display: flex; gap: 1rem; justify-content: center;margin: 2rem 0;">
             <img 
-                src="\imgs\projects\Impossible\Imp2.png" 
+                src="\imgs\projects\Impossible\Imp2.jpg" 
                 alt="Image 1" 
                 style="width: 800px; height: 400px; object-fit: cover; border-radius: 8px;"
             >
             <img 
-                src="\imgs\projects\Impossible\Imp3.png" 
+                src="\imgs\projects\Impossible\Imp3.jpg" 
                 alt="Image 1" 
                 style="width: 800px; height: 400px; object-fit: cover; border-radius: 8px;"
             >

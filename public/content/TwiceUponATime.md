@@ -76,7 +76,7 @@
 <div style="display: flex; align-items: flex-start; gap: 2rem; margin: 2rem auto; max-width: 1200px;">
     <!-- Image Column (Left) -->
     <div style="flex: 1; min-width: 0; margin-top: 5rem;">
-        <img src="\imgs\projects\TUAT\TUAT5.jpg" 
+        <img src="\imgs\projects\TUAT\TUATImg.jpg" 
              alt="Featured Concept Art" 
              style="width: 100%; max-width: 500px; height: auto; border-radius: 8px; object-fit: cover;">
     </div>

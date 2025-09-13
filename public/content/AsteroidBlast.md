@@ -23,7 +23,7 @@
         <p style="margin-bottom: 4rem;">
             As an spaceship pilot, you must destroy Asteroids and enemy ships, as well as dodging some deadly lasers.. It's an endless scroller shooter where the more you stay alive and destroy obstacles or enemies, the more points you get. Things get faster as long as the game continues and that's it, it was a quick project made in 10 days just to try making that kind of game.
         </p>
-        <img src="\imgs\projects\Asteroid\A2.png" alt="Network Diagram" 
+        <img src="\imgs\projects\Asteroid\A2.jpg" alt="Network Diagram" 
              style="width: 600px; max-width: 150%; border: 1px solid #3d4450; border-radius: 4px;margin-top:3rem;margin-bottom:2rem;margin-left:25%;">
         </div>
     </div>
@@ -65,12 +65,12 @@
         <h2 style="font-size: 2rem; color: #007bff; margin-bottom:4rem;margin-left:40%;">📸 Visuals</h2>
         <div style="display: flex; gap: 1rem; justify-content: center;margin: 2rem 0;">
             <img 
-                src="\imgs\projects\Asteroid\A3.png" 
+                src="\imgs\projects\Asteroid\A3.jpg" 
                 alt="Image 1" 
                 style="width: 600px; height: 350px; object-fit: cover; border-radius: 8px;"
             >
             <img 
-                src="\imgs\projects\Asteroid\A4.png" 
+                src="\imgs\projects\Asteroid\A4.jpg" 
                 alt="Image 1" 
                 style="width: 600px; height: 350px; object-fit: cover; border-radius: 8px;"
             >
