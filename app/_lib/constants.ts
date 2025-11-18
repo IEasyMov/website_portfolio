@@ -86,7 +86,7 @@ export const portfolioProjects: ProjectProps[] = [
       id: "pacosanatomy",
       heading: "Paco's Anatomy",
       subheading: "",
-      imageUrl: "https://i.imgur.com/V31x277.png",
+      imageUrl: "/imgs/projects/ProjectLogos/Paco.png",
       techStack: [
         ""
       ],
@@ -115,7 +115,7 @@ export const portfolioProjects: ProjectProps[] = [
       id: "amerzone",
       heading: "L'Amerzone",
       subheading: "",
-      imageUrl: "https://i.imgur.com/Io11tB3.png",
+      imageUrl: "/imgs/projects/ProjectLogos/Amerzone.png",
       techStack: [
         "",
       ],
@@ -145,7 +145,7 @@ export const portfolioProjects: ProjectProps[] = [
       id: "flashback2",
       heading: "Flashback 2",
       subheading: "",
-      imageUrl: "https://i.imgur.com/o900GQr.png",
+      imageUrl: "/imgs/projects/ProjectLogos/Flashback.png",
       techStack: [
         "",
       ],
@@ -175,7 +175,7 @@ export const portfolioProjects: ProjectProps[] = [
       id: "twiceuponatime",
       heading: "Twice upon a time",
       subheading: "",
-      imageUrl: "https://i.imgur.com/Di4EeKX.png",
+      imageUrl: "/imgs/projects/ProjectLogos/Twice.png",
       techStack: [
         "",
       ],
@@ -207,7 +207,7 @@ export const portfolioProjects: ProjectProps[] = [
       id: "rokkatensei",
       heading: "Rokkatensei",
       subheading: "",
-      imageUrl: "https://i.imgur.com/Wu4V8HM.png",
+      imageUrl: "/imgs/projects/ProjectLogos/Rokka.png",
       techStack: [
         ""
       ],
@@ -238,7 +238,7 @@ export const portfolioProjects: ProjectProps[] = [
       id: "helloworld",
       heading: "Hello World",
       subheading: "",
-      imageUrl: "https://i.imgur.com/bifCBzW.png",
+      imageUrl: "/imgs/projects/ProjectLogos/Hello.png",
       techStack: [
         "",
       ],
@@ -291,13 +291,13 @@ export const portfolioProjects: ProjectProps[] = [
       videoUrl: "",
       videoGameplayUrl: "",
       // contentPath: "/content/GoingHome.md",
-      contentPath: "/content/WorkInProgress.md",
+      contentPath: "",
     },
     {
       id: "quantictactoe",
       heading: "QuanticTacToe",
       subheading: "",
-      imageUrl: "https://i.imgur.com/7NQ9qRK.png",
+      imageUrl: "/imgs/projects/Quantic/Q7.png",
       techStack: [
         ""
       ],
@@ -325,7 +325,7 @@ export const portfolioProjects: ProjectProps[] = [
       id: "workhorse",
       heading: "Workhorse",
       subheading: "",
-      imageUrl: "https://i.imgur.com/yluUW6v.png",
+      imageUrl: "/imgs/projects/ProjectLogos/Work.png",
       techStack: [
         "",
         
@@ -356,7 +356,7 @@ export const portfolioProjects: ProjectProps[] = [
       id: "alzmemory",
       heading: "AlzMemory?",
       subheading: "",
-      imageUrl: "https://i.imgur.com/oTH2nLd.png",
+      imageUrl: "/imgs/projects/Alz/AlzPP1.png",
       techStack: [
         "",
       ],
@@ -383,7 +383,7 @@ export const portfolioProjects: ProjectProps[] = [
       id: "tcmc",
       heading: "The Cryptic Mutation Conundrum",
       subheading: "",
-      imageUrl: "https://i.imgur.com/UotxMhp.png",
+      imageUrl: "/imgs/projects/ProjectLogos/Cryptic.png",
       techStack: [
         "",
       ],
@@ -414,7 +414,7 @@ export const portfolioProjects: ProjectProps[] = [
       id: "medievaltavern",
       heading: "Medieval Tavern",
       subheading: "",
-      imageUrl: "https://i.imgur.com/3dQ5sMk.png",
+      imageUrl: "/imgs/projects/ProjectLogos/Medieval.png",
       techStack: [
         ""
       ],
@@ -444,7 +444,7 @@ export const portfolioProjects: ProjectProps[] = [
       id: "percevalsjourney",
       heading: "Perceval's Journey",
       subheading: "",
-      imageUrl: "https://i.imgur.com/pwfuNg1.png",
+      imageUrl: "/imgs/projects/ProjectLogos/Perceval.png",
       techStack: [
         ""
       ],
@@ -536,7 +536,7 @@ export const portfolioGameJam: ProjectProps[] = [
     id: "boba",
     heading: "Boba",
     subheading: "",
-    imageUrl: "https://i.imgur.com/CRB5Rsv.png",
+    imageUrl: "/imgs/projects/ProjectLogos/Boba.png",
     techStack: [
       ""
     ],
@@ -566,7 +566,7 @@ export const portfolioGameJam: ProjectProps[] = [
     id: "botanicnightmare",
     heading: "Botanic Nightmare",
     subheading: "",
-    imageUrl: "https://i.imgur.com/fzgEju2.png",
+    imageUrl: "/imgs/projects/ProjectLogos/Botanic.png",
     techStack: [
       ""
     ],
@@ -595,7 +595,7 @@ export const portfolioGameJam: ProjectProps[] = [
       id: "ligtraders",
       heading: "LIG Traders",
       subheading: "",
-      imageUrl: "https://i.imgur.com/lOEjphc.png",
+      imageUrl: "/imgs/projects/ProjectLogos/Lig.png",
       techStack: [
         "",
       ],
@@ -624,7 +624,7 @@ export const portfolioGameJam: ProjectProps[] = [
       id: "serenadefortwohearts",
       heading: "Serenade for two Hearts",
       subheading: "",
-      imageUrl: "https://i.imgur.com/vMjo7F9.png",
+      imageUrl: "/imgs/projects/ProjectLogos/Serenade.png",
       techStack: [
         "",
       ],
@@ -652,7 +652,7 @@ export const portfolioGameJam: ProjectProps[] = [
     id: "urbeksagency",
     heading: "Urbeks Agency",
     subheading: "",
-    imageUrl: "https://i.imgur.com/7BEY9mg.png",
+    imageUrl: "/imgs/projects/ProjectLogos/Urbeks.png",
     techStack: [
       ""
     ],
@@ -708,7 +708,7 @@ export const portfolioGameJam: ProjectProps[] = [
     id: "deeperdungeon",
     heading: "Deeper Dungeon",
     subheading: "",
-    imageUrl: "https://i.imgur.com/pNGYbBX.png",
+    imageUrl: "/imgs/projects/ProjectLogos/Deeper.png",
     techStack: [
       ""
     ],
@@ -736,7 +736,7 @@ export const portfolioGameJam: ProjectProps[] = [
     id: "makemelaugh",
     heading: "MakeMeLaugh_Exe",
     subheading: "",
-    imageUrl: "https://i.imgur.com/UZ4BWvV.png",
+    imageUrl: "/imgs/projects/ProjectLogos/Make.png",
     techStack: [
       ""
     ],
@@ -765,7 +765,7 @@ export const portfolioGameJam: ProjectProps[] = [
     id: "cagashopper",
     heading: "Caga Shopper",
     subheading: "",
-    imageUrl: "https://i.imgur.com/Qzp4ARD.png",
+    imageUrl: "/imgs/projects/ProjectLogos/CS.png",
     techStack: [
       ""
     ],
@@ -823,7 +823,7 @@ export const portfolioGameJam: ProjectProps[] = [
     id: "spooktoons",
     heading: "SpookToons",
     subheading: "",
-    imageUrl: "https://i.imgur.com/Y5WdB6C.png",
+    imageUrl: "/imgs/projects/ProjectLogos/Spook.png",
     techStack: [
       ""
     ],
@@ -852,7 +852,7 @@ export const portfolioGameJam: ProjectProps[] = [
     id: "babbbabab",
     heading: "Babbbabab",
     subheading: "",
-    imageUrl: "https://i.imgur.com/vyj999P.png",
+    imageUrl: "/imgs/projects/ProjectLogos/Babbabbbab.png",
     techStack: [
       ""
     ],
@@ -882,7 +882,7 @@ export const portfolioGameJam: ProjectProps[] = [
     id: "clickdungeon",
     heading: "Click&Dungeon",
     subheading: "",
-    imageUrl: "https://i.imgur.com/fVMgTZj.png",
+    imageUrl: "/imgs/projects/ProjectLogos/CD.png",
     techStack: [
       ""
     ],
@@ -910,7 +910,7 @@ export const portfolioGameJam: ProjectProps[] = [
     id: "theimpossibledelivery",
     heading: "The impossible delivery",
     subheading: "",
-    imageUrl: "https://i.imgur.com/LO7Zx11.png",
+    imageUrl: "/imgs/projects/ProjectLogos/Impossible.png",
     techStack: [
       ""
     ],
@@ -938,7 +938,7 @@ export const portfolioGameJam: ProjectProps[] = [
     id: "forgotten-baggage",
     heading: "Forgotten Baggage",
     subheading: "",
-    imageUrl: "https://i.imgur.com/Ar7uMmm.png",
+    imageUrl: "/imgs/projects/ProjectLogos/Forgotten.png",
     techStack: [
         ""
       ],

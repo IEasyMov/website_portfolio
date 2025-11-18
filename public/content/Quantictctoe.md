@@ -31,7 +31,7 @@
             My Objectives were simple, I wanted to find some tweaks to add to the game we all know. Also we wanted to try some things like customization of symbols, special mechanics, maybe quests, etc...
         </p>
     </div>
-    <img src="https://i.imgur.com/LLuFo61.png" 
+    <img src="/imgs/projects/Quantic/Q5.png" 
          alt="Overview of a QuanticTacToe game" 
          style="max-width: 500px; width: 100%; height: auto; border-radius: 8px; object-fit: cover; align-self: center; margin-top: 10rem;">
 </div>
@@ -85,7 +85,7 @@
 </div>
 
 <div style="display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap; flex-direction: column; margin: 2rem 0;">
-    <img src="https://i.imgur.com/vbVwjQs.png" 
+    <img src="/imgs/projects/Quantic/Q6.png" 
              alt="Featured Concept Art" 
              style="width: 1300px; height: auto; border-radius: 8px;margin-top: 3rem;margin-left: 25rem;margin-bottom: 7rem;transform: scale(1.5);">
     <h2 id="task" style="font-size: 2rem; color: #007bff;margin-left: 4rem;">👨‍💻 What I've realized on the project</h2>
@@ -94,7 +94,7 @@
 <div style="display: flex; align-items: flex-start; gap: 2rem; margin: 2rem auto; max-width: 1200px;">
     <!-- Image Column (Left) -->
     <div style="flex: 1; min-width: 0; margin-top: 4rem;">
-        <img src="https://i.imgur.com/RWmLaNd.png" 
+        <img src="/imgs/projects/Quantic/Q2.png" 
              alt="Featured Concept Art" 
              style="width: 100%; max-width: 700px; height: auto; border-radius: 8px; object-fit: cover;margin-top: 5rem;">
     </div>
