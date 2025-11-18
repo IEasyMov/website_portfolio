@@ -24,7 +24,7 @@
         <p style="margin-bottom: 4rem;">
             You are playing as an Airport employee in the lost objects section, your objective is to give to the travelers the object they lost.
         </p>
-        <img src="\imgs\projects\Forgotten\F1.png" alt="Network Diagram" 
+        <img src="\imgs\projects\Forgotten\F1.jpg" alt="Network Diagram" 
              style="width: 600px; max-width: 150%; border: 1px solid #3d4450; border-radius: 4px;margin-top:3rem;margin-bottom:2rem;margin-left:25%;">
         </div>
     </div>
@@ -78,7 +78,7 @@
         <h2 style="font-size: 2rem; color: #007bff; margin-bottom:4rem;margin-left:40%;">📸 Visuals</h2>
         <div style="display: flex; gap: 1rem; justify-content: center;margin: 2rem 0;">
             <img 
-                src="\imgs\projects\Forgotten\F2.png" 
+                src="\imgs\projects\Forgotten\F2.jpg" 
                 alt="Image 1" 
                 style="width: 400px; height: 400px; object-fit: cover; border-radius: 8px;"
             >

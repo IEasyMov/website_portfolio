@@ -10,29 +10,29 @@
 
 </div>
 <div style="margin-left: 3.5rem;"><h2 id="pitch" style="font-size: 2rem; color: #007bff; margin-bottom: 1.5rem;">💎 Pitch</h2>
-        <p style="margin-bottom: -1rem;">Welcome to Workhorse© Inc. !</p>
+        <p style="margin-bottom: -1rem;">Welcome to Workhorse© Inc.</p>
         <p style="margin-bottom: -1rem;">We hope you find your place in our small family.</p>
-        <p style="margin-bottom: 2rem;">At Workhorse©, we thrive to provide a healthy, serene working environment, where everyone feels like they belong.</p>
+        <p style="margin-bottom: 2rem;">At Workhorse©, we strive to provide a healthy, serene working environment where everyone feels like they belong.</p>
         <p style="margin-bottom: 3rem;">Devote yourself to the company, and the company will devote itself to you.</p>
         <p style="margin-bottom: 2rem;">Clean. Print. Repeat.</p>
-        <p style="margin-bottom: 2rem;">At Workhorse©, no need for complex assignments or brain-wracking puzzles. We ensure you'll always be given the simplest tasks ! </p>
+        <p style="margin-bottom: 2rem;">At Workhorse©, no need for complex assignments or brain-wracking puzzles. We ensure you'll always be given the simplest tasks.</p>
         <p style="margin-bottom: 4rem;">Just follow the instructions.</p></div>
-
+<div style="border-top: 1px solid #5f656d;height: 1px;margin: 40px 0;margin-bottom:-2rem;margin-top:3rem;"></div>
 <!-- Main Content with Anchor -->
 <div id="introduction" style="display: flex; align-items: flex-start; gap: 2rem; margin: 2rem 0; max-width: 1200px; margin-left: auto; margin-right: auto;">
     <div style="flex: 1; padding: 0 15px; color: #fff; text-align: justify; line-height: 1.6; max-width: 600px;">
         <h2 style="font-size: 2rem; color: #007bff; margin-bottom: 4rem;">🌟 Introduction</h2>
         <p style="margin-bottom: -1rem;">
-            <i>Workhorse</i> Is a VR game with a game concept turning around the "Oppresion" theme. With the team, we wanted to create a working / office atmesphere where all your collegues are watching you.
+            <i>Workhorse</i> is a VR game built around the theme of oppression. With the team, we wanted to create a workplace atmosphere where all your colleagues are watching you.
         </p>
         <p style="margin-bottom: 4rem;">
-            You will have to do your daily tasks, print documents and clean your desk while having the feeling something's bad growing around you, all the others employees are looking directly at you, even walking toward you.
+            You’ll have to complete daily tasks, print documents, clean your desk, while feeling like something is wrong. The other employees stare at you, even walk toward you.
         </p>
         <p>
-            This project was really interesting for me, I was really looking forward working for the first time in VR. Creating the inputs and features that are more matching the human vision and touching interaction sounded fun.
+            This project was especially exciting for me, as it was my first time working in VR. Designing inputs and features that match human vision and physical interaction was fun and challenging.
         </p>
         <p>
-            Also I wanted to try creating that oppressive feeling and atmosphere around the player, with SFX and VFX. A little bit of story driven game with interactions from the player. It was very interesting to do.
+            I also wanted to experiment with creating an oppressive atmosphere using SFX and VFX. A lightly story-driven game with player interactions, it was a very interesting experience.
         </p>
     </div>
     <img src="\imgs\projects\WorkHorse\WH1.png" 
@@ -40,23 +40,27 @@
          style="max-width: 500px; width: 100%; height: auto; border-radius: 8px; object-fit: cover; align-self: center; margin-top: 10rem;">
 </div>
 
-
+<div style="border-top: 1px solid #5f656d;height: 1px;margin: 40px 0;margin-bottom:-2rem;margin-top:1rem;"></div>
 <div id="game" style="margin: 4rem auto; max-width: 1200px; padding: 0 1rem;">
     <div style="color: #fff; text-align: justify; line-height: 1.6;">
         <h2 style="font-size: 2rem; color: #007bff; margin-bottom: 1.5rem;">👾 Gameplay</h2>
         <p style="margin-bottom: 1.2rem;">
-            The gameplay of WorkHorse is really linear and narrative driven, the player spawns at his desk in the working office. He will have to complete some tasks given to him by his boss from his PC.
+            The gameplay in Workhorse is linear and narrative-driven. The player spawns at their desk in an office. Tasks are assigned by the boss via the computer.
         </p>
         <p style="margin-bottom: 1.2rem;">
-            The more the player will complete tasks, the more his collegues will watch and approach him.. Applying pressure and starting to create an anxious ambiance around the player, starting from some dizzy VFX, to some soundtracks, etc..
+            As the player completes tasks, their colleagues begin to watch and approach them, building pressure and creating an anxious atmosphere.
         </p>
         <p>
-            In the end, once the pressure is at it's apogee, the player will have two choices, either leave the building which will make him restart the day, with some tweaks that changes it slightly. 
+            This tension is amplified through dizzying VFX and unsettling soundtracks. Eventually, when the pressure reaches its peak, the player has two choices:
         </p>
         <p>
-            Or by giving his demission letter to his boss, which makes him leave that toxic environnment and actually end the game.
+            - Leave the building, which restarts the day with slight changes
         </p>
-        <h2 id="task" style="font-size: 2rem; color: #007bff;">👨‍💻 What I've realized on the project</h2>
+        <p>
+            - Submit a resignation letter to the boss, ending the game and escaping the toxic environment
+        </p>
+        <div style="border-top: 1px solid #5f656d;height: 1px;margin: 40px 0;margin-bottom:-2rem;margin-top:3rem;margin-left:-3rem;margin-right:-3rem;"></div>
+        <h2 id="task" style="font-size: 2rem; color: #007bff;">📃 What I've realized on the project</h2>
     </div>
 </div>
 
@@ -72,10 +76,10 @@
                 <div style="display: flex; flex-direction: column; gap: 20px;">
                     <span style="color:rgb(164, 208, 255); font-weight: bold; font-size: 120%">The storyboard</span>
                     <p style="margin-bottom: 1.2rem;">
-                        With the others GD's, I created on the the blackboard the whole storyline of the game. Since it's a short one it wasn't that long to make, but we wanted to have some tweaks and some repeatibility with a kinda loop gameplay.
+                        With the other Game Designers, I sketched out the full storyline on the blackboard. Even though it’s a short game, we wanted to include some twists and replayability through a loop mechanic.
                     </p>
                     <p style="margin-bottom: 2rem;">
-                        We wanted mostly the loop part, with an double and different ending, one that will restart the loop, the other one that will completly end the game as a "You've finished it".
+                        We focused on having two endings, one that restarts the loop, and one that ends the game completely with a "You've finished it" moment.
                     </p>
                 </div>
             </li>
@@ -104,7 +108,7 @@
 <div style="background:rgb(26, 26, 26);margin-top:-2.5rem;font-size:1.5rem;"><p style="text-align: center;">The collegues, getting more pressuring</p></div>
 
 
-<div style="display: flex; align-items: flex-start; gap: 2rem; margin: 2rem auto; max-width: 1200px;margin-top: 8rem;">
+<div style="display: flex; align-items: flex-start; gap: 2rem; margin: 2rem auto; max-width: 1200px;margin-top: 4rem;">
     <!-- Image Column (Left) -->
 <div style="flex: 1; padding: 0 15px; color: #fff; text-align: justify; line-height: 1.6;">
         <ul style="font-size: 120%;">
@@ -112,13 +116,13 @@
                 <div style="display: flex; flex-direction: column; gap: 20px;">
                     <span style="color:rgb(164, 208, 255); font-weight: bold; font-size: 120%">The printer</span>
                     <p style="margin-bottom: -2rem;">
-                        The printer is a really important part of the game, the player will have two different task to do on it. Printing the regular document, and printing the resignation letter.
+                        The printer is a key part of the game. The player has two tasks involving it: printing regular documents and printing the resignation letter.
                     </p>
                     <p style="margin-bottom: -1rem;">
-                        To use the printer, the player will have to bring an USB key from his desk, plug it in the printer, then put and hold his hand on the printing button until the loading bar reach the maximum (printing complete).
+                        To use it, the player must grab a USB key from their desk, plug it into the printer, and hold their hand on the print button until the loading bar fills.
                     </p>
                     <p style="margin-bottom: 1.2rem;">
-                        Of course, for the pressuring part, the more the player holds the button, the more the collegues will approach him.. applying more pressure, then once really close an really anxious song start to play to make the player feel like the center of universe, watched by everyone around in a bad way.
+                        As the player holds the button, colleagues begin to approach, increasing the pressure. Once they’re close, an intense soundtrack plays, making the player feel like the center of attention, watched by everyone in a hostile way.
                     </p>
                 </div>
             </li>
@@ -141,13 +145,13 @@
                 <div style="display: flex; flex-direction: column; gap: 20px; margin-top:10rem;">
                     <span style="color:rgb(164, 208, 255); font-weight: bold; font-size: 120%">The desk</span>
                     <p style="margin-bottom: -2rem;">
-                        The desk is the most important part of the game with the ambiance, the player will spend a lot of time on it with the different tasks.
+                        The desk is the heart of the game’s atmosphere. The player spends most of their time here completing tasks.
                     </p>
                     <p style="margin-bottom: -1rem;">
-                        On the desk is the computer where the tasks will be shown to the player. Also he'll have to sort the files and folder to find some hints on the situation and how to finish the game.
+                        It includes a computer that displays tasks, and drawers filled with props like pencils, papers, books, and paper balls.
                     </p>
                     <p style="margin-bottom: 1.2rem;">
-                        Then, there is a lot of working props, as pencils, workpapers, books, paperballs, etc.. The player will have to sort them in different drawers to complete a task.
+                        The player must sort these items to complete tasks and uncover hints about the situation and how to finish the game.
                     </p>
                 </div>
             </li>
@@ -163,13 +167,13 @@
                 <div style="display: flex; flex-direction: column; gap: 20px;">
                     <span style="color:rgb(164, 208, 255); font-weight: bold; font-size: 120%">The collegues</span>
                     <p style="margin-bottom: -2rem;">
-                        The collegues, being the main entities on the game, surrounding the player and making him feel as much uncomfortable as possible.
+                        The colleagues are the main entities in the game, surrounding the player and making them feel uncomfortable.
                     </p>
                     <p style="margin-bottom: -1rem;">
-                        The objective with the collegues, was to make the player feel like the one little new guy that just got hired, scared to do any sound with the printer, stuff he moves, when he walks, etc..
+                        Our goal was to make the player feel like the new hire, afraid to make noise with the printer, or even while walking.
                     </p>
                     <p style="margin-bottom: 1.2rem;">
-                        The more the player interact with the game and so do sound, the more the collegues will approach him.. As far as they end up being only few centimeters close from the player..
+                        The more the player interacts and makes sound, the closer the colleagues get, until they’re just centimeters away.
                     </p>
                 </div>
             </li>
@@ -179,31 +183,31 @@
         <img src="\imgs\projects\WorkHorse\WH5.png" alt="this slowpoke moves"  style="width: 100%; max-width: 500px; height: auto; border-radius: 8px; object-fit: cover;margin-top: -3rem;"/>
     </div>
 </div>  
-
+<div style="border-top: 1px solid #5f656d;height: 1px;margin: 40px 0;margin-bottom:-2rem;margin-top:3rem;"></div>
 <div id="lesson" style="display: flex; align-items: flex-start; gap: 2rem; margin: 2rem 0; max-width: 1200px; margin-left: auto; margin-right: auto;">
     <div style="color: fff; text-align: justify; line-height: 1.6;">
         <h2 style="font-size: 2rem; color: #007bff; margin-bottom: 4rem;">📌 Lessons Learned</h2>
         <div style="margin-left: 3.5rem;"><p>
-            I learnt during this project the importance of using a mix of vfx, visuals and sounds to create emotions and feelings to the player. And mostly how to use them.
+            - I learned how to use a mix of VFX, visuals and sound to create emotion and tension for the player, and how to use them effectively.
         </p>
-        <p>How to create an ambient scene narrativly driven and kinda making the players feel what we want them to feel.</p>
-        <p>All the difficult points that the VR add to a regular Video game project such as interactions, visuals, menus, texts and textures.</p></div>
+        <p>- I discovered how to build a narrative-driven ambient scene that makes players feel exactly what we want them to feel.</p>
+        <p>- I also learned about the unique challenges VR adds to game development, like interaction design, visuals, menus, text readability and texture handling.</p></div>
     </div>
 </div>
-
+<div style="border-top: 1px solid #5f656d;height: 1px;margin: 40px 0;margin-bottom:-2rem;margin-top:3rem;"></div>
 <div id="infos" style="display: flex; align-items: flex-start; gap: 2rem; margin: 2rem 0; max-width: 1200px; margin-left: auto; margin-right: auto;">
     <div style="color: fff; text-align: justify; line-height: 1.6;">
         <h2 style="font-size: 2rem; color: #007bff; margin-bottom: 4rem;">⚡ Quick infos</h2>
         <div style="margin-left: 3.5rem;">
         <p style="margin-bottom: 2rem;">
-            Project made in 2 weeks on Unreal Engine 5
+            Project made in 2 weeks using Unreal Engine 5.
         </p>
-        <p style="margin-bottom: 1rem;">The team :</p>
-        <p style="margin-bottom: 0rem;">- Programmers : Clément Bostyn, Alexis Le Bourhis and Santino Romero</p>
-        <p style="margin-bottom: 0rem;">- Designers : Scotty Fermin, Thomas Florent, Virgile Vazeille and Me</p>
-        <p style="margin-bottom: 0rem;">- Artists : Paul Averous, Nathalie Pahmer and Aida Menheim</p>
-        <p style="margin-bottom: 3rem;">- Producer : Anna Samoilenko & Alessandro Santarelli</p>
-        <p style="margin-bottom: 2rem;">The game is playable and available on the Itch.io page below</p>
+        <p style="margin-bottom: 1rem;"><b>The team:</b></p>
+        <p style="margin-bottom: 0rem;">- <b>Programmers:</b> Clément Bostyn, Alexis Le Bourhis and Santino Romero</p>
+        <p style="margin-bottom: 0rem;">- <b>Designers:</b> Scotty Fermin, Thomas Florent, Virgile Vazeille and Me</p>
+        <p style="margin-bottom: 0rem;">- <b>Artists:</b> Paul Averous, Nathalie Pahmer and Aida Menheim</p>
+        <p style="margin-bottom: 3rem;">- <b>Producer:</b> Anna Samoilenko & Alessandro Santarelli</p>
+        <p style="margin-bottom: 2rem;">The game is playable and available on the Itch.io page <a href="https://alessandro-santarelli.itch.io/workhorse" style="color: #007bff;" target="_blank">here</a>!</p>
         </div>
     </div>
 </div>

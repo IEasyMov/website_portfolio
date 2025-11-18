@@ -25,7 +25,7 @@
         <p style="margin-bottom: 4rem; max-width:800px;margin-left:12rem;">
             Botanic Nightmare is a little solo survival defense game where you have to explore an abandonned factory, using seeds to create mutant plants and defeat the agressive robots that will chase and attack you.
         </p>
-        <img src="\imgs\projects\Botanic\B1.png" alt="Network Diagram" 
+        <img src="\imgs\projects\Botanic\B1Img.jpg" alt="Network Diagram" 
              style="width: 600px; max-width: 150%; border: 1px solid #3d4450; border-radius: 4px;margin-top:1rem;margin-bottom:2rem;margin-left:25%;">
         </div>
     </div>
@@ -37,7 +37,7 @@
     <div style="color: #fff; text-align: justify; line-height: 1.6;">
     <div style="border-top: 1px solid #5f656d;height: 1px;margin: 40px 0;margin-left:25rem;margin-right:25rem;"></div>
         <h2 style="font-size: 2rem; color: #007bff; margin-bottom:3rem;margin-left:40%;">⏱️ Jam Details</h2>
-        <div style="margin-bottom: 1.2rem;margin-top:2rem;margin-left:32%;">
+        <div style="margin-bottom: 1.2rem;margin-top:2rem;margin-left:40%;">
         <p style="margin-bottom: 1.2rem;">
             <b>Jam name: </b>CStudio Jam 2024
         </p>
@@ -62,16 +62,16 @@
     <div style="flex: 1; max-width: 900px;margin-left:6rem;">
         <span style="color:rgb(164, 208, 255); font-weight: bold;  font-size: 120%;margin-left:36%;font-size: 1.75rem;">The living machines</span>
                 <p style="margin-bottom: 1.2rem;text-align: center;margin-top:2rem;">
-                    You start in a safe room, and as soon as you leave it you will find a seed, a watering can and a little pad of soil.. You'll have to pickup the seed and place it on the soil, then pickup the watering can and water your seed.. 
+                    You start in a safe room. As soon as you leave it, you’ll find a seed, a watering can, and a small patch of soil.
                 </p>
                 <p style="text-align: center;">
-                    After a few seconds it'll grow into a little plant that you can pickup and throw, it'll reach a little distance then create a plant.
+                    Pick up the seed and place it on the soil, then grab the watering can and water it. After a few seconds, it grows into a small plant that you can pick up and throw. It will land a short distance away and sprout into a new plant.
                 </p>
                 <p style="text-align: center;">
-                    There are different seeds, each ones has a different utilisation and plant once grown up, use them wisely.. Some open doors, others slow enemies and some attack ennemies !
+                    There are different types of seeds, each with a unique use and plant effect once grown. Use them wisely, some open doors, others slow down enemies, and some even attack them.
                 </p>
                 <p style="text-align: center;">
-                    Your final objectif is to use the Key Seeds to grow up keys and open doors, unlock more areas, kill the robots and reach the exit of the factory to finally escape.
+                    Your final objective is to use Key Seeds to grow keys, unlock new areas, defeat the robots, and reach the exit of the factory to escape.
                 </p>
                 </div>
             </div>
@@ -86,7 +86,7 @@
         <h2 style="font-size: 2rem; color: #007bff; margin-bottom:4rem;margin-left:42%;">📸 Visuals</h2>
         <div style="display: flex; gap: 1rem; justify-content: center;margin: 2rem 0;">
             <img 
-                src="\imgs\projects\Botanic\B2.png" 
+                src="\imgs\projects\Botanic\B2Img.jpg" 
                 alt="Image 1" 
                 style="width: 600px; height: 300px; object-fit: cover; border-radius: 8px;"
             >
@@ -100,16 +100,16 @@
         <h2 style="font-size: 2rem; color: #007bff; margin-bottom:4rem;margin-left:32%;">🛠️ My Contribution</h2>
         <div style="margin-left:2rem;">
         <p style="margin-bottom: 1.2rem;">
-            - <b>Game Design</b> (Objective of the game, how to use the plants, how the robots work, how to win and lose)
+            - <b>Game Design</b> (Defined the game’s objectives, plant mechanics, robot behavior, and win/lose conditions)
         </p>
         <p style="margin-bottom: 1.2rem;">
-            - <b>UX/UI</b> (Inventory and health of the player)
+            - <b>UX/UI</b> (Designed the inventory and player health system)
         </p>
         <p style="margin-bottom: 1.2rem;">
-            - <b>Programmation</b> (Planting, watering and harvesting the plants, robots behaviors, doors, distributors and spawners)
+            - <b>Programmation</b> (Implemented planting, watering, and harvesting mechanics, robot AI, doors, item distributors, and spawners)
         </p>
         <p style="margin-bottom: 1.2rem;">
-            - <b>Art</b> (Most of the art were made with AI generation)
+            - <b>Art</b> (Most of the visual assets were created using AI-generated images)
         </p>
         </div>
     </div>
@@ -121,10 +121,13 @@
         <h2 style="font-size: 2rem; color: #007bff; margin-bottom:3.5rem;margin-top:4rem;margin-left:38%;">💡 Lesson Learned</h2>
         <div style="max-width: 800px;text-align: center;margin-left:16%;">
         <p>
-            Need a great knowledge of AI for generating proper images that fits the style of the others + the game + what I actually want, and in a short period of time it's not optimal to learn that.
+            I realized how important it is to understand AI tools when generating images that match the game’s style and vision, and that learning this under time pressure isn’t ideal
         </p>
         <p>
-            Once again, as for each Game Jam I made in solo, it's always a super challenge to have to learn a new kind of game and how to make them in Design AND Prog, I love it.
+            As with every solo Game Jam I’ve done, it’s always a huge challenge to learn a new genre and build it from scratch in both design and programming
+        </p>
+        <p>
+            I love the intensity of it, pushing myself to explore new mechanics and make them work in a short time frame is always rewarding
         </p>
         </div>
     </div>

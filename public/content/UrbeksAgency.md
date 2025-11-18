@@ -114,7 +114,7 @@
                 style="width: 800px; height: 400px; object-fit: cover; border-radius: 8px;"
             >
             <img 
-                src="\imgs\projects\Urbeks\U3.png" 
+                src="\imgs\projects\Urbeks\U3.jpg" 
                 alt="Image 1" 
                 style="width: 800px; height: 400px; object-fit: cover; border-radius: 8px;"
             >

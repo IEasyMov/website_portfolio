@@ -24,7 +24,7 @@
         <p style="margin-bottom: 4rem;">
             Click on the dongeons to kill the bosses, earn gold and upgrade the dungeon to make the boss killed faster and automatic ! By earning gold you will also unlock new dongeons at a maximum of 10 different dongeons. Upgrading the dongeons will unlock new upgrades to multiply the gold earned. 
         </p>
-        <img src="\imgs\projects\ClickADungeon\CAD3.png" alt="Network Diagram" 
+        <img src="\imgs\projects\ClickADungeon\CAD3.jpg" alt="Network Diagram" 
              style="width: 600px; max-width: 150%; border: 1px solid #3d4450; border-radius: 4px;margin-top:3rem;margin-bottom:2rem;margin-left:25%;">
         </div>
     </div>
@@ -81,12 +81,12 @@
         <h2 style="font-size: 2rem; color: #007bff; margin-bottom:4rem;margin-left:42%;">📸 Visuals</h2>
         <div style="display: flex; gap: 1rem; justify-content: center;margin: 2rem 0;">
             <img 
-                src="\imgs\projects\ClickADungeon\CAD1.png" 
+                src="\imgs\projects\ClickADungeon\CAD1.jpg" 
                 alt="Image 1" 
                 style="width: 800px; height: 400px; object-fit: cover; border-radius: 8px;"
             >
             <img 
-                src="\imgs\projects\ClickADungeon\CAD2.png" 
+                src="\imgs\projects\ClickADungeon\CAD2.jpg" 
                 alt="Image 1" 
                 style="width: 800px; height: 400px; object-fit: cover; border-radius: 8px;"
             >
