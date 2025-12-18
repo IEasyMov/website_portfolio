@@ -138,7 +138,7 @@ const HeroSection = () => {
 
   // Défilement automatique
   useEffect(() => {
-    const interval = setInterval(goToNextPanel, 10000);
+    const interval = setInterval(goToNextPanel, 20000);
     return () => clearInterval(interval);
   }, []);
 

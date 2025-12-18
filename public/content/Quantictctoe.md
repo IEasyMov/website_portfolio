@@ -146,7 +146,7 @@
         </ul>
     </div>
     <div style="flex: 1; min-width: 0; margin-top: 12rem;">
-        <img src="/imgs/projects/Quantic/QTT_LobbyMenu.Gif" alt="this slowpoke moves"  style="width: 100%; max-width: 500px; height: auto; border-radius: 8px; object-fit: cover;margin-top: 4rem;"/>
+        <img src="/imgs/projects/Quantic/QTT_LobbyMenu.gif" alt="this slowpoke moves"  style="width: 100%; max-width: 500px; height: auto; border-radius: 8px; object-fit: cover;margin-top: 4rem;"/>
     </div>
 </div>
 
