@@ -35,7 +35,7 @@
             I also wanted to experiment with creating an oppressive atmosphere using SFX and VFX. A lightly story-driven game with player interactions, it was a very interesting experience.
         </p>
     </div>
-    <img src="\imgs\projects\WorkHorse\WH1.png" 
+    <img src="/imgs/projects/WorkHorse/WH1.png" 
          alt="Featured Concept Art" 
          style="max-width: 500px; width: 100%; height: auto; border-radius: 8px; object-fit: cover; align-self: center; margin-top: 10rem;">
 </div>
@@ -66,7 +66,7 @@
 
 <div style="display: flex; align-items: flex-start; gap: 2rem; margin: 2rem auto; max-width: 1200px;">
     <div style="flex: 1; min-width: 0; margin-top: 1rem;">
-        <img src="\imgs\projects\WorkHorse\WH4.jpg" 
+        <img src="/imgs/projects/WorkHorse/WH4.jpg" 
              alt="Featured Concept Art" 
              style="width: 100%; max-width: 500px; height: auto; border-radius: 8px; object-fit: cover;">
     </div>
@@ -90,17 +90,17 @@
 
 <div style="display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap; margin: 2rem 0;background:rgb(26, 26, 26);">
     <img 
-        src="\imgs\projects\WorkHorse\WHG1.gif" 
+        src="/imgs/projects/WorkHorse/WHG1.gif" 
         alt="Image 1" 
         style="width: 100px; height: auto; object-fit: cover; border-radius: 8px; margin-top: 3rem;"
     >
     <img 
-        src="\imgs\projects\WorkHorse\WHG2.gif" 
+        src="/imgs/projects/WorkHorse/WHG2.gif" 
         alt="Image 2" 
         style="width: 100px; height: auto; object-fit: cover; border-radius: 8px;"
     >
     <img 
-        src="\imgs\projects\WorkHorse\WHG3.gif" 
+        src="/imgs/projects/WorkHorse/WHG3.gif" 
         alt="Image 3" 
         style="width: 100px; height: auto; object-fit: cover; border-radius: 8px;margin-top: 3rem;"
     >
@@ -129,15 +129,15 @@
         </ul>
     </div>
     <div style="flex: 1; min-width: 0; margin-top: 4rem;">
-        <img src="\imgs\projects\WorkHorse\WH3.png" alt="this slowpoke moves"  style="width: 100%; max-width: 500px; height: auto; border-radius: 8px; object-fit: cover;margin-top: 6rem;"/>
+        <img src="/imgs/projects/WorkHorse/WH3.png" alt="this slowpoke moves"  style="width: 100%; max-width: 500px; height: auto; border-radius: 8px; object-fit: cover;margin-top: 6rem;"/>
     </div>
 </div>  
 
 <div style="display: flex; align-items: flex-start; gap: 2rem; margin: 2rem auto; max-width: 1200px;">
     <!-- Image Column (Left) -->
     <div style="flex: 1; min-width: 0; margin-top: 4rem;">
-        <img src="\imgs\projects\WorkHorse\WH1.png" alt="this slowpoke moves"  style="width: 100%; max-width: 500px; height: auto; border-radius: 8px; object-fit: cover;"/>
-        <img src="\imgs\projects\WorkHorse\WH2.png" alt="this slowpoke moves"  style="width: 100%; max-width: 500px; height: auto; border-radius: 8px; object-fit: cover;margin-top: 1rem;"/>
+        <img src="/imgs/projects/WorkHorse/WH1.png" alt="this slowpoke moves"  style="width: 100%; max-width: 500px; height: auto; border-radius: 8px; object-fit: cover;"/>
+        <img src="/imgs/projects/WorkHorse/WH2.png" alt="this slowpoke moves"  style="width: 100%; max-width: 500px; height: auto; border-radius: 8px; object-fit: cover;margin-top: 1rem;"/>
     </div>
 <div style="flex: 1; padding: 0 15px; color: #fff; text-align: justify; line-height: 1.6;">
         <ul style="font-size: 120%;">
@@ -180,7 +180,7 @@
         </ul>
     </div>
     <div style="flex: 1; min-width: 0; margin-top: 4rem;">
-        <img src="\imgs\projects\WorkHorse\WH5.png" alt="this slowpoke moves"  style="width: 100%; max-width: 500px; height: auto; border-radius: 8px; object-fit: cover;margin-top: -3rem;"/>
+        <img src="/imgs/projects/WorkHorse/WH5.png" alt="this slowpoke moves"  style="width: 100%; max-width: 500px; height: auto; border-radius: 8px; object-fit: cover;margin-top: -3rem;"/>
     </div>
 </div>  
 <div style="border-top: 1px solid #5f656d;height: 1px;margin: 40px 0;margin-bottom:-2rem;margin-top:3rem;"></div>

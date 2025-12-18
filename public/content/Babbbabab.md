@@ -24,7 +24,7 @@
         <p style="margin-bottom: 4rem;">
             A card on the table, the devil lays down his, your time to lay down yours. Knowing the devil's card already and with your card hidden up your sleeve, divert the devil's attention so that you can change your card to give yourself the best possible chance, but be careful not to get caught trying to con the devil, otherwise you're sure to die! The first one between you and the devil to reach 15 points wins the game ... and his life ?
         </p>
-        <img src="\imgs\projects\Babbbabab\B1.png" alt="Network Diagram" 
+        <img src="/imgs/projects/Babbbabab/B1.png" alt="Network Diagram" 
              style="width: 600px; max-width: 150%; border: 1px solid #3d4450; border-radius: 4px;margin-top:3rem;margin-bottom:2rem;margin-left:25%;">
         </div>
     </div>
@@ -95,12 +95,12 @@
         <h2 style="font-size: 2rem; color: #007bff; margin-bottom:4rem;margin-left:42%;">📸 Visuals</h2>
         <div style="display: flex; gap: 1rem; justify-content: center;margin: 2rem 0;">
             <img 
-                src="\imgs\projects\Babbbabab\B2.png" 
+                src="/imgs/projects/Babbbabab/B2.png" 
                 alt="Image 1" 
                 style="width: 800px; height: 400px; object-fit: cover; border-radius: 8px;"
             >
             <img 
-                src="\imgs\projects\Babbbabab\B3.png" 
+                src="/imgs/projects/Babbbabab/B3.png" 
                 alt="Image 1" 
                 style="width: 800px; height: 400px; object-fit: cover; border-radius: 8px;"
             >

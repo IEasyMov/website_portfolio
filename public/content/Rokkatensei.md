@@ -37,7 +37,7 @@
             My goal for this project was to learn more about the turn-based genre, and how to design a game that’s easy and intuitive to play with fingers on a phone. It was really interesting to figure out how to reduce buttons, UI and keybinds compared to PC or console games.
         </p>
     </div>
-    <img src="\imgs\projects\Rokkatensei\RK1.png" 
+    <img src="/imgs/projects/Rokkatensei/RK1.png" 
          alt="Featured Concept Art" 
          style="max-width: 500px; width: 100%; height: auto; border-radius: 8px; object-fit: cover; align-self: center; margin-top: 10rem;">
 </div>
@@ -60,7 +60,7 @@
 <div style="display: flex; align-items: flex-start; gap: 2rem; margin: 2rem auto; max-width: 1200px;">
     <!-- Image Column (Left) -->
     <div style="flex: 1; min-width: 0; margin-top: 5rem;">
-        <img src="\imgs\projects\Rokkatensei\RK15.png" 
+        <img src="/imgs/projects/Rokkatensei/RK15.png" 
              alt="Featured Concept Art" 
              style="width: 100%; max-width: 600px; height: auto; border-radius: 8px; object-fit: cover;">
     </div>
@@ -85,22 +85,22 @@
 </div>
 <div style="display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap; margin: 2rem 0;">
     <img 
-        src="\imgs\projects\Rokkatensei\RK7.png" 
+        src="/imgs/projects/Rokkatensei/RK7.png" 
         alt="Image 1" 
         style="width: 200px; height: 300px; object-fit: cover; border-radius: 8px;"
     >
     <img 
-        src="\imgs\projects\Rokkatensei\RK8.png" 
+        src="/imgs/projects/Rokkatensei/RK8.png" 
         alt="Image 2" 
         style="width: 200px; height: 300px; object-fit: cover; border-radius: 8px;"
     >
     <img 
-        src="\imgs\projects\Rokkatensei\RK9.png" 
+        src="/imgs/projects/Rokkatensei/RK9.png" 
         alt="Image 3" 
         style="width: 200px; height: 300px; object-fit: cover; border-radius: 8px;"
     >
     <img 
-        src="\imgs\projects\Rokkatensei\RK10.png" 
+        src="/imgs/projects/Rokkatensei/RK10.png" 
         alt="Image 3" 
         style="width: 200px; height: 300px; object-fit: cover; border-radius: 8px;"
     >
@@ -139,32 +139,32 @@
         </ul>
     </div>
     <div style="flex: 1; min-width: 0; margin-top: 4rem;">
-        <img src="\imgs\projects\Rokkatensei\RK11.png" alt="this slowpoke moves"  style="width: 100%; max-width: 200px; height: auto; border-radius: 8px; object-fit: cover;margin-top: 4rem;"/>
-        <img src="\imgs\projects\Rokkatensei\RK12.png" alt="this slowpoke moves"  style="width: 100%; max-width: 200px; height: auto; border-radius: 8px; object-fit: cover;margin-top: 14rem;"/>
-        <img src="\imgs\projects\Rokkatensei\RK13.png" alt="Featured Concept Art" style="width: 100%; max-width: 200px; height: auto; border-radius: 8px; object-fit: cover;margin-top: 10rem;"/>
-        <img src="\imgs\projects\Rokkatensei\RK14.png" alt="Featured Concept Art" style="width: 100%; max-width: 200px; height: auto; border-radius: 8px; object-fit: cover;margin-top: 10rem;"/>
+        <img src="/imgs/projects/Rokkatensei/RK11.png" alt="this slowpoke moves"  style="width: 100%; max-width: 200px; height: auto; border-radius: 8px; object-fit: cover;margin-top: 4rem;"/>
+        <img src="/imgs/projects/Rokkatensei/RK12.png" alt="this slowpoke moves"  style="width: 100%; max-width: 200px; height: auto; border-radius: 8px; object-fit: cover;margin-top: 14rem;"/>
+        <img src="/imgs/projects/Rokkatensei/RK13.png" alt="Featured Concept Art" style="width: 100%; max-width: 200px; height: auto; border-radius: 8px; object-fit: cover;margin-top: 10rem;"/>
+        <img src="/imgs/projects/Rokkatensei/RK14.png" alt="Featured Concept Art" style="width: 100%; max-width: 200px; height: auto; border-radius: 8px; object-fit: cover;margin-top: 10rem;"/>
     </div>
 </div>  
 
 <div style="display: flex; align-items: flex-start; gap: 2rem; margin: 2rem auto; max-width: 1200px;margin-top:-3rem;">
     <!-- Image Column (Left) -->
     <div style="flex: 1; min-width: 0; margin-top: 4rem;">
-        <img src="\imgs\projects\Rokkatensei\RK2.png" 
+        <img src="/imgs/projects/Rokkatensei/RK2.png" 
              alt="Featured Concept Art" 
              style="width: 100%; max-width: 150px; height: auto; border-radius: 8px; object-fit: cover;">
-             <img src="\imgs\projects\Rokkatensei\RK3.png" 
+             <img src="/imgs/projects/Rokkatensei/RK3.png" 
              alt="Featured Concept Art" 
              style="width: 100%; max-width: 150px; height: auto; border-radius: 8px; object-fit: cover;">
-             <img src="\imgs\projects\Rokkatensei\RK4.png" 
+             <img src="/imgs/projects/Rokkatensei/RK4.png" 
              alt="Featured Concept Art" 
              style="width: 100%; max-width: 150px; height: auto; border-radius: 8px; object-fit: cover;">
-             <img src="\imgs\projects\Rokkatensei\RK5.png" 
+             <img src="/imgs/projects/Rokkatensei/RK5.png" 
              alt="Featured Concept Art" 
              style="width: 100%; max-width: 150px; height: auto; border-radius: 8px; object-fit: cover;">
-             <img src="\imgs\projects\Rokkatensei\RK18.png" 
+             <img src="/imgs/projects/Rokkatensei/RK18.png" 
              alt="Featured Concept Art" 
              style="width: 100%; max-width: 150px; height: auto; border-radius: 8px; object-fit: cover;">
-             <img src="\imgs\projects\Rokkatensei\RK19.png" 
+             <img src="/imgs/projects/Rokkatensei/RK19.png" 
              alt="Featured Concept Art" 
              style="width: 100%; max-width: 150px; height: auto; border-radius: 8px; object-fit: cover;">
     </div>

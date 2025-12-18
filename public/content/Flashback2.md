@@ -32,7 +32,7 @@
             I had the chance to participate in the production of Patch 3 after the game's launch on Steam. The patch was a major rework, fixing many issues, bugs and features that were blocking the fun of the game.
         </p>
     </div>
-    <img src="\imgs\projects\Flashback2\FB1.png" 
+    <img src="/imgs/projects/Flashback2/FB1.png" 
          alt="Featured Concept Art" 
          style="max-width: 500px; width: 100%; height: auto; border-radius: 8px; object-fit: cover; align-self: center; margin-top: 10rem;">
 </div>
@@ -58,13 +58,13 @@
 <div style="display: flex; align-items: flex-start; gap: 2rem; margin: 2rem auto; max-width: 1200px;">
     <!-- Image Column (Left) -->
     <div style="flex: 1; min-width: 0; margin-top: 4rem;">
-        <img src="\imgs\projects\Flashback2\FB2.png" 
+        <img src="/imgs/projects/Flashback2/FB2.png" 
              alt="Featured Concept Art" 
              style="width: 100%; max-width: 500px; height: auto; border-radius: 8px; object-fit: cover;margin-top: 2rem;">
-             <img src="\imgs\projects\Flashback2\FB9.png" 
+             <img src="/imgs/projects/Flashback2/FB9.png" 
              alt="Featured Concept Art" 
              style="width: 100%; max-width: 500px; height: auto; border-radius: 8px; object-fit: cover;margin-top: 3rem;">
-             <img src="\imgs\projects\Flashback2\FB10.png" 
+             <img src="/imgs/projects/Flashback2/FB10.png" 
              alt="Featured Concept Art" 
              style="width: 100%; max-width: 500px; height: auto; border-radius: 8px; object-fit: cover;margin-top: 3rem;">
     </div>
@@ -100,27 +100,27 @@
 <p style="font-size:2.5rem;text-align: center;">Main Characters</p>
 <div style="display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap; margin: 2rem 0;">
     <img 
-        src="\imgs\projects\Flashback2\FB4.png" 
+        src="/imgs/projects/Flashback2/FB4.png" 
         alt="Image 1" 
         style="width: auto; height: 250px; object-fit: cover; border-radius: 8px;"
     >
     <img 
-        src="\imgs\projects\Flashback2\FB5.png" 
+        src="/imgs/projects/Flashback2/FB5.png" 
         alt="Image 2" 
         style="width: auto; height: 250px; object-fit: cover; border-radius: 8px;"
     >
     <img 
-        src="\imgs\projects\Flashback2\FB6.png" 
+        src="/imgs/projects/Flashback2/FB6.png" 
         alt="Image 3" 
         style="width: auto; height: 250px; object-fit: cover; border-radius: 8px;"
     >
     <img 
-        src="\imgs\projects\Flashback2\FB7.png" 
+        src="/imgs/projects/Flashback2/FB7.png" 
         alt="Image 3" 
         style="width: auto; height: 250px; object-fit: cover; border-radius: 8px;"
     >
     <img 
-        src="\imgs\projects\Flashback2\FB8.png" 
+        src="/imgs/projects/Flashback2/FB8.png" 
         alt="Image 3" 
         style="width: auto; height: 250px; object-fit: cover; border-radius: 8px;"
     >
@@ -157,8 +157,8 @@
         </ul>
     </div>
     <div style="flex: 1; min-width: 0; margin-top: 4rem;">
-        <img src="\imgs\projects\Flashback2\FB1.png" alt="this slowpoke moves"  style="width: 100%; max-width: 500px; height: auto; border-radius: 8px; object-fit: cover;margin-top: 2rem;"/>
-        <img src="\imgs\projects\Flashback2\FB3.png" alt="this slowpoke moves"  style="width: 100%; max-width: 500px; height: auto; border-radius: 8px; object-fit: cover;margin-top: 4rem;"/>
+        <img src="/imgs/projects/Flashback2/FB1.png" alt="this slowpoke moves"  style="width: 100%; max-width: 500px; height: auto; border-radius: 8px; object-fit: cover;margin-top: 2rem;"/>
+        <img src="/imgs/projects/Flashback2/FB3.png" alt="this slowpoke moves"  style="width: 100%; max-width: 500px; height: auto; border-radius: 8px; object-fit: cover;margin-top: 4rem;"/>
     </div>
 </div>  
 <div style="border-top: 1px solid #5f656d;height: 1px;margin: 40px 0;margin-bottom:-1rem;margin-top:3rem;"></div>

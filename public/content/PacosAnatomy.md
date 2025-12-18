@@ -32,7 +32,7 @@
             This project was very particular because it was a physical game, and also part of the Alternative Controller category..
         </p>
     </div>
-    <img src="\imgs\projects\Paco\Paco3.png" alt="Paco at the GDC" 
+    <img src="/imgs/projects/Paco/Paco3.png" alt="Paco at the GDC" 
              style="width: 600px; max-width: 150%; border: 1px solid #3d4450; border-radius: 4px; margin-top: 9.5rem;">
 </div>
 
@@ -98,7 +98,7 @@
                 </p>
     </div>
     <div style="flex-shrink: 0;">
-        <img src="\imgs\projects\Paco\PacoImg.jpg" alt="Main page of presentation" 
+        <img src="/imgs/projects/Paco/PacoImg.jpg" alt="Main page of presentation" 
              style="width: 600px; max-width: 150%; border: 1px solid #3d4450; border-radius: 4px; margin-top: 13rem;">
              <p>
             <i>Main page of the powerpoint presentation</i>
@@ -125,7 +125,7 @@
         <ul style="font-size: 120%;">
         <div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 20px;">
         <div style="flex-shrink: 0;">
-        <img src="\imgs\projects\Paco\PacoHeart.gif" alt="Gif of the heart mini game" 
+        <img src="/imgs/projects/Paco/PacoHeart.gif" alt="Gif of the heart mini game" 
              style="width: 550px; max-width: 150%; border: 1px solid #3d4450; border-radius: 4px; margin-top: 4rem;">
     </div>
     <div style="flex: 1; min-width: 0;">
@@ -146,14 +146,14 @@
         <p style="margin-bottom: -1rem;">The mini-game itself is simple. You have to pull the lungs to fill up Paco’s oxygen gauge (3 gauges, one for each lung). Once they’re all filled, the mini-game is complete.</p>
     </div>
     <div style="flex-shrink: 0;">
-        <img src="\imgs\projects\Paco\PacoLungs.gif" alt="Gif of the heart mini game" 
+        <img src="/imgs/projects/Paco/PacoLungs.gif" alt="Gif of the heart mini game" 
              style="width: 550px; max-width: 150%; border: 1px solid #3d4450; border-radius: 4px; margin-top: 7rem;margin-left: 2rem;">
     </div> 
 </div>
 
 <div style="display: flex; align-items: center; margin: 2rem 0;">
     <div style="flex-shrink: 0;">
-        <img src="\imgs\projects\Paco\PacoBrain.gif" alt="Gif of the heart mini game" 
+        <img src="/imgs/projects/Paco/PacoBrain.gif" alt="Gif of the heart mini game" 
              style="width: 550px; max-width: 150%; border: 1px solid #3d4450; border-radius: 4px; margin-top: 6rem;margin-right: 2.5rem;">
     </div>
     <div style="flex: 1; min-width: 0;">

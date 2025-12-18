@@ -61,11 +61,12 @@ const HeroSection = () => {
   const publishedGames = [
     {
       id: 0,
+      title: "Flashback 2",
       mainImage: "/imgs/Published/Flashback/Logo.PNG",
       videoUrl: "https://www.youtube.com/embed/3Qze73xgXn4?autoplay=1&mute=1&controls=1",
       videoImage: "/imgs/Published/Flashback/Banner.PNG",
       priceImage: "/imgs/Published/Flashback/Price.PNG",
-      storeUrl: "https://store.steampowered.com/app/1234567", // ← AJOUTE ICI
+      storeUrl: "https://store.steampowered.com/app/2008420/Flashback_2/", // ← AJOUTE ICI
 
       contributions: [
         "Documentation of Game Features and new changes",
@@ -74,7 +75,7 @@ const HeroSection = () => {
         "Documented features, progress and fixes for internal stakeholders",
         "Produced dev log for updates"
       ],
-      developer: "Microids Studio Pariss",
+      developer: "Microids Studio Paris",
       publisher: "Microids",
       platform: "Pc & Console",
       tags: ["Action", "Adventure", "Arcade", "2.5D", "Futuristic", "Retro"],
@@ -82,43 +83,25 @@ const HeroSection = () => {
     },
     {
       id: 1,
-      title: "PROJET 2",
-      mainImage: "/imgs/Panels/ScreenED3.PNG", // À remplacer par tes images
-      bottomImage: "/imgs/Panels/ScreenED4.PNG",
-      videoUrl: "https://www.youtube.com/embed/VIDEO_ID_2", // À remplacer
-      videoImage: "/imgs/Panels/ScreenLD1.PNG",
-      finalImage: "/imgs/Panels/ScreenLD3.PNG",
+      title: "L'Amerzone",
+      mainImage: "/imgs/Published/Amerzone/Logo2.PNG",
+      videoUrl: "https://www.youtube.com/embed/I-Ch7cODZ14?autoplay=1&mute=1&controls=1",
+      videoImage: "/imgs/Published/Amerzone/Banner.PNG",
+      priceImage: "/imgs/Published/Flashback/Price.PNG",
+      storeUrl: "https://store.steampowered.com/app/2429190/LAmerzone__Le_Testament_de_lExplorateur/", // ← AJOUTE ICI
+
       contributions: [
-        "Contribution 1 du projet 2",
-        "Contribution 2 du projet 2",
-        "Contribution 3 du projet 2"
+        "Documentation and listing of the game objects and interactibles",
+        "Redaction of documents for game narrative coherence",
+        "Playtesting and reporting bugs during the playthrough",
+        "Assistance of the Lead Game Designer during a part of the production",
+        "Writting feedback documents showing how players feels the game"
       ],
-      developer: "Studio Name",
-      publisher: "Publisher Name",
-      tags: ["RPG", "Fantasy", "Open World"],
-      description: "Description du deuxième jeu publié.",
-      price: "29.99€",
-      projectContribution: "Contribution détaillée pour le deuxième projet."
-    },
-    {
-      id: 2,
-      title: "PROJET 3",
-      mainImage: "imgs/Panels/ScreenLD5.PNG", // À remplacer par tes images
-      bottomImage: "imgs/Panels/ScreenGD1.PNG",
-      videoUrl: "https://www.youtube.com/embed/VIDEO_ID_3", // À remplacer
-      videoImage: "imgs/Panels/ScreenGD2.PNG",
-      finalImage: "imgs/Panels/ScreenGD3.PNG",
-      contributions: [
-        "Contribution 1 du projet 3",
-        "Contribution 2 du projet 3",
-        "Contribution 3 du projet 3"
-      ],
-      developer: "Studio Name 2",
-      publisher: "Publisher Name 2",
-      tags: ["Strategy", "Simulation", "Management"],
-      description: "Description du troisième jeu publié.",
-      price: "24.99€",
-      projectContribution: "Contribution détaillée pour le troisième projet."
+      developer: "Microids Studio Paris",
+      publisher: "Microids",
+      platform: "Pc & Console",
+      tags: ["Adventure", "Puzzle", "Fictive Interaction", "Atmospheric", "Investigation"],
+      steamDescription: "Set off on a quest for the Great White Birds in a mysterious land full of secrets! Answer the call of exploration as you travel to Amerzone, a forgotten Latin American country, to fulfill the last wishes of a late explorer."
     }
   ];
 
@@ -197,9 +180,9 @@ const HeroSection = () => {
 
           {/* Buttons */}
           <div className="flex flex-col sm:flex-row items-center gap-8">
-            <ShinyButton icon={<ChevronRight />}>
+            {/* <ShinyButton icon={<ChevronRight />}>
               <Link href="/#work">See My Work</Link>
-            </ShinyButton>
+            </ShinyButton> */}
             <a
               href="/resume/Foussat_Alexandre_Resume.pdf"
               download
@@ -207,7 +190,7 @@ const HeroSection = () => {
             >
               <Download className="text-primary" />
               <span className="group-hover:text-white/70 transition-colors duration-200 font-semibold">
-                Download CV
+                Download my Resume
               </span>
             </a>
           </div>
@@ -215,9 +198,9 @@ const HeroSection = () => {
       </div>
 
       {/* Published Games Carousel */}
-      <section className="w-full py-16 md:py-24 bg-gradient-to-b from-transparent to-dark-100/50 relative">
+      <section className="w-90 py-16 md:py-24 bg-gradient-to-b from-transparent to-dark-100/50 relative">
         <div className="container mx-auto px-4 sm:px-6 lg:px-8">
-          <h2 className="text-3xl md:text-4xl lg:text-5xl font-bold text-center mb-12 md:mb-16 text-white">
+          <h2 className="text-3xl md:text-4xl lg:text-5xl font-bold text-center mb-12 md:mb-16 text-white"  id="published">
             Published Games Worked on
           </h2>
           
@@ -279,7 +262,7 @@ const HeroSection = () => {
                           {game.contributions.map((contribution, index) => (
                             <li key={index} className="flex items-start">
                               <span className="text-primary mr-2 mt-2">•</span>
-                              <span>{contribution}</span>
+                              <span className="mt-2">{contribution}</span>
                             </li>
                           ))}
                         </ul>
@@ -394,7 +377,7 @@ const HeroSection = () => {
 
       {/* Gallery/Carousel Section - Ici */}
       <section className="w-full py-16 md:py-24 bg-gradient-to-b from-transparent to-dark-100/50 relative">
-        <div className="container mx-auto px-4 sm:px-6 lg:px-8">
+        <div className="container mx-auto px-4 sm:px-6 lg:px-8" id="expertise">
           <h2 className="text-3xl md:text-4xl lg:text-5xl font-bold text-center mb-12 md:mb-16 text-white">
             Domains of Expertise
           </h2>

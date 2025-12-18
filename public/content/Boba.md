@@ -18,7 +18,7 @@
 <!-- Main Content with Anchor -->
 <h2 style="font-size: 2rem; color: #007bff; margin-bottom: 2rem;margin-left:3.5rem;">🌟 Introduction</h2>
 <div id="introduction" style="display: flex; align-items: flex-start; gap: 2rem; margin: 2rem 0; max-width: 1200px; margin-left: auto; margin-right: auto;">
-    <img src="\imgs\projects\Boba\Boba1.png" 
+    <img src="/imgs/projects/Boba/Boba1.png" 
          alt="Featured Concept Art" 
          style="max-width: 500px; width: 100%; height: auto; border-radius: 8px; object-fit: cover; align-self: center;">
     <div style="flex: 1; padding: 0 15px; color: #fff; text-align: justify; line-height: 1.6; max-width: 600px;">
@@ -64,7 +64,7 @@
 <div style="display: flex; align-items: flex-start; gap: 2rem; margin: 2rem auto; max-width: 1200px;">
     <!-- Image Column (Left) -->
     <div style="flex: 1; min-width: 0; margin-top: 2rem;">
-        <img src="\imgs\projects\Boba\Boba2.png" 
+        <img src="/imgs/projects/Boba/Boba2.png" 
              alt="Featured Concept Art" 
              style="width: 100%; max-width: 500px; height: auto; border-radius: 8px; object-fit: cover;">
     </div>
@@ -111,7 +111,7 @@
         </ul>
     </div>
     <div style="flex: 1; min-width: 0; margin-top: 20rem;">
-        <img src="\imgs\projects\Boba\Boba3.png" 
+        <img src="/imgs/projects/Boba/Boba3.png" 
              alt="Featured Concept Art" 
              style="width: 100%; max-width: 500px; height: auto; border-radius: 8px; object-fit: cover;margin-top:-2rem;">
     </div>

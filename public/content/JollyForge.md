@@ -23,7 +23,7 @@
         <p style="margin-bottom: 4rem; max-width:800px;margin-left:12rem;">
             The Jolly Gift Forge is a game made during a Silent type Jam, the project was passed around to 3 different teams who could not discuss the game concept between each other and had to continue working on what the previous team had made.
         </p>
-        <img src="\imgs\projects\JollyGift\Jolly2.png" alt="Network Diagram" 
+        <img src="/imgs/projects/JollyGift/Jolly2.png" alt="Network Diagram" 
              style="width: 600px; max-width: 150%; border: 1px solid #3d4450; border-radius: 4px;margin-top:3rem;margin-bottom:2rem;margin-left:25%;">
         </div>
     </div>

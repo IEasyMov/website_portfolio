@@ -16,7 +16,7 @@
         <p style="margin-bottom: 4rem;">
             But you’d better be quick, I heard there are issues with public transport in the city tonight.
         </p>
-        <p>/!\ Sadly, since the internship ended, I couldn’t get any images of the game or development.</p>
+        <p>/!/ Sadly, since the internship ended, I couldn’t get any images of the game or development.</p>
         </div>
 <div style="border-top: 1px solid #5f656d;height: 1px;margin: 40px 0;margin-bottom:-3rem;margin-top:3rem;"></div>
 <!-- Main Content with Anchor -->

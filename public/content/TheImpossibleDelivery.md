@@ -24,7 +24,7 @@
         <p style="margin-bottom: 4rem;">
             You are playing as a delivery mail guy, during an apocalypse, you have advanced delivery tweaked weapons and have to use them to defeat the zombies. Use your Mailbox hammer, your letters shotgun and your explosive package to eliminate the zombies trying to reach you and your delivery truck. 
         </p>
-        <img src="\imgs\projects\Impossible\Imp1.jpg" alt="Network Diagram" 
+        <img src="/imgs/projects/Impossible/Imp1.jpg" alt="Network Diagram" 
              style="width: 600px; max-width: 150%; border: 1px solid #3d4450; border-radius: 4px;margin-top:3rem;margin-bottom:2rem;margin-left:25%;">
         </div>
     </div>
@@ -90,12 +90,12 @@
         <h2 style="font-size: 2rem; color: #007bff; margin-bottom:4rem;margin-left:42%;">📸 Visuals</h2>
         <div style="display: flex; gap: 1rem; justify-content: center;margin: 2rem 0;">
             <img 
-                src="\imgs\projects\Impossible\Imp2.jpg" 
+                src="/imgs/projects/Impossible/Imp2.jpg" 
                 alt="Image 1" 
                 style="width: 800px; height: 400px; object-fit: cover; border-radius: 8px;"
             >
             <img 
-                src="\imgs\projects\Impossible\Imp3.jpg" 
+                src="/imgs/projects/Impossible/Imp3.jpg" 
                 alt="Image 1" 
                 style="width: 800px; height: 400px; object-fit: cover; border-radius: 8px;"
             >

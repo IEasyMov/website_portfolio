@@ -32,7 +32,7 @@
             Since playing books were a big part of my childhood, I really wanted the game to spark nostalgia for players like me. I wanted the dialogues and the funny or teasing quotes between the siblings to feel authentic and realistic, creating a sense of attachment to their story.
         </p>
     </div>
-    <img src="\imgs\projects\TUAT\TUAT2.png" 
+    <img src="/imgs/projects/TUAT/TUAT2.png" 
          alt="Featured Concept Art" 
          style="max-width: 500px; width: 100%; height: auto; border-radius: 8px; object-fit: cover; align-self: center; margin-top: 2rem;">
 </div>
@@ -76,7 +76,7 @@
 <div style="display: flex; align-items: flex-start; gap: 2rem; margin: 2rem auto; max-width: 1200px;">
     <!-- Image Column (Left) -->
     <div style="flex: 1; min-width: 0; margin-top: 5rem;">
-        <img src="\imgs\projects\TUAT\TUATImg.jpg" 
+        <img src="/imgs/projects/TUAT/TUATImg.jpg" 
              alt="Featured Concept Art" 
              style="width: 100%; max-width: 500px; height: auto; border-radius: 8px; object-fit: cover;">
     </div>
@@ -100,12 +100,12 @@
 
 <div style="display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap; margin: 2rem 0;">
     <img 
-        src="\imgs\projects\TUAT\TUAT6.png" 
+        src="/imgs/projects/TUAT/TUAT6.png" 
         alt="Image 1" 
         style="width: 150px; height: 300px; object-fit: cover; border-radius: 8px;"
     >
     <img 
-        src="\imgs\projects\TUAT\TUAT7.png" 
+        src="/imgs/projects/TUAT/TUAT7.png" 
         alt="Image 2" 
         style="width: 100px; height: 300px; object-fit: cover; border-radius: 8px;"
     >
@@ -136,9 +136,9 @@
         </ul>
     </div>
     <div style="flex: 1; min-width: 0; margin-top: 4rem;">
-        <img src="\imgs\projects\TUAT\TUAT8.png" alt="this slowpoke moves"  style="width: 100%; max-width: 500px; height: auto; border-radius: 8px; object-fit: cover;margin-top: 0rem;"/>
-        <img src="\imgs\projects\TUAT\TUAT9.png" alt="this slowpoke moves"  style="width: 100%; max-width: 500px; height: auto; border-radius: 8px; object-fit: cover;margin-top: 0rem;"/>
-        <img src="\imgs\projects\TUAT\TUAT11.png" alt="this slowpoke moves"  style="width: 100%; max-width: 500px; height: auto; border-radius: 8px; object-fit: cover;margin-top: 0rem;"/>
+        <img src="/imgs/projects/TUAT/TUAT8.png" alt="this slowpoke moves"  style="width: 100%; max-width: 500px; height: auto; border-radius: 8px; object-fit: cover;margin-top: 0rem;"/>
+        <img src="/imgs/projects/TUAT/TUAT9.png" alt="this slowpoke moves"  style="width: 100%; max-width: 500px; height: auto; border-radius: 8px; object-fit: cover;margin-top: 0rem;"/>
+        <img src="/imgs/projects/TUAT/TUAT11.png" alt="this slowpoke moves"  style="width: 100%; max-width: 500px; height: auto; border-radius: 8px; object-fit: cover;margin-top: 0rem;"/>
     </div>
 </div>  
 <div style="border-top: 1px solid #5f656d;height: 1px;margin: 40px 0;margin-bottom:-2rem;margin-top:3rem;"></div>

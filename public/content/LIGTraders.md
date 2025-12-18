@@ -26,7 +26,7 @@
             Lig Trader is a cooperative game played by four players in two teams of two. The goal? To make as much money as possible!
             To do this, players will have to trade together for different food cards.
         </p>
-        <img src="\imgs\projects\Lig\L1.png" alt="Network Diagram" 
+        <img src="/imgs/projects/Lig/L1.png" alt="Network Diagram" 
              style="width: 600px; max-width: 150%; border: 1px solid #3d4450; border-radius: 4px;margin-top:1rem;margin-bottom:2rem;margin-left:25%;">
         </div>
     </div>
@@ -102,12 +102,12 @@
         <h2 style="font-size: 2rem; color: #007bff; margin-bottom:4rem;margin-left:42%;">📸 Visuals</h2>
         <div style="display: flex; gap: 1rem; justify-content: center;margin: 2rem 0;">
             <img 
-                src="\imgs\projects\Lig\L2.png" 
+                src="/imgs/projects/Lig/L2.png" 
                 alt="Image 1" 
                 style="width: 600px; height: 300px; object-fit: cover; border-radius: 8px;"
             >
             <img 
-                src="\imgs\projects\Lig\L3.png" 
+                src="/imgs/projects/Lig/L3.png" 
                 alt="Image 1" 
                 style="width: 600px; height: 300px; object-fit: cover; border-radius: 8px;"
             >

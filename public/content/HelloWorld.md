@@ -31,7 +31,7 @@
             My goal for the project was to create a small, story-driven interactive game with light gameplay elements, something that would make the player feel like they were truly helping the family.
         </p>
     </div>
-    <img src="\imgs\projects\HelloWorld\HW4.jpg" 
+    <img src="/imgs/projects/HelloWorld/HW4.jpg" 
          alt="Featured Concept Art" 
          style="max-width: 500px; width: 100%; height: auto; border-radius: 8px; object-fit: cover; align-self: center; margin-top: 8rem;">
 </div>
@@ -60,10 +60,10 @@
 <div style="display: flex; align-items: flex-start; gap: 2rem; margin: 2rem auto; max-width: 1200px;">
     <!-- Image Column (Left) -->
     <div style="flex: 1; min-width: 0; margin-top: 2rem;">
-        <img src="\imgs\projects\HelloWorld\HW1.png" 
+        <img src="/imgs/projects/HelloWorld/HW1.png" 
              alt="Featured Concept Art" 
              style="width: 100%; max-width: 500px; height: auto; border-radius: 8px; object-fit: cover;">
-             <img src="\imgs\projects\HelloWorld\HW2.png" 
+             <img src="/imgs/projects/HelloWorld/HW2.png" 
              alt="Featured Concept Art" 
              style="width: 100%; max-width: 500px; height: auto; border-radius: 8px; object-fit: cover;margin-top: 2rem;">
     </div>
@@ -108,7 +108,7 @@
         </ul>
     </div>
     <div style="flex: 1; min-width: 0; margin-top: 4rem;">
-        <img src="\imgs\projects\HelloWorld\HW3.png" alt="this slowpoke moves"  style="width: 100%; max-width: 500px; height: auto; border-radius: 8px; object-fit: cover;margin-top: 4rem;"/>
+        <img src="/imgs/projects/HelloWorld/HW3.png" alt="this slowpoke moves"  style="width: 100%; max-width: 500px; height: auto; border-radius: 8px; object-fit: cover;margin-top: 4rem;"/>
     </div>
 </div>  
 <div style="border-top: 1px solid #5f656d;height: 1px;margin: 40px 0;margin-bottom:-2rem;margin-top:2rem;"></div>

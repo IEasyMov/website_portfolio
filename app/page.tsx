@@ -15,6 +15,7 @@ import Footer from "@/app/_components/Footer";
 
 const navItems = [
   { name: "Home", link: "#home", icon: <House /> },
+  {name: "Expertise", link: "#expertise"},
   { name: "Work", link: "#work", icon: <BriefcaseBusiness /> },
   { name: "Contact", link: "#contact", icon: <ContactIco /> },
 ];
@@ -27,12 +28,12 @@ const Homepage = () => {
         <HeroSection />
         <Skills />
         <ProjectsSection />
-        <GameJamSection />
+        {/* <GameJamSection /> */}
 
         {/* Game Jam Section */}
       <div className="py-32 bg-white dark:bg-dark-100 text-center flex flex-col items-center">
         <p className="text-xl sm:text-2xl md:text-3xl lg:text-4xl font-semibold max-w-3xl leading-snug tracking-wide text-white dark:text-stone-200/90 mb-10">
-          You can look at my Game Jams and Projects on my itch.io page!
+          You can look at my Game Jams on my itch.io page!
         </p>
         <div className="flex justify-center">
           <ShinyButton icon={<ChevronRight />}>

@@ -38,7 +38,7 @@
             My goal for this project was to dive deeper into VR game development and try mixing exploration, survival, and management mechanics with a bit of lore.
         </p>
     </div>
-    <img src="\imgs\projects\OneAndZero\OAZ2.png" 
+    <img src="/imgs/projects/OneAndZero/OAZ2.png" 
          alt="Featured Concept Art" 
          style="max-width: 500px; width: 100%; height: auto; border-radius: 8px; object-fit: cover; align-self: center; margin-top: 10rem;">
 </div>
@@ -64,10 +64,10 @@
 <div style="display: flex; align-items: flex-start; gap: 2rem; margin: 2rem auto; max-width: 1200px;">
     <!-- Image Column (Left) -->
     <div style="flex: 1; min-width: 0; margin-top: 8rem;">
-        <img src="\imgs\projects\OneAndZero\OAZ3.png" 
+        <img src="/imgs/projects/OneAndZero/OAZ3.png" 
              alt="Featured Concept Art" 
              style="width: 100%; max-width: 500px; height: auto; border-radius: 8px; object-fit: cover;">
-             <img src="\imgs\projects\OneAndZero\OAZ4.png" 
+             <img src="/imgs/projects/OneAndZero/OAZ4.png" 
              alt="Featured Concept Art" 
              style="width: 100%; max-width: 500px; height: auto; border-radius: 8px; object-fit: cover;">
     </div>
@@ -97,27 +97,27 @@
 <p style="margin-left:42.5%"><b>Emotions of the Robot</b></p>
 <div style="display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap; margin: 2rem 0;">
     <img 
-        src="\imgs\projects\OneAndZero\Emo1.png" 
+        src="/imgs/projects/OneAndZero/Emo1.png" 
         alt="Image 1" 
         style="width: 200px; height: 200px; object-fit: cover; border-radius: 8px;"
     >
     <img 
-        src="\imgs\projects\OneAndZero\Emo2.png" 
+        src="/imgs/projects/OneAndZero/Emo2.png" 
         alt="Image 2" 
         style="width: 200px; height: 200px; object-fit: cover; border-radius: 8px;"
     >
     <img 
-        src="\imgs\projects\OneAndZero\Emo3.png" 
+        src="/imgs/projects/OneAndZero/Emo3.png" 
         alt="Image 3" 
         style="width: 200px; height: 200px; object-fit: cover; border-radius: 8px;"
     >
     <img 
-        src="\imgs\projects\OneAndZero\Emo4.png" 
+        src="/imgs/projects/OneAndZero/Emo4.png" 
         alt="Image 3" 
         style="width: 200px; height: 200px; object-fit: cover; border-radius: 8px;"
     >
     <img 
-        src="\imgs\projects\OneAndZero\Emo5.png" 
+        src="/imgs/projects/OneAndZero/Emo5.png" 
         alt="Image 3" 
         style="width: 200px; height: 200px; object-fit: cover; border-radius: 8px;"
     >
@@ -147,22 +147,22 @@
         </ul>
     </div>
     <div style="flex: 1; min-width: 0; margin-top: 1rem;">
-        <img src="\imgs\projects\OneAndZero\B1.png" alt="this slowpoke moves"  style="width: 100%; max-width: 500px; height: auto; border-radius: 8px; object-fit: cover;margin-top: 1rem;"/>
-        <img src="\imgs\projects\OneAndZero\B2.png" alt="Featured Concept Art" style="width: 100%; max-width: 500px; height: auto; border-radius: 8px; object-fit: cover;margin-top: 1rem;"/>
-        <img src="\imgs\projects\OneAndZero\B3.png" alt="Featured Concept Art" style="width: 100%; max-width: 500px; height: auto; border-radius: 8px; object-fit: cover;margin-top: 1rem;"/>
+        <img src="/imgs/projects/OneAndZero/B1.png" alt="this slowpoke moves"  style="width: 100%; max-width: 500px; height: auto; border-radius: 8px; object-fit: cover;margin-top: 1rem;"/>
+        <img src="/imgs/projects/OneAndZero/B2.png" alt="Featured Concept Art" style="width: 100%; max-width: 500px; height: auto; border-radius: 8px; object-fit: cover;margin-top: 1rem;"/>
+        <img src="/imgs/projects/OneAndZero/B3.png" alt="Featured Concept Art" style="width: 100%; max-width: 500px; height: auto; border-radius: 8px; object-fit: cover;margin-top: 1rem;"/>
     </div>
 </div>  
 
 <div style="display: flex; align-items: flex-start; gap: 2rem; margin: 2rem auto; max-width: 1200px;">
     <!-- Image Column (Left) -->
     <div style="flex: 1; min-width: 0; margin-top: 8rem;">
-        <img src="\imgs\projects\OneAndZero\C1.png" 
+        <img src="/imgs/projects/OneAndZero/C1.png" 
              alt="Featured Concept Art" 
              style="width: 100%; max-width: 500px; height: auto; border-radius: 8px; object-fit: cover;">
-             <img src="\imgs\projects\OneAndZero\C2.png" 
+             <img src="/imgs/projects/OneAndZero/C2.png" 
              alt="Featured Concept Art" 
              style="width: 100%; max-width: 500px; height: auto; border-radius: 8px; object-fit: cover;">
-             <img src="\imgs\projects\OneAndZero\C3.png" 
+             <img src="/imgs/projects/OneAndZero/C3.png" 
              alt="Featured Concept Art" 
              style="width: 100%; max-width: 500px; height: auto; border-radius: 8px; object-fit: cover;">
     </div>
@@ -223,9 +223,9 @@
         </ul>
     </div>
     <div style="flex: 1; min-width: 0; margin-top: 4rem;">
-        <img src="\imgs\projects\OneAndZero\A1.png" alt="this slowpoke moves"  style="width: 100%; max-width: 500px; height: auto; border-radius: 8px; object-fit: cover;margin-top: 1rem;"/>
-        <img src="\imgs\projects\OneAndZero\A3.png" alt="Featured Concept Art" style="width: 100%; max-width: 500px; height: auto; border-radius: 8px; object-fit: cover;margin-top: 1rem;"/>
-        <img src="\imgs\projects\OneAndZero\A4.png" alt="Featured Concept Art" style="width: 100%; max-width: 500px; height: auto; border-radius: 8px; object-fit: cover;margin-top: 1rem;"/>
+        <img src="/imgs/projects/OneAndZero/A1.png" alt="this slowpoke moves"  style="width: 100%; max-width: 500px; height: auto; border-radius: 8px; object-fit: cover;margin-top: 1rem;"/>
+        <img src="/imgs/projects/OneAndZero/A3.png" alt="Featured Concept Art" style="width: 100%; max-width: 500px; height: auto; border-radius: 8px; object-fit: cover;margin-top: 1rem;"/>
+        <img src="/imgs/projects/OneAndZero/A4.png" alt="Featured Concept Art" style="width: 100%; max-width: 500px; height: auto; border-radius: 8px; object-fit: cover;margin-top: 1rem;"/>
     </div>
 </div>  
 <div style="border-top: 1px solid #5f656d;height: 1px;margin: 40px 0;margin-bottom:-1rem;"></div>

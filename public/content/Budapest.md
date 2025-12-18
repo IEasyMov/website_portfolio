@@ -34,7 +34,7 @@ Warmest regards, M. Gustave H. Concierge of The Grand Budapest"
         <p style="margin-bottom: 4rem; max-width:800px;margin-left:12rem;">
             As Zero, Lobby boy of this prestigious Hotel, make sure your guests are satisfied and the building stays intact for thoses amazing guests and customers.
         </p>
-        <img src="\imgs\projects\Budapest\B2.png" alt="Network Diagram" 
+        <img src="/imgs/projects/Budapest/B2.png" alt="Network Diagram" 
              style="width: 400px; max-width: 150%; border: 1px solid #3d4450; border-radius: 4px;margin-top:3rem;margin-bottom:2rem;margin-left:34%;">
         </div>
     </div>
@@ -92,7 +92,7 @@ Warmest regards, M. Gustave H. Concierge of The Grand Budapest"
         <h2 style="font-size: 2rem; color: #007bff; margin-bottom:4rem;margin-left:42%;">📸 Visuals</h2>
         <div style="display: flex; gap: 1rem; justify-content: center;margin: 2rem 0;">
             <img 
-                src="\imgs\projects\Budapest\B3.png" 
+                src="/imgs/projects/Budapest/B3.png" 
                 alt="Image 1" 
                 style="width: 600px; height: 300px; object-fit: cover; border-radius: 8px;"
             >
