@@ -11,6 +11,11 @@ import { useState, useEffect } from "react";
 const HeroSection = () => {
   const [currentPanel, setCurrentPanel] = useState(0);
   const [currentGame, setCurrentGame] = useState(0);
+  const [isExpertiseVisible, setIsExpertiseVisible] = useState(false);
+  
+  const toggleExpertise = () => {
+    setIsExpertiseVisible(!isExpertiseVisible);
+  };
   
   // Tableau des panels (tu peux en ajouter d'autres plus tard)
   const panels = [
@@ -376,142 +381,160 @@ const HeroSection = () => {
       </section>
 
       {/* Gallery/Carousel Section - Ici */}
-      <section className="w-full py-16 md:py-24 bg-gradient-to-b from-transparent to-dark-100/50 relative">
-        <div className="container mx-auto px-4 sm:px-6 lg:px-8" id="expertise">
-          <h2 className="text-3xl md:text-4xl lg:text-5xl font-bold text-center mb-12 md:mb-16 text-white">
-            Domains of Expertise
-          </h2>
-          
-          <div className="relative max-w-5xl mx-auto">
-            {/* Navigation Buttons */}
-            <button
-              onClick={goToPrevPanel}
-              className="absolute left-0 md:-left-16 top-1/2 -translate-y-1/2 z-20 w-12 h-12 md:w-14 md:h-14 rounded-full bg-dark-200/30 hover:bg-dark-200/50 backdrop-blur-sm border border-white/10 flex items-center justify-center transition-all duration-300 hover:scale-110 hover:border-primary/50"
-              aria-label="Previous panel"
-            >
-              <ChevronLeft className="w-6 h-6 text-white" />
-            </button>
-            
-            <button
-              onClick={goToNextPanel}
-              className="absolute right-0 md:-right-16 top-1/2 -translate-y-1/2 z-20 w-12 h-12 md:w-14 md:h-14 rounded-full bg-dark-200/30 hover:bg-dark-200/50 backdrop-blur-sm border border-white/10 flex items-center justify-center transition-all duration-300 hover:scale-110 hover:border-primary/50"
-              aria-label="Next panel"
-            >
-              <RightIcon className="w-6 h-6 text-white" />
-            </button>
-            
-            {/* Carousel Container */}
-            <div className="-mb-8 relative w-full overflow-hidden rounded-2xl md:rounded-3xl bg-gradient-to-br from-dark-200/20 to-dark-300/20 backdrop-blur-xl border border-white/10 shadow-2xl">
+<section className="w-full py-16 md:py-24 bg-gradient-to-b from-transparent to-dark-100/50 relative">
+  <div className="container mx-auto px-4 sm:px-6 lg:px-8">
+    {/* Titre avec flèche toggle */}
+    <div className=" justify-center items-center gap-4 mb-12 md:mb-16">
+      <h2 className="text-3xl md:text-4xl lg:text-5xl font-bold text-center text-white -mt-32">
+        Domains of Expertise
+      </h2>
+      <h2 className="text-3xl md:text-xl lg:text-x1 text-center text-white ">
+        Game Design, Economic Design & Level Design
+        </h2>
+      <button
+      style={{ marginLeft: '48%', marginTop: "1rem", marginBottom: "-2.5rem"}}
+        onClick={toggleExpertise}
+        className="w-10 h-10 md:w-12 md:h-12 rounded-full bg-dark-200/30 hover:bg-dark-200/50 backdrop-blur-sm border border-white/10 flex items-center justify-center transition-all duration-300 hover:scale-110 hover:border-primary/50 group"
+        aria-label={isExpertiseVisible ? "Hide expertise" : "Show expertise"}
+      >
+        <ChevronRight className={`w-5 h-5 md:w-6 md:h-6 text-white transition-transform duration-300 ${isExpertiseVisible ? 'rotate-90' : ''}`} />
+      </button>
+    </div>
+    
+    {/* Carousel (conditionnel) */}
+    {isExpertiseVisible && (
+      <div className="relative max-w-5xl mx-auto">
+        {/* Navigation Buttons */}
+        <button
+          onClick={goToPrevPanel}
+          className="absolute left-0 md:-left-16 top-1/2 -translate-y-1/2 z-20 w-12 h-12 md:w-14 md:h-14 rounded-full bg-dark-200/30 hover:bg-dark-200/50 backdrop-blur-sm border border-white/10 flex items-center justify-center transition-all duration-300 hover:scale-110 hover:border-primary/50"
+          aria-label="Previous panel"
+        >
+          <ChevronLeft className="w-6 h-6 text-white" />
+        </button>
+        
+        <button
+          onClick={goToNextPanel}
+          className="absolute right-0 md:-right-16 top-1/2 -translate-y-1/2 z-20 w-12 h-12 md:w-14 md:h-14 rounded-full bg-dark-200/30 hover:bg-dark-200/50 backdrop-blur-sm border border-white/10 flex items-center justify-center transition-all duration-300 hover:scale-110 hover:border-primary/50"
+          aria-label="Next panel"
+        >
+          <RightIcon className="w-6 h-6 text-white" />
+        </button>
+        
+        {/* Carousel Container */}
+        <div className="-mb-8 relative w-full overflow-hidden rounded-2xl md:rounded-3xl bg-gradient-to-br from-dark-200/20 to-dark-300/20 backdrop-blur-xl border border-white/10 shadow-2xl">
+          <div 
+            className="flex transition-transform duration-500 ease-out"
+            style={{ transform: `translateX(-${currentPanel * 100}%)` }}
+          >
+            {panels.map((panel) => (
               <div 
-                className="flex transition-transform duration-500 ease-out"
-                style={{ transform: `translateX(-${currentPanel * 100}%)` }}
+                key={panel.id}
+                className="w-full flex-shrink-0 p-16 md:p-14 -ml-4 mr-4 -mb-6"
               >
-                {panels.map((panel) => (
-                  <div 
-                    key={panel.id}
-                    className="w-full flex-shrink-0 p-16 md:p-14 -ml-4 mr-4 -mb-6"
-                  >
-                    <div className="flex flex-col lg:flex-row items-center gap-4 md:gap-8">
-                      {/* Content Section */}
-                      <div className="flex-1 text-left">
-                        <h3 className="text-2xl md:text-3xl lg:text-4xl font-bold mb-6 text-white -mt-20 ml-36">
-                          {panel.title}
-                        </h3>
-                        <div className="my-14 mt-14">
-                          <p className="text-base md:text-lg text-gray-300 mb-6 max-w-2xl">
-                            {panel.description}
-                          </p>
-                          <p className="text-base md:text-lg text-gray-300 mb-6 max-w-2xl">
-                            {panel.description2}
-                          </p>
-                          <p className="text-base md:text-lg text-gray-300 mb-6 max-w-2xl">
-                            {panel.description3}
-                          </p>
-                          <p className="text-base md:text-lg text-gray-300 mb-6 max-w-2xl">
-                            {panel.description4}
-                          </p>
-                          <p className="text-base md:text-lg text-gray-300 mb-6 max-w-2xl">
-                            {panel.description5}
-                          </p>
-                          <p className="text-base md:text-lg text-gray-300 mb-6 max-w-2xl">
-                            {panel.description6}
-                          </p>
-                        </div>
-                        
-                        <div className="flex flex-wrap gap-3 -mt-6">
-                          {panel.skills.map((skill, index) => (
-                            <span
-                              key={index}
-                              className="mt-16 -mb-14 px-4 py-2 rounded-full bg-primary/10 border border-primary/30 text-primary text-sm font-medium backdrop-blur-sm hover:bg-primary/20 transition-colors duration-300"
-                            >
-                              {skill}
-                            </span>
-                          ))}
-                        </div>
+                <div className="flex flex-col lg:flex-row items-center gap-4 md:gap-8">
+                  {/* Content Section */}
+                  <div className="flex-1 text-left">
+                    <h3 className="text-2xl md:text-3xl lg:text-4xl font-bold mb-6 text-white -mt-20 ml-36">
+                      {panel.title}
+                    </h3>
+                    <div className="my-14 mt-14">
+                      <p className="text-base md:text-lg text-gray-300 mb-6 max-w-2xl">
+                        {panel.description}
+                      </p>
+                      <p className="text-base md:text-lg text-gray-300 mb-6 max-w-2xl">
+                        {panel.description2}
+                      </p>
+                      <p className="text-base md:text-lg text-gray-300 mb-6 max-w-2xl">
+                        {panel.description3}
+                      </p>
+                      <p className="text-base md:text-lg text-gray-300 mb-6 max-w-2xl">
+                        {panel.description4}
+                      </p>
+                      <p className="text-base md:text-lg text-gray-300 mb-6 max-w-2xl">
+                        {panel.description5}
+                      </p>
+                      <p className="text-base md:text-lg text-gray-300 mb-6 max-w-2xl">
+                        {panel.description6}
+                      </p>
+                    </div>
+                    
+                    <div className="flex flex-wrap gap-3 -mt-6">
+                      {panel.skills.map((skill, index) => (
+                        <span
+                          key={index}
+                          className="mt-16 -mb-14 px-4 py-2 rounded-full bg-primary/10 border border-primary/30 text-primary text-sm font-medium backdrop-blur-sm hover:bg-primary/20 transition-colors duration-300"
+                        >
+                          {skill}
+                        </span>
+                      ))}
+                    </div>
+                  </div>
+                  <div className="flex-shrink-0 space-y-5 -mr-8">
+                    {/* Première image avec cadre */}
+                    <div className="p-2 -mt-6 bg-primary/30 border border-primary rounded-2xl backdrop-blur-sm">
+                      <div className="w-54 h-46 md:w-80 md:h-55 rounded-xl overflow-hidden">
+                        <img 
+                          src={panel.icon} 
+                          alt={`${panel.title} illustration`}
+                          className="w-full h-full object-cover"
+                        />
                       </div>
-                      <div className="flex-shrink-0 space-y-5 -mr-8">
-                        {/* Première image avec cadre */}
-                        <div className="p-2 -mt-6 bg-primary/30 border border-primary rounded-2xl backdrop-blur-sm">
-                          <div className="w-54 h-46 md:w-80 md:h-55 rounded-xl overflow-hidden">
-                            <img 
-                              src={panel.icon} 
-                              alt={`${panel.title} illustration`}
-                              className="w-full h-full object-cover"
-                            />
-                          </div>
-                        </div>
-                        <div className="p-2 -mt-2 bg-primary/30 border border-primary rounded-2xl backdrop-blur-sm">
-                          <div className="w-54 h-46 md:w-80 md:h-55 rounded-xl overflow-hidden">
-                            <img 
-                              src={panel.icon2} 
-                              alt={`${panel.title} illustration`}
-                              className="w-full h-full object-cover"
-                            />
-                          </div>
-                        </div>
-                        <div className="p-2 -mb-6 bg-primary/30 border border-primary rounded-2xl backdrop-blur-sm">
-                          <div className="w-54 h-46 md:w-80 md:h-55 rounded-xl overflow-hidden">
-                            <img 
-                              src={panel.icon3} 
-                              alt={`${panel.title} illustration`}
-                              className="w-full h-full object-cover"
-                            />
-                          </div>
-                        </div>
+                    </div>
+                    <div className="p-2 -mt-2 bg-primary/30 border border-primary rounded-2xl backdrop-blur-sm">
+                      <div className="w-54 h-46 md:w-80 md:h-55 rounded-xl overflow-hidden">
+                        <img 
+                          src={panel.icon2} 
+                          alt={`${panel.title} illustration`}
+                          className="w-full h-full object-cover"
+                        />
+                      </div>
+                    </div>
+                    <div className="p-2 -mb-6 bg-primary/30 border border-primary rounded-2xl backdrop-blur-sm">
+                      <div className="w-54 h-46 md:w-80 md:h-55 rounded-xl overflow-hidden">
+                        <img 
+                          src={panel.icon3} 
+                          alt={`${panel.title} illustration`}
+                          className="w-full h-full object-cover"
+                        />
                       </div>
                     </div>
                   </div>
-                ))}
+                </div>
               </div>
-            </div>
-            
-            {/* Pagination Dots */}
-            <div className="flex justify-center gap-3 mt-8 md:mt-12">
-              {panels.map((_, index) => (
-                <button
-                  key={index}
-                  onClick={() => goToPanel(index)}
-                  className={`w-3 h-3 rounded-full transition-all duration-300 ${
-                    index === currentPanel 
-                      ? 'bg-primary w-8' 
-                      : 'bg-gray-600 hover:bg-gray-500'
-                  }`}
-                  aria-label={`Go to panel ${index + 1}`}
-                />
-              ))}
-            </div>
-            
-            {/* Panel Counter */}
-            <div className="text-center mt-6 -mb-16 text-gray-400 text-sm md:text-base">
-              <span className="text-primary font-semibold">{currentPanel + 1}</span>
-              <span className="mx-2">/</span>
-              <span>{panels.length}</span>
-            </div>
+            ))}
           </div>
         </div>
-      </section>
+        
+        {/* Pagination Dots */}
+        <div className="flex justify-center gap-3 mt-8 md:mt-12">
+          {panels.map((_, index) => (
+            <button
+              key={index}
+              onClick={() => goToPanel(index)}
+              className={`w-3 h-3 rounded-full transition-all duration-300 ${
+                index === currentPanel 
+                  ? 'bg-primary w-8' 
+                  : 'bg-gray-600 hover:bg-gray-500'
+              }`}
+              aria-label={`Go to panel ${index + 1}`}
+            />
+          ))}
+        </div>
+        
+        {/* Panel Counter */}
+        <div className="text-center mt-6 -mb-16 text-gray-400 text-sm md:text-base">
+          <span className="text-primary font-semibold">{currentPanel + 1}</span>
+          <span className="mx-2">/</span>
+          <span>{panels.length}</span>
+        </div>
+      </div>
+    )}
+  </div>
+</section>
     </>
   );
 };
+
 
 export default HeroSection;

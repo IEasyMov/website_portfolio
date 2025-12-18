@@ -13,9 +13,9 @@ const Skills = () => {
           whileInView={{ opacity: 1, x: 0 }}
           viewport={{ once: true }}
           transition={{ duration: 0.5, delay: 0.25 }}
-          className="text-3xl min-[430px]:text-4xl md:text-5xl font-bold dark:text-stone-200"
+          className="text-3xl min-[430px]:text-4xl md:text-5xl font-bold dark:text-stone-200 -mt-20"
         >
-          Game Engines & Tools -
+          Game Engines & Tools 
         </motion.h1>
         <motion.p
           initial={{ opacity: 0, x: -90 }}

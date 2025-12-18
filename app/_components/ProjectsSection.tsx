@@ -40,7 +40,7 @@ const ProjectsSection = () => {
           transition={{ duration: 0.5, delay: 0.25 }}
           className="text-3xl min-[430px]:text-4xl md:text-5xl font-bold dark:text-stone-200 "
         >
-          My Works and Projects -
+          My Works and Projects 
         </motion.h1>
       </div>
       <div className="flex gap-4 flex-col sm:flex-row sm:items-center justify-between Flex alignItems=center">
