@@ -15,6 +15,12 @@ export const techCardsItems = [
     bgColor: "bg-[#FFFFFF]/15",
   },
   {
+    name: "Slack",
+    description: "Communication and exchange with workmates",
+    imageUrl: "/imgs/logos/slack-icon-original.svg",
+    bgColor: "bg-[#ffffff]",
+  },
+  {
     name: "Miro",
     description: "Brainstorming and creative conception",
     imageUrl: "/imgs/logos/MiroLogo.svg",
@@ -27,10 +33,22 @@ export const techCardsItems = [
     bgColor: "bg-[#ffffff]",
   },
   {
-    name: "Git",
+    name: "Github",
     description: "Versionning and project sharing",
     imageUrl: "/imgs/logos/git.svg",
     bgColor: "bg-[#F1502F]/15",
+  },
+  {
+    name: "Canvas",
+    description: "Game Design documents and presentations",
+    imageUrl: "/imgs/logos/canva-icon.svg",
+    bgColor: "bg-[#ffffff]",
+  },
+  {
+    name: "Jira",
+    description: "Organization and task management",
+    imageUrl: "/imgs/logos/jira-1.svg",
+    bgColor: "bg-[#ffffff]",
   },
 ];
 
@@ -79,8 +97,7 @@ export const portfolioProjects: ProjectProps[] = [
       liveDemoUrl: "",
       videoUrl: "",
       videoGameplayUrl: "",
-      // contentPath: "/content/OneZero.md",
-      contentPath: "/content/WorkInProgress.md",
+      contentPath: "/content/OneZero.md",
     },
     {
       id: "pacosanatomy",
@@ -352,33 +369,33 @@ export const portfolioProjects: ProjectProps[] = [
       videoGameplayUrl: "",
       contentPath: "/content/Workhorse.md",
     },
-    {
-      id: "alzmemory",
-      heading: "AlzMemory?",
-      subheading: "",
-      imageUrl: "/imgs/projects/Alz/AlzPP1.png",
-      techStack: [
-        "",
-      ],
-      techStackEngine: [
-        "Unity"
-      ],
-      techStackAbout: [
-        "Narrative Game",
-        "Short experience"
-      ],
-      techStackSize: [
-        "Made in 3 Weeks",
-        "Team of 5"
-      ],
-      techStackAward: [
-        "Hauts-de-Seine Festival Nominee"
-      ],
-      liveDemoUrl: "",
-      videoUrl: "",
-      videoGameplayUrl: "",
-      contentPath: "/content/AlzMemory.md",
-    },
+    // {
+    //   id: "alzmemory",
+    //   heading: "AlzMemory?",
+    //   subheading: "",
+    //   imageUrl: "/imgs/projects/Alz/AlzPP1.png",
+    //   techStack: [
+    //     "",
+    //   ],
+    //   techStackEngine: [
+    //     "Unity"
+    //   ],
+    //   techStackAbout: [
+    //     "Narrative Game",
+    //     "Short experience"
+    //   ],
+    //   techStackSize: [
+    //     "Made in 3 Weeks",
+    //     "Team of 5"
+    //   ],
+    //   techStackAward: [
+    //     "Hauts-de-Seine Festival Nominee"
+    //   ],
+    //   liveDemoUrl: "",
+    //   videoUrl: "",
+    //   videoGameplayUrl: "",
+    //   contentPath: "/content/AlzMemory.md",
+    // },
     {
       id: "tcmc",
       heading: "The Cryptic Mutation Conundrum",
@@ -410,97 +427,97 @@ export const portfolioProjects: ProjectProps[] = [
       // contentPath: "/content/TCMC.md",
       contentPath: "/content/WorkInProgress.md",
     },
-    {
-      id: "medievaltavern",
-      heading: "Medieval Tavern",
-      subheading: "",
-      imageUrl: "/imgs/projects/ProjectLogos/Medieval.png",
-      techStack: [
-        ""
-      ],
-      techStackEngine: [
-        "Unity"
-      ],
-      techStackAbout: [
-        "Tavern Managemement",
-        "Gestion Game",
-        "Economic Simulation"
-      ],
-      techStackSize: [
-        "Prototype",
-        "Made in 4 Months",
-        "Solo Made"
-      ],
-      techStackAward: [
-        ""
-      ],
-      liveDemoUrl: "",
-      videoUrl: "",
-      videoGameplayUrl: "",
-      // contentPath: "/content/MedievalTavern.md",
-      contentPath: "/content/WorkInProgress.md",
-    },
-    {
-      id: "percevalsjourney",
-      heading: "Perceval's Journey",
-      subheading: "",
-      imageUrl: "/imgs/projects/ProjectLogos/Perceval.png",
-      techStack: [
-        ""
-      ],
-      techStackEngine: [
-        "Unity"
-      ],
-      techStackAbout: [
-        "Fighting Game",
-        "Narration",
-        "Short Experience"
-      ],
-      techStackSize: [
-        "Made in 2 Months",
-        "Solo Made"
-      ],
-      techStackAward: [
-        ""
-      ],
-      liveDemoUrl: "",
-      videoUrl: "",
-      videoGameplayUrl: "",
-      // contentPath: "/content/PercevalsJourney.md",
-      contentPath: "/content/WorkInProgress.md",
-    },
+    // {
+    //   id: "medievaltavern",
+    //   heading: "Medieval Tavern",
+    //   subheading: "",
+    //   imageUrl: "/imgs/projects/ProjectLogos/Medieval.png",
+    //   techStack: [
+    //     ""
+    //   ],
+    //   techStackEngine: [
+    //     "Unity"
+    //   ],
+    //   techStackAbout: [
+    //     "Tavern Managemement",
+    //     "Gestion Game",
+    //     "Economic Simulation"
+    //   ],
+    //   techStackSize: [
+    //     "Prototype",
+    //     "Made in 4 Months",
+    //     "Solo Made"
+    //   ],
+    //   techStackAward: [
+    //     ""
+    //   ],
+    //   liveDemoUrl: "",
+    //   videoUrl: "",
+    //   videoGameplayUrl: "",
+    //   // contentPath: "/content/MedievalTavern.md",
+    //   contentPath: "/content/WorkInProgress.md",
+    // },
+    // {
+    //   id: "percevalsjourney",
+    //   heading: "Perceval's Journey",
+    //   subheading: "",
+    //   imageUrl: "/imgs/projects/ProjectLogos/Perceval.png",
+    //   techStack: [
+    //     ""
+    //   ],
+    //   techStackEngine: [
+    //     "Unity"
+    //   ],
+    //   techStackAbout: [
+    //     "Fighting Game",
+    //     "Narration",
+    //     "Short Experience"
+    //   ],
+    //   techStackSize: [
+    //     "Made in 2 Months",
+    //     "Solo Made"
+    //   ],
+    //   techStackAward: [
+    //     ""
+    //   ],
+    //   liveDemoUrl: "",
+    //   videoUrl: "",
+    //   videoGameplayUrl: "",
+    //   // contentPath: "/content/PercevalsJourney.md",
+    //   contentPath: "/content/WorkInProgress.md",
+    // },
 ];
 
 export const portfolioGameJam: ProjectProps[] = [
-  {
-      id: "budapest",
-      heading: "Echoes of Budapest",
-      subheading: "",
-      imageUrl: "/imgs/projects/Budapest/B1.png",
-      techStack: [
-        ""
-      ],
-      techStackEngine: [
-        "Unity"
-      ],
-      techStackAbout: [
-        "Short Game",
-        "Hotel Simulator",
-        "Inspired by movie",
-        "Wes Anderson - Theme"
-      ],
-      techStackSize: [
-        "Made in 15 Days",
-        "Solo"
-      ],
-      techStackAward: [
-        ""
-      ],
-      liveDemoUrl: "",
-      videoUrl: "",
-      videoGameplayUrl: "",
-      contentPath: "/content/Budapest.md",
-    },
+  // {
+  //     id: "budapest",
+  //     heading: "Echoes of Budapest",
+  //     subheading: "",
+  //     imageUrl: "/imgs/projects/Budapest/B1.png",
+  //     techStack: [
+  //       ""
+  //     ],
+  //     techStackEngine: [
+  //       "Unity"
+  //     ],
+  //     techStackAbout: [
+  //       "Short Game",
+  //       "Hotel Simulator",
+  //       "Inspired by movie",
+  //       "Wes Anderson - Theme"
+  //     ],
+  //     techStackSize: [
+  //       "Made in 15 Days",
+  //       "Solo"
+  //     ],
+  //     techStackAward: [
+  //       ""
+  //     ],
+  //     liveDemoUrl: "",
+  //     videoUrl: "",
+  //     videoGameplayUrl: "",
+  //     contentPath: "/content/Budapest.md",
+  //   },
     {
       id: "harpoon",
       heading: "Harpoon them all!",
@@ -562,35 +579,35 @@ export const portfolioGameJam: ProjectProps[] = [
     videoGameplayUrl: "",
     contentPath: "/content/Boba.md",
   },
-  {
-    id: "botanicnightmare",
-    heading: "Botanic Nightmare",
-    subheading: "",
-    imageUrl: "/imgs/projects/ProjectLogos/Botanic.png",
-    techStack: [
-      ""
-    ],
-    techStackEngine: [
-      "Unity",
-      "Itch.io Published"
-    ],
-    techStackAbout: [
-      "Action Game",
-      "Short Experience",
-      "Living & Machines - Theme"
-    ],
-    techStackSize: [
-      "Made in 3 Days",
-      "Solo Made"
-    ],
-    techStackAward: [
-      "CS-Studio GameJam Winner"
-    ],
-    liveDemoUrl: "",
-    videoUrl: "",
-    videoGameplayUrl: "",
-    contentPath: "/content/BotanicNightmare.md",
-  },
+  // {
+  //   id: "botanicnightmare",
+  //   heading: "Botanic Nightmare",
+  //   subheading: "",
+  //   imageUrl: "/imgs/projects/ProjectLogos/Botanic.png",
+  //   techStack: [
+  //     ""
+  //   ],
+  //   techStackEngine: [
+  //     "Unity",
+  //     "Itch.io Published"
+  //   ],
+  //   techStackAbout: [
+  //     "Action Game",
+  //     "Short Experience",
+  //     "Living & Machines - Theme"
+  //   ],
+  //   techStackSize: [
+  //     "Made in 3 Days",
+  //     "Solo Made"
+  //   ],
+  //   techStackAward: [
+  //     "CS-Studio GameJam Winner"
+  //   ],
+  //   liveDemoUrl: "",
+  //   videoUrl: "",
+  //   videoGameplayUrl: "",
+  //   contentPath: "/content/BotanicNightmare.md",
+  // },
   {
       id: "ligtraders",
       heading: "LIG Traders",
