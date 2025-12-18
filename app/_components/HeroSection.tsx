@@ -17,9 +17,9 @@ const HeroSection = () => {
     {
       id: 0,
       title: "Game Design",
-      icon: "imgs/Panels/ScreenGD1.PNG",
-      icon2: "imgs/Panels/ScreenGD2.PNG",
-      icon3: "imgs/Panels/ScreenGD3.PNG",
+      icon: "/imgs/Panels/ScreenGD1.PNG",
+      icon2: "/imgs/Panels/ScreenGD2.PNG",
+      icon3: "/imgs/Panels/ScreenGD3.PNG",
       description: "- Design the core gameplay adapting the project ideas",
       description2: "- Prototype, test, and iterate features & mechanics on my own",
       description3: "- Game Design Documents clear and well structured",
@@ -31,9 +31,9 @@ const HeroSection = () => {
     {
       id: 1,
       title: "Economic Design",
-      icon: "imgs/Panels/ScreenED2.PNG",
-      icon2: "imgs/Panels/ScreenED3.PNG",
-      icon3: "imgs/Panels/ScreenED4.PNG",
+      icon: "/imgs/Panels/ScreenED2.PNG",
+      icon2: "/imgs/Panels/ScreenED3.PNG",
+      icon3: "/imgs/Panels/ScreenED4.PNG",
       description: "- Design and manage the currencies, resources, and rewards",
       description2: "- Balance progression, costs and rewards across gameplay systems",
       description3: "- Analyze player behavior and data to adjust economic balance",
@@ -45,9 +45,9 @@ const HeroSection = () => {
     {
       id: 2,
       title: "Level Design",
-      icon: "imgs/Panels/ScreenLD1.PNG",
-      icon2: "imgs/Panels/ScreenLD3.PNG",
-      icon3: "imgs/Panels/ScreenLD5.PNG",
+      icon: "/imgs/Panels/ScreenLD1.PNG",
+      icon2: "/imgs/Panels/ScreenLD3.PNG",
+      icon3: "/imgs/Panels/ScreenLD5.PNG",
       description: "- Conception of Blockout for quick and basic iterations",
       description2: "- Logical positionnement of encounters, objectives and interactive elements to maximize the flow",
       description4: "- Balancing the readability and difficulty of the pacing",
@@ -61,10 +61,10 @@ const HeroSection = () => {
   const publishedGames = [
     {
       id: 0,
-      mainImage: "imgs/Published/Flashback/Logo.PNG",
+      mainImage: "/imgs/Published/Flashback/Logo.PNG",
       videoUrl: "https://www.youtube.com/embed/3Qze73xgXn4?autoplay=1&mute=1&controls=1",
-      videoImage: "imgs/Published/Flashback/Banner.PNG",
-      priceImage: "imgs/Published/Flashback/Price.PNG",
+      videoImage: "/imgs/Published/Flashback/Banner.PNG",
+      priceImage: "/imgs/Published/Flashback/Price.PNG",
       storeUrl: "https://store.steampowered.com/app/1234567", // ← AJOUTE ICI
 
       contributions: [
@@ -83,11 +83,11 @@ const HeroSection = () => {
     {
       id: 1,
       title: "PROJET 2",
-      mainImage: "imgs/Panels/ScreenED3.PNG", // À remplacer par tes images
-      bottomImage: "imgs/Panels/ScreenED4.PNG",
+      mainImage: "/imgs/Panels/ScreenED3.PNG", // À remplacer par tes images
+      bottomImage: "/imgs/Panels/ScreenED4.PNG",
       videoUrl: "https://www.youtube.com/embed/VIDEO_ID_2", // À remplacer
-      videoImage: "imgs/Panels/ScreenLD1.PNG",
-      finalImage: "imgs/Panels/ScreenLD3.PNG",
+      videoImage: "/imgs/Panels/ScreenLD1.PNG",
+      finalImage: "/imgs/Panels/ScreenLD3.PNG",
       contributions: [
         "Contribution 1 du projet 2",
         "Contribution 2 du projet 2",

@@ -38,7 +38,7 @@
         </p>
         <p>The production was already well advanced, so I had very specific tasks, mostly to support the smooth continuation of development.</p>
     </div>
-    <img src="\imgs\projects\Amerzone\Amerzone1.jpg" 
+    <img src="/imgs/projects/Amerzone/Amerzone1.jpg" 
          alt="Featured Concept Art" 
          style="max-width: 500px; width: 100%; height: auto; border-radius: 8px; object-fit: cover; align-self: center; margin-top: 10rem;">
 </div>
@@ -64,10 +64,10 @@
 <div style="display: flex; align-items: flex-start; gap: 2rem; margin: 2rem auto; max-width: 1200px;">
     <!-- Image Column (Left) -->
     <div style="flex: 1; min-width: 0; margin-top: 4rem;">
-        <img src="\imgs\projects\Amerzone\Amerzone3.jpg" 
+        <img src="/imgs/projects/Amerzone/Amerzone3.jpg" 
              alt="Featured Concept Art" 
              style="width: 100%; max-width: 500px; height: auto; border-radius: 8px; object-fit: cover;">
-             <img src="\imgs\projects\Amerzone\Amerzone4.jpg" 
+             <img src="/imgs/projects/Amerzone/Amerzone4.jpg" 
              alt="Featured Concept Art" 
              style="width: 100%; max-width: 500px; height: auto; border-radius: 8px; object-fit: cover;">
     </div>
@@ -115,8 +115,8 @@
         </ul>
     </div>
     <div style="flex: 1; min-width: 0; margin-top: 5rem;">
-        <img src="\imgs\projects\Amerzone\Amerzone2.jpg" alt="this slowpoke moves"  style="width: 100%; max-width: 500px; height: auto; border-radius: 8px; object-fit: cover;margin-top: 4rem;"/>
-        <img src="\imgs\projects\Amerzone\Amerzone5.jpg" alt="this slowpoke moves"  style="width: 100%; max-width: 500px; height: auto; border-radius: 8px; object-fit: cover;margin-top: 4rem;"/>
+        <img src="/imgs/projects/Amerzone/Amerzone2.jpg" alt="this slowpoke moves"  style="width: 100%; max-width: 500px; height: auto; border-radius: 8px; object-fit: cover;margin-top: 4rem;"/>
+        <img src="/imgs/projects/Amerzone/Amerzone5.jpg" alt="this slowpoke moves"  style="width: 100%; max-width: 500px; height: auto; border-radius: 8px; object-fit: cover;margin-top: 4rem;"/>
     </div>
 </div>  
 <div style="border-top: 1px solid #5f656d;height: 1px;margin: 40px 0;margin-bottom:0rem;margin-top:3rem;"></div>
