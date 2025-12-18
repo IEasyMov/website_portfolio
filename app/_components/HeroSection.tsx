@@ -229,7 +229,7 @@ const HeroSection = () => {
             
             {/* Carousel Container */}
             <div className="relative w-full overflow-hidden rounded-2xl md:rounded-3xl bg-gradient-to-br from-dark-200/20 to-dark-300/20 backdrop-blur-xl border border-white/10 shadow-2xl">
-            <img src="/imgs/Published/Background.png"
+            <img src="/imgs/Published/Background.PNG"
       alt="Background"
       className="w-full h-full object-cover absolute">
             
