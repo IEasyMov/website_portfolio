@@ -162,7 +162,7 @@ const HeroSection = () => {
             style={{ aspectRatio: "1 / 1" }}
           >
             <img
-              src="imgs/avatars/ProfilePicture.jpg"
+              src="/imgs/avatars/ProfilePicture.jpg"
               alt="Profile"
               className="w-full h-full object-cover"
             />
@@ -229,7 +229,7 @@ const HeroSection = () => {
             
             {/* Carousel Container */}
             <div className="relative w-full overflow-hidden rounded-2xl md:rounded-3xl bg-gradient-to-br from-dark-200/20 to-dark-300/20 backdrop-blur-xl border border-white/10 shadow-2xl">
-            <img src="imgs/Published/Background.png"
+            <img src="/imgs/Published/Background.png"
       alt="Background"
       className="w-full h-full object-cover absolute">
             
