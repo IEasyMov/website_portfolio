@@ -189,7 +189,7 @@ const HeroSection = () => {
               <Link href="/#work">See My Work</Link>
             </ShinyButton> */}
             <a
-              href="/resume/Foussat_Alexandre_Resume.pdf"
+              href="/resume/Resume_FOUSSAT_Alexandre.pdf"
               download
               className="flex items-center gap-3 group"
             >
