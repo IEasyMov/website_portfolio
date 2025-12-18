@@ -22,9 +22,9 @@ const HeroSection = () => {
     {
       id: 0,
       title: "Game Design",
-      icon: "/imgs/Panels/ScreenGD1.PNG",
-      icon2: "/imgs/Panels/ScreenGD2.PNG",
-      icon3: "/imgs/Panels/ScreenGD3.PNG",
+      icon: "/imgs/Panels/ScreenGD1.png",
+      icon2: "/imgs/Panels/ScreenGD2.png",
+      icon3: "/imgs/Panels/ScreenGD3.png",
       description: "- Design the core gameplay adapting the project ideas",
       description2: "- Prototype, test, and iterate features & mechanics on my own",
       description3: "- Game Design Documents clear and well structured",
@@ -36,9 +36,9 @@ const HeroSection = () => {
     {
       id: 1,
       title: "Economic Design",
-      icon: "/imgs/Panels/ScreenED2.PNG",
-      icon2: "/imgs/Panels/ScreenED3.PNG",
-      icon3: "/imgs/Panels/ScreenED4.PNG",
+      icon: "/imgs/Panels/ScreenED2.png",
+      icon2: "/imgs/Panels/ScreenED3.png",
+      icon3: "/imgs/Panels/ScreenED4.png",
       description: "- Design and manage the currencies, resources, and rewards",
       description2: "- Balance progression, costs and rewards across gameplay systems",
       description3: "- Analyze player behavior and data to adjust economic balance",
@@ -50,9 +50,9 @@ const HeroSection = () => {
     {
       id: 2,
       title: "Level Design",
-      icon: "/imgs/Panels/ScreenLD1.PNG",
-      icon2: "/imgs/Panels/ScreenLD3.PNG",
-      icon3: "/imgs/Panels/ScreenLD5.PNG",
+      icon: "/imgs/Panels/ScreenLD1.png",
+      icon2: "/imgs/Panels/ScreenLD3.png",
+      icon3: "/imgs/Panels/ScreenLD5.png",
       description: "- Conception of Blockout for quick and basic iterations",
       description2: "- Logical positionnement of encounters, objectives and interactive elements to maximize the flow",
       description4: "- Balancing the readability and difficulty of the pacing",
@@ -67,10 +67,10 @@ const HeroSection = () => {
     {
       id: 0,
       title: "Flashback 2",
-      mainImage: "/imgs/Published/Flashback/Logo.PNG",
+      mainImage: "/imgs/Published/Flashback/Logo.png",
       videoUrl: "https://www.youtube.com/embed/3Qze73xgXn4?autoplay=1&mute=1&controls=1",
-      videoImage: "/imgs/Published/Flashback/Banner.PNG",
-      priceImage: "/imgs/Published/Flashback/Price.PNG",
+      videoImage: "/imgs/Published/Flashback/Banner.png",
+      priceImage: "/imgs/Published/Flashback/Price.png",
       storeUrl: "https://store.steampowered.com/app/2008420/Flashback_2/", // ← AJOUTE ICI
 
       contributions: [
@@ -89,10 +89,10 @@ const HeroSection = () => {
     {
       id: 1,
       title: "L'Amerzone",
-      mainImage: "/imgs/Published/Amerzone/Logo2.PNG",
+      mainImage: "/imgs/Published/Amerzone/Logo2.png",
       videoUrl: "https://www.youtube.com/embed/I-Ch7cODZ14?autoplay=1&mute=1&controls=1",
-      videoImage: "/imgs/Published/Amerzone/Banner.PNG",
-      priceImage: "/imgs/Published/Flashback/Price.PNG",
+      videoImage: "/imgs/Published/Amerzone/Banner.png",
+      priceImage: "/imgs/Published/Flashback/Price.png",
       storeUrl: "https://store.steampowered.com/app/2429190/LAmerzone__Le_Testament_de_lExplorateur/", // ← AJOUTE ICI
 
       contributions: [
@@ -184,7 +184,7 @@ const HeroSection = () => {
           </p>
 
           {/* Buttons */}
-          <div className="flex flex-col sm:flex-row items-center gap-8">
+          <div className="flex flex-col sm:flex-row items-center gap-8 -mb-32">
             {/* <ShinyButton icon={<ChevronRight />}>
               <Link href="/#work">See My Work</Link>
             </ShinyButton> */}
@@ -229,7 +229,7 @@ const HeroSection = () => {
             
             {/* Carousel Container */}
             <div className="relative w-full overflow-hidden rounded-2xl md:rounded-3xl bg-gradient-to-br from-dark-200/20 to-dark-300/20 backdrop-blur-xl border border-white/10 shadow-2xl">
-            <img src="imgs/Published/Background.PNG"
+            <img src="imgs/Published/Background.png"
       alt="Background"
       className="w-full h-full object-cover absolute">
             
